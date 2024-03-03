@@ -1,0 +1,3572 @@
+// Mentorship Tree
+digraph {
+	node [fontname="Microsoft YaHei"]
+	"张三禄" [label="张三禄" margin="0.1,0.05" shape=box style=rounded]
+	"朱绍文" [label="朱绍文" margin="0.1,0.05" shape=box style=rounded]
+	"张三禄" -> "朱绍文"
+	"阿彦涛" [label="阿彦涛" margin="0.1,0.05" shape=box style=rounded]
+	"张三禄" -> "阿彦涛"
+	"沈春和" [label="沈春和" margin="0.1,0.05" shape=box style=rounded]
+	"张三禄" -> "沈春和"
+	"朱绍文" [label="朱绍文" margin="0.1,0.05" shape=box style=rounded]
+	"贫有本" [label="贫有本" margin="0.1,0.05" shape=box style=rounded]
+	"朱绍文" -> "贫有本"
+	"范长利" [label="范长利" margin="0.1,0.05" shape=box style=rounded]
+	"朱绍文" -> "范长利"
+	"富有根" [label="富有根" margin="0.1,0.05" shape=box style=rounded]
+	"朱绍文" -> "富有根"
+	"徐长福" [label="徐长福" margin="0.1,0.05" shape=box style=rounded]
+	"朱绍文" -> "徐长福"
+	"沈竹善" [label="沈竹善" margin="0.1,0.05" shape=box style=rounded]
+	"朱绍文" -> "沈竹善"
+	"阿彦涛" [label="阿彦涛" margin="0.1,0.05" shape=box style=rounded]
+	"恩绪" [label="恩绪" margin="0.1,0.05" shape=box style=rounded]
+	"阿彦涛" -> "恩绪"
+	"高闻奎" [label="高闻奎" margin="0.1,0.05" shape=box style=rounded]
+	"阿彦涛" -> "高闻奎"
+	"春长隆" [label="春长隆" margin="0.1,0.05" shape=box style=rounded]
+	"阿彦涛" -> "春长隆"
+	"沈春和" [label="沈春和" margin="0.1,0.05" shape=box style=rounded]
+	"冯昆治" [label="冯昆治" margin="0.1,0.05" shape=box style=rounded]
+	"沈春和" -> "冯昆治"
+	"高闻元" [label="高闻元" margin="0.1,0.05" shape=box style=rounded]
+	"沈春和" -> "高闻元"
+	"魏昆治" [label="魏昆治" margin="0.1,0.05" shape=box style=rounded]
+	"沈春和" -> "魏昆治"
+	"王有道" [label="王有道" margin="0.1,0.05" shape=box style=rounded]
+	"沈春和" -> "王有道"
+	"李长春" [label="李长春" margin="0.1,0.05" shape=box style=rounded]
+	"沈春和" -> "李长春"
+	"裕二福" [label="裕二福" margin="0.1,0.05" shape=box style=rounded]
+	"沈春和" -> "裕二福"
+	"恩绪" [label="恩绪" margin="0.1,0.05" shape=box style=rounded]
+	"李德钖" [label="李德钖" margin="0.1,0.05" shape=box style=rounded]
+	"恩绪" -> "李德钖"
+	"李德祥" [label="李德祥" margin="0.1,0.05" shape=box style=rounded]
+	"恩绪" -> "李德祥"
+	"张德泉" [label="张德泉" margin="0.1,0.05" shape=box style=rounded]
+	"恩绪" -> "张德泉"
+	"华子元" [label="华子元" margin="0.1,0.05" shape=box style=rounded]
+	"恩绪" -> "华子元"
+	"来德如" [label="来德如" margin="0.1,0.05" shape=box style=rounded]
+	"恩绪" -> "来德如"
+	"王葆山" [label="王葆山" margin="0.1,0.05" shape=box style=rounded]
+	"恩绪" -> "王葆山"
+	"广阔泉" [label="广阔泉" margin="0.1,0.05" shape=box style=rounded]
+	"恩绪" -> "广阔泉"
+	"高玉峰" [label="高玉峰" margin="0.1,0.05" shape=box style=rounded]
+	"恩绪" -> "高玉峰"
+	"谢芮芝" [label="谢芮芝" margin="0.1,0.05" shape=box style=rounded]
+	"恩绪" -> "谢芮芝"
+	"骆采舞" [label="骆采舞" margin="0.1,0.05" shape=box style=rounded]
+	"恩绪" -> "骆采舞"
+	"戴致斋" [label="戴致斋" margin="0.1,0.05" shape=box style=rounded]
+	"恩绪" -> "戴致斋"
+	"陈子贞" [label="陈子贞" margin="0.1,0.05" shape=box style=rounded]
+	"恩绪" -> "陈子贞"
+	"桂祯" [label="桂祯" margin="0.1,0.05" shape=box style=rounded]
+	"裕德隆" [label="裕德隆" margin="0.1,0.05" shape=box style=rounded]
+	"桂祯" -> "裕德隆"
+	"玉来子" [label="玉来子" margin="0.1,0.05" shape=box style=rounded]
+	"桂祯" -> "玉来子"
+	"徐长福" [label="徐长福" margin="0.1,0.05" shape=box style=rounded]
+	"焦德海" [label="焦德海" margin="0.1,0.05" shape=box style=rounded]
+	"徐长福" -> "焦德海"
+	"徐茂昌" [label="徐茂昌" margin="0.1,0.05" shape=box style=rounded]
+	"徐长福" -> "徐茂昌"
+	"刘德智" [label="刘德智" margin="0.1,0.05" shape=box style=rounded]
+	"徐长福" -> "刘德智"
+	"冯昆治" [label="冯昆治" margin="0.1,0.05" shape=box style=rounded]
+	"高德明" [label="高德明" margin="0.1,0.05" shape=box style=rounded]
+	"冯昆治" -> "高德明"
+	"吉坪三" [label="吉坪三" margin="0.1,0.05" shape=box style=rounded]
+	"冯昆治" -> "吉坪三"
+	"高德光" [label="高德光" margin="0.1,0.05" shape=box style=rounded]
+	"冯昆治" -> "高德光"
+	"高德亮" [label="高德亮" margin="0.1,0.05" shape=box style=rounded]
+	"冯昆治" -> "高德亮"
+	"常葆臣" [label="常葆臣" margin="0.1,0.05" shape=box style=rounded]
+	"冯昆治" -> "常葆臣"
+	"郭伯山" [label="郭伯山" margin="0.1,0.05" shape=box style=rounded]
+	"冯昆治" -> "郭伯山"
+	"春长隆" [label="春长隆" margin="0.1,0.05" shape=box style=rounded]
+	"马德禄" [label="马德禄" margin="0.1,0.05" shape=box style=rounded]
+	"春长隆" -> "马德禄"
+	"高闻元" [label="高闻元" margin="0.1,0.05" shape=box style=rounded]
+	"唐玉福" [label="唐玉福" margin="0.1,0.05" shape=box style=rounded]
+	"高闻元" -> "唐玉福"
+	"李万兴" [label="李万兴" margin="0.1,0.05" shape=box style=rounded]
+	"高闻元" -> "李万兴"
+	"张杰尧" [label="张杰尧" margin="0.1,0.05" shape=box style=rounded]
+	"高闻元" -> "张杰尧"
+	"韩子康" [label="韩子康" margin="0.1,0.05" shape=box style=rounded]
+	"高闻元" -> "韩子康"
+	"刘月樵" [label="刘月樵" margin="0.1,0.05" shape=box style=rounded]
+	"高闻元" -> "刘月樵"
+	"范长利" [label="范长利" margin="0.1,0.05" shape=box style=rounded]
+	"周德山" [label="周德山" margin="0.1,0.05" shape=box style=rounded]
+	"范长利" -> "周德山"
+	"郭瑞林" [label="郭瑞林" margin="0.1,0.05" shape=box style=rounded]
+	"范长利" -> "郭瑞林"
+	"李瑞丰" [label="李瑞丰" margin="0.1,0.05" shape=box style=rounded]
+	"范长利" -> "李瑞丰"
+	"张德俊" [label="张德俊" margin="0.1,0.05" shape=box style=rounded]
+	"范长利" -> "张德俊"
+	"杜茂林" [label="杜茂林" margin="0.1,0.05" shape=box style=rounded]
+	"范长利" -> "杜茂林"
+	"徐瑞海" [label="徐瑞海" margin="0.1,0.05" shape=box style=rounded]
+	"范长利" -> "徐瑞海"
+	"朱凤山" [label="朱凤山" margin="0.1,0.05" shape=box style=rounded]
+	"范长利" -> "朱凤山"
+	"马良臣" [label="马良臣" margin="0.1,0.05" shape=box style=rounded]
+	"范长利" -> "马良臣"
+	"魏昆治" [label="魏昆治" margin="0.1,0.05" shape=box style=rounded]
+	"张伯俊" [label="张伯俊" margin="0.1,0.05" shape=box style=rounded]
+	"魏昆治" -> "张伯俊"
+	"丁伯品" [label="丁伯品" margin="0.1,0.05" shape=box style=rounded]
+	"魏昆治" -> "丁伯品"
+	"阎伯山" [label="阎伯山" margin="0.1,0.05" shape=box style=rounded]
+	"魏昆治" -> "阎伯山"
+	"李长春" [label="李长春" margin="0.1,0.05" shape=box style=rounded]
+	"恒瑞丰" [label="恒瑞丰" margin="0.1,0.05" shape=box style=rounded]
+	"李长春" -> "恒瑞丰"
+	"沈竹善" [label="沈竹善" margin="0.1,0.05" shape=box style=rounded]
+	"冯振声" [label="冯振声" margin="0.1,0.05" shape=box style=rounded]
+	"沈竹善" -> "冯振声"
+	"孙伯珍" [label="孙伯珍" margin="0.1,0.05" shape=box style=rounded]
+	"沈竹善" -> "孙伯珍"
+	"卢德俊" [label="卢德俊" margin="0.1,0.05" shape=box style=rounded]
+	"沈竹善" -> "卢德俊"
+	"张星武" [label="张星武" margin="0.1,0.05" shape=box style=rounded]
+	"沈竹善" -> "张星武"
+	"范瑞亭" [label="范瑞亭" margin="0.1,0.05" shape=box style=rounded]
+	"沈竹善" -> "范瑞亭"
+	"裕德隆" [label="裕德隆" margin="0.1,0.05" shape=box style=rounded]
+	"汪兆麟" [label="汪兆麟" margin="0.1,0.05" shape=box style=rounded]
+	"裕德隆" -> "汪兆麟"
+	"陶湘如" [label="陶湘如" margin="0.1,0.05" shape=box style=rounded]
+	"裕德隆" -> "陶湘如"
+	"李少卿" [label="李少卿" margin="0.1,0.05" shape=box style=rounded]
+	"裕德隆" -> "李少卿"
+	"张云武" [label="张云武" margin="0.1,0.05" shape=box style=rounded]
+	"裕德隆" -> "张云武"
+	"张绍堂" [label="张绍堂" margin="0.1,0.05" shape=box style=rounded]
+	"裕德隆" -> "张绍堂"
+	"吴景春" [label="吴景春" margin="0.1,0.05" shape=box style=rounded]
+	"裕德隆" -> "吴景春"
+	"李德钖" [label="李德钖" margin="0.1,0.05" shape=box style=rounded]
+	"马桂元" [label="马桂元" margin="0.1,0.05" shape=box style=rounded]
+	"李德钖" -> "马桂元"
+	"玉小亭" [label="玉小亭" margin="0.1,0.05" shape=box style=rounded]
+	"李德钖" -> "玉小亭"
+	"焦葆奎" [label="焦葆奎" margin="0.1,0.05" shape=box style=rounded]
+	"李德钖" -> "焦葆奎"
+	"郑仲衡" [label="郑仲衡" margin="0.1,0.05" shape=box style=rounded]
+	"李德钖" -> "郑仲衡"
+	"焦德海" [label="焦德海" margin="0.1,0.05" shape=box style=rounded]
+	"张寿臣" [label="张寿臣" margin="0.1,0.05" shape=box style=rounded]
+	"焦德海" -> "张寿臣"
+	"李寿增" [label="李寿增" margin="0.1,0.05" shape=box style=rounded]
+	"焦德海" -> "李寿增"
+	"富寿严" [label="富寿严" margin="0.1,0.05" shape=box style=rounded]
+	"焦德海" -> "富寿严"
+	"李寿清" [label="李寿清" margin="0.1,0.05" shape=box style=rounded]
+	"焦德海" -> "李寿清"
+	"叶寿亭" [label="叶寿亭" margin="0.1,0.05" shape=box style=rounded]
+	"焦德海" -> "叶寿亭"
+	"于俊波" [label="于俊波" margin="0.1,0.05" shape=box style=rounded]
+	"焦德海" -> "于俊波"
+	"常连安" [label="常连安" margin="0.1,0.05" shape=box style=rounded]
+	"焦德海" -> "常连安"
+	"朱阔泉" [label="朱阔泉" margin="0.1,0.05" shape=box style=rounded]
+	"焦德海" -> "朱阔泉"
+	"汤金澄" [label="汤金澄" margin="0.1,0.05" shape=box style=rounded]
+	"焦德海" -> "汤金澄"
+	"于堃江" [label="于堃江" margin="0.1,0.05" shape=box style=rounded]
+	"焦德海" -> "于堃江"
+	"尹凤岐" [label="尹凤岐" margin="0.1,0.05" shape=box style=rounded]
+	"焦德海" -> "尹凤岐"
+	"彦授辰" [label="彦授辰" margin="0.1,0.05" shape=box style=rounded]
+	"焦德海" -> "彦授辰"
+	"路彩祥" [label="路彩祥" margin="0.1,0.05" shape=box style=rounded]
+	"焦德海" -> "路彩祥"
+	"白葆亭" [label="白葆亭" margin="0.1,0.05" shape=box style=rounded]
+	"焦德海" -> "白葆亭"
+	"卢德俊" [label="卢德俊" margin="0.1,0.05" shape=box style=rounded]
+	"赵霭如" [label="赵霭如" margin="0.1,0.05" shape=box style=rounded]
+	"卢德俊" -> "赵霭如"
+	"陈雨亭" [label="陈雨亭" margin="0.1,0.05" shape=box style=rounded]
+	"卢德俊" -> "陈雨亭"
+	"赵寿舫" [label="赵寿舫" margin="0.1,0.05" shape=box style=rounded]
+	"卢德俊" -> "赵寿舫"
+	"何寿亭" [label="何寿亭" margin="0.1,0.05" shape=box style=rounded]
+	"卢德俊" -> "何寿亭"
+	"崇寿峰" [label="崇寿峰" margin="0.1,0.05" shape=box style=rounded]
+	"卢德俊" -> "崇寿峰"
+	"冯乐福" [label="冯乐福" margin="0.1,0.05" shape=box style=rounded]
+	"卢德俊" -> "冯乐福"
+	"金钰堂" [label="金钰堂" margin="0.1,0.05" shape=box style=rounded]
+	"卢德俊" -> "金钰堂"
+	"何玉清" [label="何玉清" margin="0.1,0.05" shape=box style=rounded]
+	"卢德俊" -> "何玉清"
+	"庞子泉" [label="庞子泉" margin="0.1,0.05" shape=box style=rounded]
+	"卢德俊" -> "庞子泉"
+	"李得子" [label="李得子" margin="0.1,0.05" shape=box style=rounded]
+	"卢德俊" -> "李得子"
+	"周德山" [label="周德山" margin="0.1,0.05" shape=box style=rounded]
+	"马三立" [label="马三立" margin="0.1,0.05" shape=box style=rounded]
+	"周德山" -> "马三立"
+	"刘桂田" [label="刘桂田" margin="0.1,0.05" shape=box style=rounded]
+	"周德山" -> "刘桂田"
+	"李桐文" [label="李桐文" margin="0.1,0.05" shape=box style=rounded]
+	"周德山" -> "李桐文"
+	"连秀全" [label="连秀全" margin="0.1,0.05" shape=box style=rounded]
+	"周德山" -> "连秀全"
+	"宝寿华" [label="宝寿华" margin="0.1,0.05" shape=box style=rounded]
+	"周德山" -> "宝寿华"
+	"魏常玉" [label="魏常玉" margin="0.1,0.05" shape=box style=rounded]
+	"周德山" -> "魏常玉"
+	"马德禄" [label="马德禄" margin="0.1,0.05" shape=box style=rounded]
+	"高寿亭" [label="高寿亭" margin="0.1,0.05" shape=box style=rounded]
+	"马德禄" -> "高寿亭"
+	"高桂清" [label="高桂清" margin="0.1,0.05" shape=box style=rounded]
+	"马德禄" -> "高桂清"
+	"杨闻华" [label="杨闻华" margin="0.1,0.05" shape=box style=rounded]
+	"马德禄" -> "杨闻华"
+	"尹寿山" [label="尹寿山" margin="0.1,0.05" shape=box style=rounded]
+	"马德禄" -> "尹寿山"
+	"郭荣起" [label="郭荣起" margin="0.1,0.05" shape=box style=rounded]
+	"马德禄" -> "郭荣起"
+	"范瑞亭" [label="范瑞亭" margin="0.1,0.05" shape=box style=rounded]
+	"焦寿海" [label="焦寿海" margin="0.1,0.05" shape=box style=rounded]
+	"范瑞亭" -> "焦寿海"
+	"陈桂林" [label="陈桂林" margin="0.1,0.05" shape=box style=rounded]
+	"范瑞亭" -> "陈桂林"
+	"陈桂鑫" [label="陈桂鑫" margin="0.1,0.05" shape=box style=rounded]
+	"范瑞亭" -> "陈桂鑫"
+	"聂闻治" [label="聂闻治" margin="0.1,0.05" shape=box style=rounded]
+	"范瑞亭" -> "聂闻治"
+	"冯子玉" [label="冯子玉" margin="0.1,0.05" shape=box style=rounded]
+	"范瑞亭" -> "冯子玉"
+	"郭瑞林" [label="郭瑞林" margin="0.1,0.05" shape=box style=rounded]
+	"侯一尘" [label="侯一尘" margin="0.1,0.05" shape=box style=rounded]
+	"郭瑞林" -> "侯一尘"
+	"谭伯儒" [label="谭伯儒" margin="0.1,0.05" shape=box style=rounded]
+	"郭瑞林" -> "谭伯儒"
+	"陶湘九" [label="陶湘九" margin="0.1,0.05" shape=box style=rounded]
+	"郭瑞林" -> "陶湘九"
+	"李寿芳" [label="李寿芳" margin="0.1,0.05" shape=box style=rounded]
+	"郭瑞林" -> "李寿芳"
+	"马四立" [label="马四立" margin="0.1,0.05" shape=box style=rounded]
+	"郭瑞林" -> "马四立"
+	"胡兰亭" [label="胡兰亭" margin="0.1,0.05" shape=box style=rounded]
+	"郭瑞林" -> "胡兰亭"
+	"李瑞丰" [label="李瑞丰" margin="0.1,0.05" shape=box style=rounded]
+	"寇寿亭" [label="寇寿亭" margin="0.1,0.05" shape=box style=rounded]
+	"李瑞丰" -> "寇寿亭"
+	"董湘臣" [label="董湘臣" margin="0.1,0.05" shape=box style=rounded]
+	"李瑞丰" -> "董湘臣"
+	"陈紫荃" [label="陈紫荃" margin="0.1,0.05" shape=box style=rounded]
+	"李瑞丰" -> "陈紫荃"
+	"李德祥" [label="李德祥" margin="0.1,0.05" shape=box style=rounded]
+	"马寿岩" [label="马寿岩" margin="0.1,0.05" shape=box style=rounded]
+	"李德祥" -> "马寿岩"
+	"吉坪三" [label="吉坪三" margin="0.1,0.05" shape=box style=rounded]
+	"秦醒民" [label="秦醒民" margin="0.1,0.05" shape=box style=rounded]
+	"吉坪三" -> "秦醒民"
+	"熙醒生" [label="熙醒生" margin="0.1,0.05" shape=box style=rounded]
+	"吉坪三" -> "熙醒生"
+	"刘德智" [label="刘德智" margin="0.1,0.05" shape=box style=rounded]
+	"郭启儒" [label="郭启儒" margin="0.1,0.05" shape=box style=rounded]
+	"刘德智" -> "郭启儒"
+	"张春奎" [label="张春奎" margin="0.1,0.05" shape=box style=rounded]
+	"刘德智" -> "张春奎"
+	"冯振声" [label="冯振声" margin="0.1,0.05" shape=box style=rounded]
+	"常福荃" [label="常福荃" margin="0.1,0.05" shape=box style=rounded]
+	"冯振声" -> "常福荃"
+	"杨海荃" [label="杨海荃" margin="0.1,0.05" shape=box style=rounded]
+	"冯振声" -> "杨海荃"
+	"韩小痴" [label="韩小痴" margin="0.1,0.05" shape=box style=rounded]
+	"冯振声" -> "韩小痴"
+	"叶太珍" [label="叶太珍" margin="0.1,0.05" shape=box style=rounded]
+	"冯振声" -> "叶太珍"
+	"祝景荃" [label="祝景荃" margin="0.1,0.05" shape=box style=rounded]
+	"冯振声" -> "祝景荃"
+	"张闻斌" [label="张闻斌" margin="0.1,0.05" shape=box style=rounded]
+	"冯振声" -> "张闻斌"
+	"张杰尧" [label="张杰尧" margin="0.1,0.05" shape=box style=rounded]
+	"单松亭" [label="单松亭" margin="0.1,0.05" shape=box style=rounded]
+	"张杰尧" -> "单松亭"
+	"关松明" [label="关松明" margin="0.1,0.05" shape=box style=rounded]
+	"张杰尧" -> "关松明"
+	"袁松麒" [label="袁松麒" margin="0.1,0.05" shape=box style=rounded]
+	"张杰尧" -> "袁松麒"
+	"班松麟" [label="班松麟" margin="0.1,0.05" shape=box style=rounded]
+	"张杰尧" -> "班松麟"
+	"田松山" [label="田松山" margin="0.1,0.05" shape=box style=rounded]
+	"张杰尧" -> "田松山"
+	"刘松江" [label="刘松江" margin="0.1,0.05" shape=box style=rounded]
+	"张杰尧" -> "刘松江"
+	"辛松斌" [label="辛松斌" margin="0.1,0.05" shape=box style=rounded]
+	"张杰尧" -> "辛松斌"
+	"郑松涛" [label="郑松涛" margin="0.1,0.05" shape=box style=rounded]
+	"张杰尧" -> "郑松涛"
+	"陈松波" [label="陈松波" margin="0.1,0.05" shape=box style=rounded]
+	"张杰尧" -> "陈松波"
+	"杨松临" [label="杨松临" margin="0.1,0.05" shape=box style=rounded]
+	"张杰尧" -> "杨松临"
+	"王松声" [label="王松声" margin="0.1,0.05" shape=box style=rounded]
+	"张杰尧" -> "王松声"
+	"王松葵" [label="王松葵" margin="0.1,0.05" shape=box style=rounded]
+	"张杰尧" -> "王松葵"
+	"韩子康" [label="韩子康" margin="0.1,0.05" shape=box style=rounded]
+	"薛永年" [label="薛永年" margin="0.1,0.05" shape=box style=rounded]
+	"韩子康" -> "薛永年"
+	"马良臣" [label="马良臣" margin="0.1,0.05" shape=box style=rounded]
+	"李永春" [label="李永春" margin="0.1,0.05" shape=box style=rounded]
+	"马良臣" -> "李永春"
+	"高德明" [label="高德明" margin="0.1,0.05" shape=box style=rounded]
+	"于佑福" [label="于佑福" margin="0.1,0.05" shape=box style=rounded]
+	"高德明" -> "于佑福"
+	"冯大荃" [label="冯大荃" margin="0.1,0.05" shape=box style=rounded]
+	"高德明" -> "冯大荃"
+	"张松青" [label="张松青" margin="0.1,0.05" shape=box style=rounded]
+	"高德明" -> "张松青"
+	"朱凤山" [label="朱凤山" margin="0.1,0.05" shape=box style=rounded]
+	"阚天忠" [label="阚天忠" margin="0.1,0.05" shape=box style=rounded]
+	"朱凤山" -> "阚天忠"
+	"谢天荣" [label="谢天荣" margin="0.1,0.05" shape=box style=rounded]
+	"朱凤山" -> "谢天荣"
+	"赵天寿" [label="赵天寿" margin="0.1,0.05" shape=box style=rounded]
+	"朱凤山" -> "赵天寿"
+	"李天林" [label="李天林" margin="0.1,0.05" shape=box style=rounded]
+	"朱凤山" -> "李天林"
+	"杨天茂" [label="杨天茂" margin="0.1,0.05" shape=box style=rounded]
+	"朱凤山" -> "杨天茂"
+	"高德亮" [label="高德亮" margin="0.1,0.05" shape=box style=rounded]
+	"高凤山" [label="高凤山" margin="0.1,0.05" shape=box style=rounded]
+	"高德亮" -> "高凤山"
+	"赵玉贵" [label="赵玉贵" margin="0.1,0.05" shape=box style=rounded]
+	"高德亮" -> "赵玉贵"
+	"张寿臣" [label="张寿臣" margin="0.1,0.05" shape=box style=rounded]
+	"常宝堃" [label="常宝堃" margin="0.1,0.05" shape=box style=rounded]
+	"张寿臣" -> "常宝堃"
+	"赵立梧" [label="赵立梧" margin="0.1,0.05" shape=box style=rounded]
+	"张寿臣" -> "赵立梧"
+	"刘宝瑞" [label="刘宝瑞" margin="0.1,0.05" shape=box style=rounded]
+	"张寿臣" -> "刘宝瑞"
+	"刘化民" [label="刘化民" margin="0.1,0.05" shape=box style=rounded]
+	"张寿臣" -> "刘化民"
+	"康立本" [label="康立本" margin="0.1,0.05" shape=box style=rounded]
+	"张寿臣" -> "康立本"
+	"叶立中" [label="叶立中" margin="0.1,0.05" shape=box style=rounded]
+	"张寿臣" -> "叶立中"
+	"冯立樟" [label="冯立樟" margin="0.1,0.05" shape=box style=rounded]
+	"张寿臣" -> "冯立樟"
+	"朱相臣" [label="朱相臣" margin="0.1,0.05" shape=box style=rounded]
+	"张寿臣" -> "朱相臣"
+	"冯立全" [label="冯立全" margin="0.1,0.05" shape=box style=rounded]
+	"张寿臣" -> "冯立全"
+	"袁佩楼" [label="袁佩楼" margin="0.1,0.05" shape=box style=rounded]
+	"张寿臣" -> "袁佩楼"
+	"沈君" [label="沈君" margin="0.1,0.05" shape=box style=rounded]
+	"张寿臣" -> "沈君"
+	"张少清" [label="张少清" margin="0.1,0.05" shape=box style=rounded]
+	"张寿臣" -> "张少清"
+	"穆祥林" [label="穆祥林" margin="0.1,0.05" shape=box style=rounded]
+	"张寿臣" -> "穆祥林"
+	"于世德" [label="于世德" margin="0.1,0.05" shape=box style=rounded]
+	"张寿臣" -> "于世德"
+	"胡振江" [label="胡振江" margin="0.1,0.05" shape=box style=rounded]
+	"张寿臣" -> "胡振江"
+	"戴少甫" [label="戴少甫" margin="0.1,0.05" shape=box style=rounded]
+	"张寿臣" -> "戴少甫"
+	"侯少尘" [label="侯少尘" margin="0.1,0.05" shape=box style=rounded]
+	"张寿臣" -> "侯少尘"
+	"邢炳涛" [label="邢炳涛" margin="0.1,0.05" shape=box style=rounded]
+	"张寿臣" -> "邢炳涛"
+	"田立禾" [label="田立禾" margin="0.1,0.05" shape=box style=rounded]
+	"张寿臣" -> "田立禾"
+	"佟大方" [label="佟大方" margin="0.1,0.05" shape=box style=rounded]
+	"张寿臣" -> "佟大方"
+	"张嘉利" [label="张嘉利" margin="0.1,0.05" shape=box style=rounded]
+	"张寿臣" -> "张嘉利"
+	"常宝庆" [label="常宝庆" margin="0.1,0.05" shape=box style=rounded]
+	"张寿臣" -> "常宝庆"
+	"焦寿海" [label="焦寿海" margin="0.1,0.05" shape=box style=rounded]
+	"赵佩茹" [label="赵佩茹" margin="0.1,0.05" shape=box style=rounded]
+	"焦寿海" -> "赵佩茹"
+	"刘奎珍" [label="刘奎珍" margin="0.1,0.05" shape=box style=rounded]
+	"焦寿海" -> "刘奎珍"
+	"李洁尘" [label="李洁尘" margin="0.1,0.05" shape=box style=rounded]
+	"焦寿海" -> "李洁尘"
+	"耿宝林" [label="耿宝林" margin="0.1,0.05" shape=box style=rounded]
+	"焦寿海" -> "耿宝林"
+	"张宝珍" [label="张宝珍" margin="0.1,0.05" shape=box style=rounded]
+	"焦寿海" -> "张宝珍"
+	"刘广义" [label="刘广义" margin="0.1,0.05" shape=box style=rounded]
+	"焦寿海" -> "刘广义"
+	"孙宝琦" [label="孙宝琦" margin="0.1,0.05" shape=box style=rounded]
+	"焦寿海" -> "孙宝琦"
+	"杨少奎" [label="杨少奎" margin="0.1,0.05" shape=box style=rounded]
+	"焦寿海" -> "杨少奎"
+	"佟浩如" [label="佟浩如" margin="0.1,0.05" shape=box style=rounded]
+	"焦寿海" -> "佟浩如"
+	"张宝玙" [label="张宝玙" margin="0.1,0.05" shape=box style=rounded]
+	"焦寿海" -> "张宝玙"
+	"李存民" [label="李存民" margin="0.1,0.05" shape=box style=rounded]
+	"焦寿海" -> "李存民"
+	"张福祥" [label="张福祥" margin="0.1,0.05" shape=box style=rounded]
+	"焦寿海" -> "张福祥"
+	"张玉堂" [label="张玉堂" margin="0.1,0.05" shape=box style=rounded]
+	"焦寿海" -> "张玉堂"
+	"李润杰" [label="李润杰" margin="0.1,0.05" shape=box style=rounded]
+	"焦寿海" -> "李润杰"
+	"张明新" [label="张明新" margin="0.1,0.05" shape=box style=rounded]
+	"焦寿海" -> "张明新"
+	"崔怀禄" [label="崔怀禄" margin="0.1,0.05" shape=box style=rounded]
+	"焦寿海" -> "崔怀禄"
+	"赵稳增" [label="赵稳增" margin="0.1,0.05" shape=box style=rounded]
+	"焦寿海" -> "赵稳增"
+	"张立林" [label="张立林" margin="0.1,0.05" shape=box style=rounded]
+	"焦寿海" -> "张立林"
+	"张宝珠" [label="张宝珠" margin="0.1,0.05" shape=box style=rounded]
+	"焦寿海" -> "张宝珠"
+	"李寿增" [label="李寿增" margin="0.1,0.05" shape=box style=rounded]
+	"孙少林" [label="孙少林" margin="0.1,0.05" shape=box style=rounded]
+	"李寿增" -> "孙少林"
+	"赵兰亭" [label="赵兰亭" margin="0.1,0.05" shape=box style=rounded]
+	"李寿增" -> "赵兰亭"
+	"欧宝珊" [label="欧宝珊" margin="0.1,0.05" shape=box style=rounded]
+	"李寿增" -> "欧宝珊"
+	"王树田" [label="王树田" margin="0.1,0.05" shape=box style=rounded]
+	"李寿增" -> "王树田"
+	"张振圻" [label="张振圻" margin="0.1,0.05" shape=box style=rounded]
+	"李寿增" -> "张振圻"
+	"汤民一" [label="汤民一" margin="0.1,0.05" shape=box style=rounded]
+	"李寿增" -> "汤民一"
+	"张佩如" [label="张佩如" margin="0.1,0.05" shape=box style=rounded]
+	"李寿增" -> "张佩如"
+	"曹宝春" [label="曹宝春" margin="0.1,0.05" shape=box style=rounded]
+	"李寿增" -> "曹宝春"
+	"夏万福" [label="夏万福" margin="0.1,0.05" shape=box style=rounded]
+	"李寿增" -> "夏万福"
+	"马金良" [label="马金良" margin="0.1,0.05" shape=box style=rounded]
+	"李寿增" -> "马金良"
+	"来少如" [label="来少如" margin="0.1,0.05" shape=box style=rounded]
+	"李寿增" -> "来少如"
+	"焦立海" [label="焦立海" margin="0.1,0.05" shape=box style=rounded]
+	"李寿增" -> "焦立海"
+	"丁守义" [label="丁守义" margin="0.1,0.05" shape=box style=rounded]
+	"李寿增" -> "丁守义"
+	"刘玉凤" [label="刘玉凤" margin="0.1,0.05" shape=box style=rounded]
+	"李寿增" -> "刘玉凤"
+	"马三立" [label="马三立" margin="0.1,0.05" shape=box style=rounded]
+	"阎笑儒" [label="阎笑儒" margin="0.1,0.05" shape=box style=rounded]
+	"马三立" -> "阎笑儒"
+	"张笑勤" [label="张笑勤" margin="0.1,0.05" shape=box style=rounded]
+	"马三立" -> "张笑勤"
+	"张笑非" [label="张笑非" margin="0.1,0.05" shape=box style=rounded]
+	"马三立" -> "张笑非"
+	"金笑天" [label="金笑天" margin="0.1,0.05" shape=box style=rounded]
+	"马三立" -> "金笑天"
+	"班德贵" [label="班德贵" margin="0.1,0.05" shape=box style=rounded]
+	"马三立" -> "班德贵"
+	"连笑昆" [label="连笑昆" margin="0.1,0.05" shape=box style=rounded]
+	"马三立" -> "连笑昆"
+	"常宝华" [label="常宝华" margin="0.1,0.05" shape=box style=rounded]
+	"马三立" -> "常宝华"
+	"高笑临" [label="高笑临" margin="0.1,0.05" shape=box style=rounded]
+	"马三立" -> "高笑临"
+	"谌笑宇" [label="谌笑宇" margin="0.1,0.05" shape=box style=rounded]
+	"马三立" -> "谌笑宇"
+	"王笑予" [label="王笑予" margin="0.1,0.05" shape=box style=rounded]
+	"马三立" -> "王笑予"
+	"方笑文" [label="方笑文" margin="0.1,0.05" shape=box style=rounded]
+	"马三立" -> "方笑文"
+	"任笑海" [label="任笑海" margin="0.1,0.05" shape=box style=rounded]
+	"马三立" -> "任笑海"
+	"尹笑声" [label="尹笑声" margin="0.1,0.05" shape=box style=rounded]
+	"马三立" -> "尹笑声"
+	"于宝林" [label="于宝林" margin="0.1,0.05" shape=box style=rounded]
+	"马三立" -> "于宝林"
+	"常宝丰" [label="常宝丰" margin="0.1,0.05" shape=box style=rounded]
+	"马三立" -> "常宝丰"
+	"姜宝林" [label="姜宝林" margin="0.1,0.05" shape=box style=rounded]
+	"马三立" -> "姜宝林"
+	"李文华" [label="李文华" margin="0.1,0.05" shape=box style=rounded]
+	"马三立" -> "李文华"
+	"常连安" [label="常连安" margin="0.1,0.05" shape=box style=rounded]
+	"高元钧" [label="高元钧" margin="0.1,0.05" shape=box style=rounded]
+	"常连安" -> "高元钧"
+	"薛永年" [label="薛永年" margin="0.1,0.05" shape=box style=rounded]
+	"钱乐" [label="钱乐" margin="0.1,0.05" shape=box style=rounded]
+	"薛永年" -> "钱乐"
+	"吴琼" [label="吴琼" margin="0.1,0.05" shape=box style=rounded]
+	"薛永年" -> "吴琼"
+	"刘智鹏" [label="刘智鹏" margin="0.1,0.05" shape=box style=rounded]
+	"薛永年" -> "刘智鹏"
+	"范志强" [label="范志强" margin="0.1,0.05" shape=box style=rounded]
+	"薛永年" -> "范志强"
+	"吴凯" [label="吴凯" margin="0.1,0.05" shape=box style=rounded]
+	"薛永年" -> "吴凯"
+	"李国兵" [label="李国兵" margin="0.1,0.05" shape=box style=rounded]
+	"薛永年" -> "李国兵"
+	"贾静美子" [label="贾静美子" margin="0.1,0.05" shape=box style=rounded]
+	"薛永年" -> "贾静美子"
+	"刘雄" [label="刘雄" margin="0.1,0.05" shape=box style=rounded]
+	"薛永年" -> "刘雄"
+	"方勇" [label="方勇" margin="0.1,0.05" shape=box style=rounded]
+	"薛永年" -> "方勇"
+	"马桂元" [label="马桂元" margin="0.1,0.05" shape=box style=rounded]
+	"冯宝华" [label="冯宝华" margin="0.1,0.05" shape=box style=rounded]
+	"马桂元" -> "冯宝华"
+	"赵宝贵" [label="赵宝贵" margin="0.1,0.05" shape=box style=rounded]
+	"马桂元" -> "赵宝贵"
+	"骆宝珊" [label="骆宝珊" margin="0.1,0.05" shape=box style=rounded]
+	"马桂元" -> "骆宝珊"
+	"朱阔泉" [label="朱阔泉" margin="0.1,0.05" shape=box style=rounded]
+	"王凤山" [label="王凤山" margin="0.1,0.05" shape=box style=rounded]
+	"朱阔泉" -> "王凤山"
+	"李宝麒" [label="李宝麒" margin="0.1,0.05" shape=box style=rounded]
+	"朱阔泉" -> "李宝麒"
+	"侯宝林" [label="侯宝林" margin="0.1,0.05" shape=box style=rounded]
+	"朱阔泉" -> "侯宝林"
+	"王宝童" [label="王宝童" margin="0.1,0.05" shape=box style=rounded]
+	"朱阔泉" -> "王宝童"
+	"马志明" [label="马志明" margin="0.1,0.05" shape=box style=rounded]
+	"朱阔泉" -> "马志明"
+	"侯一尘" [label="侯一尘" margin="0.1,0.05" shape=box style=rounded]
+	"连春仲（白银耳）" [label="连春仲（白银耳）" margin="0.1,0.05" shape=box style=rounded]
+	"侯一尘" -> "连春仲（白银耳）"
+	"常宝霖" [label="常宝霖" margin="0.1,0.05" shape=box style=rounded]
+	"侯一尘" -> "常宝霖"
+	"关春山" [label="关春山" margin="0.1,0.05" shape=box style=rounded]
+	"侯一尘" -> "关春山"
+	"赵春田" [label="赵春田" margin="0.1,0.05" shape=box style=rounded]
+	"侯一尘" -> "赵春田"
+	"马敬伯" [label="马敬伯" margin="0.1,0.05" shape=box style=rounded]
+	"侯一尘" -> "马敬伯"
+	"于春藻" [label="于春藻" margin="0.1,0.05" shape=box style=rounded]
+	"侯一尘" -> "于春藻"
+	"张世芳" [label="张世芳" margin="0.1,0.05" shape=box style=rounded]
+	"侯一尘" -> "张世芳"
+	"赵霭如" [label="赵霭如" margin="0.1,0.05" shape=box style=rounded]
+	"王长友" [label="王长友" margin="0.1,0.05" shape=box style=rounded]
+	"赵霭如" -> "王长友"
+	"孙宝才" [label="孙宝才" margin="0.1,0.05" shape=box style=rounded]
+	"赵霭如" -> "孙宝才"
+	"罗荣寿" [label="罗荣寿" margin="0.1,0.05" shape=box style=rounded]
+	"赵霭如" -> "罗荣寿"
+	"黄鹤来" [label="黄鹤来" margin="0.1,0.05" shape=box style=rounded]
+	"赵霭如" -> "黄鹤来"
+	"李桂山" [label="李桂山" margin="0.1,0.05" shape=box style=rounded]
+	"赵霭如" -> "李桂山"
+	"王闻禄" [label="王闻禄" margin="0.1,0.05" shape=box style=rounded]
+	"赵霭如" -> "王闻禄"
+	"李延年" [label="李延年" margin="0.1,0.05" shape=box style=rounded]
+	"赵霭如" -> "李延年"
+	"张喜林" [label="张喜林" margin="0.1,0.05" shape=box style=rounded]
+	"赵霭如" -> "张喜林"
+	"何善平" [label="何善平" margin="0.1,0.05" shape=box style=rounded]
+	"赵霭如" -> "何善平"
+	"张善曾" [label="张善曾" margin="0.1,0.05" shape=box style=rounded]
+	"赵霭如" -> "张善曾"
+	"于俊波" [label="于俊波" margin="0.1,0.05" shape=box style=rounded]
+	"曲福恩" [label="曲福恩" margin="0.1,0.05" shape=box style=rounded]
+	"于俊波" -> "曲福恩"
+	"白全福" [label="白全福" margin="0.1,0.05" shape=box style=rounded]
+	"于俊波" -> "白全福"
+	"郭全宝" [label="郭全宝" margin="0.1,0.05" shape=box style=rounded]
+	"于俊波" -> "郭全宝"
+	"孙玉奎" [label="孙玉奎" margin="0.1,0.05" shape=box style=rounded]
+	"于俊波" -> "孙玉奎"
+	"白家林" [label="白家林" margin="0.1,0.05" shape=box style=rounded]
+	"于俊波" -> "白家林"
+	"吴景春" [label="吴景春" margin="0.1,0.05" shape=box style=rounded]
+	"吴苹" [label="吴苹" margin="0.1,0.05" shape=box style=rounded]
+	"吴景春" -> "吴苹"
+	"富寿严" [label="富寿严" margin="0.1,0.05" shape=box style=rounded]
+	"靳宝琏" [label="靳宝琏" margin="0.1,0.05" shape=box style=rounded]
+	"富寿严" -> "靳宝琏"
+	"高桂清" [label="高桂清" margin="0.1,0.05" shape=box style=rounded]
+	"冯立铎" [label="冯立铎" margin="0.1,0.05" shape=box style=rounded]
+	"高桂清" -> "冯立铎"
+	"史闻翰" [label="史闻翰" margin="0.1,0.05" shape=box style=rounded]
+	"高桂清" -> "史闻翰"
+	"关立铨" [label="关立铨" margin="0.1,0.05" shape=box style=rounded]
+	"高桂清" -> "关立铨"
+	"张立森" [label="张立森" margin="0.1,0.05" shape=box style=rounded]
+	"高桂清" -> "张立森"
+	"汤金澄" [label="汤金澄" margin="0.1,0.05" shape=box style=rounded]
+	"王俊" [label="王俊" margin="0.1,0.05" shape=box style=rounded]
+	"汤金澄" -> "王俊"
+	"郭启儒" [label="郭启儒" margin="0.1,0.05" shape=box style=rounded]
+	"全常保" [label="全常保" margin="0.1,0.05" shape=box style=rounded]
+	"郭启儒" -> "全常保"
+	"于连仲" [label="于连仲" margin="0.1,0.05" shape=box style=rounded]
+	"郭启儒" -> "于连仲"
+	"邵其炳" [label="邵其炳" margin="0.1,0.05" shape=box style=rounded]
+	"郭启儒" -> "邵其炳"
+	"齐信英" [label="齐信英" margin="0.1,0.05" shape=box style=rounded]
+	"郭启儒" -> "齐信英"
+	"尹寿山" [label="尹寿山" margin="0.1,0.05" shape=box style=rounded]
+	"边振新" [label="边振新" margin="0.1,0.05" shape=box style=rounded]
+	"尹寿山" -> "边振新"
+	"聂闻治" [label="聂闻治" margin="0.1,0.05" shape=box style=rounded]
+	"郑祥泰" [label="郑祥泰" margin="0.1,0.05" shape=box style=rounded]
+	"聂闻治" -> "郑祥泰"
+	"李少卿" [label="李少卿" margin="0.1,0.05" shape=box style=rounded]
+	"李宝璋" [label="李宝璋" margin="0.1,0.05" shape=box style=rounded]
+	"李少卿" -> "李宝璋"
+	"武魁海" [label="武魁海" margin="0.1,0.05" shape=box style=rounded]
+	"李少卿" -> "武魁海"
+	"刘聘臣" [label="刘聘臣" margin="0.1,0.05" shape=box style=rounded]
+	"李少卿" -> "刘聘臣"
+	"张闻得" [label="张闻得" margin="0.1,0.05" shape=box style=rounded]
+	"李少卿" -> "张闻得"
+	"刘宝森" [label="刘宝森" margin="0.1,0.05" shape=box style=rounded]
+	"李少卿" -> "刘宝森"
+	"赵寿舫" [label="赵寿舫" margin="0.1,0.05" shape=box style=rounded]
+	"张永熙" [label="张永熙" margin="0.1,0.05" shape=box style=rounded]
+	"赵寿舫" -> "张永熙"
+	"陈宝泰" [label="陈宝泰" margin="0.1,0.05" shape=box style=rounded]
+	"赵寿舫" -> "陈宝泰"
+	"陈雨亭" [label="陈雨亭" margin="0.1,0.05" shape=box style=rounded]
+	"王世臣" [label="王世臣" margin="0.1,0.05" shape=box style=rounded]
+	"陈雨亭" -> "王世臣"
+	"郭荣起" [label="郭荣起" margin="0.1,0.05" shape=box style=rounded]
+	"常宝霆" [label="常宝霆" margin="0.1,0.05" shape=box style=rounded]
+	"郭荣起" -> "常宝霆"
+	"郭宝明" [label="郭宝明" margin="0.1,0.05" shape=box style=rounded]
+	"郭荣起" -> "郭宝明"
+	"杜三宝" [label="杜三宝" margin="0.1,0.05" shape=box style=rounded]
+	"郭荣起" -> "杜三宝"
+	"杨少华" [label="杨少华" margin="0.1,0.05" shape=box style=rounded]
+	"郭荣起" -> "杨少华"
+	"谢天顺" [label="谢天顺" margin="0.1,0.05" shape=box style=rounded]
+	"郭荣起" -> "谢天顺"
+	"张宝如" [label="张宝如" margin="0.1,0.05" shape=box style=rounded]
+	"郭荣起" -> "张宝如"
+	"崇寿峰" [label="崇寿峰" margin="0.1,0.05" shape=box style=rounded]
+	"李宝山" [label="李宝山" margin="0.1,0.05" shape=box style=rounded]
+	"崇寿峰" -> "李宝山"
+	"关宝奇" [label="关宝奇" margin="0.1,0.05" shape=box style=rounded]
+	"崇寿峰" -> "关宝奇"
+	"付海峰" [label="付海峰" margin="0.1,0.05" shape=box style=rounded]
+	"崇寿峰" -> "付海峰"
+	"何寿亭" [label="何寿亭" margin="0.1,0.05" shape=box style=rounded]
+	"王福田" [label="王福田" margin="0.1,0.05" shape=box style=rounded]
+	"何寿亭" -> "王福田"
+	"张庆森" [label="张庆森" margin="0.1,0.05" shape=box style=rounded]
+	"何寿亭" -> "张庆森"
+	"于春明" [label="于春明" margin="0.1,0.05" shape=box style=rounded]
+	"何寿亭" -> "于春明"
+	"顾海泉" [label="顾海泉" margin="0.1,0.05" shape=box style=rounded]
+	"何寿亭" -> "顾海泉"
+	"谭伯儒" [label="谭伯儒" margin="0.1,0.05" shape=box style=rounded]
+	"陈涌泉" [label="陈涌泉" margin="0.1,0.05" shape=box style=rounded]
+	"谭伯儒" -> "陈涌泉"
+	"赵世忠" [label="赵世忠" margin="0.1,0.05" shape=box style=rounded]
+	"谭伯儒" -> "赵世忠"
+	"王春和" [label="王春和" margin="0.1,0.05" shape=box style=rounded]
+	"谭伯儒" -> "王春和"
+	"张春旺" [label="张春旺" margin="0.1,0.05" shape=box style=rounded]
+	"谭伯儒" -> "张春旺"
+	"王嘉琪" [label="王嘉琪" margin="0.1,0.05" shape=box style=rounded]
+	"谭伯儒" -> "王嘉琪"
+	"寇连荣" [label="寇连荣" margin="0.1,0.05" shape=box style=rounded]
+	"谭伯儒" -> "寇连荣"
+	"陶湘九" [label="陶湘九" margin="0.1,0.05" shape=box style=rounded]
+	"郭宝珊" [label="郭宝珊" margin="0.1,0.05" shape=box style=rounded]
+	"陶湘九" -> "郭宝珊"
+	"马宝璐" [label="马宝璐" margin="0.1,0.05" shape=box style=rounded]
+	"陶湘九" -> "马宝璐"
+	"杨宝璋" [label="杨宝璋" margin="0.1,0.05" shape=box style=rounded]
+	"陶湘九" -> "杨宝璋"
+	"王宝珍" [label="王宝珍" margin="0.1,0.05" shape=box style=rounded]
+	"陶湘九" -> "王宝珍"
+	"田宝珩" [label="田宝珩" margin="0.1,0.05" shape=box style=rounded]
+	"陶湘九" -> "田宝珩"
+	"张兴华" [label="张兴华" margin="0.1,0.05" shape=box style=rounded]
+	"陶湘九" -> "张兴华"
+	"王宝珏" [label="王宝珏" margin="0.1,0.05" shape=box style=rounded]
+	"陶湘九" -> "王宝珏"
+	"秦宝琦" [label="秦宝琦" margin="0.1,0.05" shape=box style=rounded]
+	"陶湘九" -> "秦宝琦"
+	"徐宝瑜" [label="徐宝瑜" margin="0.1,0.05" shape=box style=rounded]
+	"陶湘九" -> "徐宝瑜"
+	"郭宝瑛（郭海泉）" [label="郭宝瑛（郭海泉）" margin="0.1,0.05" shape=box style=rounded]
+	"陶湘九" -> "郭宝瑛（郭海泉）"
+	"关立铭" [label="关立铭" margin="0.1,0.05" shape=box style=rounded]
+	"陶湘九" -> "关立铭"
+	"李寿芳" [label="李寿芳" margin="0.1,0.05" shape=box style=rounded]
+	"刘伯奎" [label="刘伯奎" margin="0.1,0.05" shape=box style=rounded]
+	"李寿芳" -> "刘伯奎"
+	"高寿亭" [label="高寿亭" margin="0.1,0.05" shape=box style=rounded]
+	"刘立升" [label="刘立升" margin="0.1,0.05" shape=box style=rounded]
+	"高寿亭" -> "刘立升"
+	"孙少臣" [label="孙少臣" margin="0.1,0.05" shape=box style=rounded]
+	"高寿亭" -> "孙少臣"
+	"连秀全" [label="连秀全" margin="0.1,0.05" shape=box style=rounded]
+	"王本林" [label="王本林" margin="0.1,0.05" shape=box style=rounded]
+	"连秀全" -> "王本林"
+	"刘志远" [label="刘志远" margin="0.1,0.05" shape=box style=rounded]
+	"连秀全" -> "刘志远"
+	"熙醒生" [label="熙醒生" margin="0.1,0.05" shape=box style=rounded]
+	"师世元" [label="师世元" margin="0.1,0.05" shape=box style=rounded]
+	"熙醒生" -> "师世元"
+	"马寿岩" [label="马寿岩" margin="0.1,0.05" shape=box style=rounded]
+	"龚玉章" [label="龚玉章" margin="0.1,0.05" shape=box style=rounded]
+	"马寿岩" -> "龚玉章"
+	"田宝鑫" [label="田宝鑫" margin="0.1,0.05" shape=box style=rounded]
+	"马寿岩" -> "田宝鑫"
+	"张春生" [label="张春生" margin="0.1,0.05" shape=box style=rounded]
+	"马寿岩" -> "张春生"
+	"回婉华" [label="回婉华" margin="0.1,0.05" shape=box style=rounded]
+	"马寿岩" -> "回婉华"
+	"王枢祥" [label="王枢祥" margin="0.1,0.05" shape=box style=rounded]
+	"马寿岩" -> "王枢祥"
+	"杨海荃" [label="杨海荃" margin="0.1,0.05" shape=box style=rounded]
+	"赵幼樵" [label="赵幼樵" margin="0.1,0.05" shape=box style=rounded]
+	"杨海荃" -> "赵幼樵"
+	"富兰英" [label="富兰英" margin="0.1,0.05" shape=box style=rounded]
+	"杨海荃" -> "富兰英"
+	"马子恒" [label="马子恒" margin="0.1,0.05" shape=box style=rounded]
+	"杨海荃" -> "马子恒"
+	"王海江" [label="王海江" margin="0.1,0.05" shape=box style=rounded]
+	"杨海荃" -> "王海江"
+	"杨金声" [label="杨金声" margin="0.1,0.05" shape=box style=rounded]
+	"杨海荃" -> "杨金声"
+	"周印金" [label="周印金" margin="0.1,0.05" shape=box style=rounded]
+	"杨海荃" -> "周印金"
+	"汤艳杰" [label="汤艳杰" margin="0.1,0.05" shape=box style=rounded]
+	"杨海荃" -> "汤艳杰"
+	"金炳昶" [label="金炳昶" margin="0.1,0.05" shape=box style=rounded]
+	"杨海荃" -> "金炳昶"
+	"王志涛" [label="王志涛" margin="0.1,0.05" shape=box style=rounded]
+	"杨海荃" -> "王志涛"
+	"杨振华" [label="杨振华" margin="0.1,0.05" shape=box style=rounded]
+	"杨海荃" -> "杨振华"
+	"冯景顺" [label="冯景顺" margin="0.1,0.05" shape=box style=rounded]
+	"杨海荃" -> "冯景顺"
+	"张乃勤" [label="张乃勤" margin="0.1,0.05" shape=box style=rounded]
+	"杨海荃" -> "张乃勤"
+	"常福荃" [label="常福荃" margin="0.1,0.05" shape=box style=rounded]
+	"刘来子" [label="刘来子" margin="0.1,0.05" shape=box style=rounded]
+	"常福荃" -> "刘来子"
+	"董小柱" [label="董小柱" margin="0.1,0.05" shape=box style=rounded]
+	"常福荃" -> "董小柱"
+	"魏幼臣" [label="魏幼臣" margin="0.1,0.05" shape=box style=rounded]
+	"常福荃" -> "魏幼臣"
+	"刘幼山" [label="刘幼山" margin="0.1,0.05" shape=box style=rounded]
+	"常福荃" -> "刘幼山"
+	"叶太珍" [label="叶太珍" margin="0.1,0.05" shape=box style=rounded]
+	"蔡玉衡" [label="蔡玉衡" margin="0.1,0.05" shape=box style=rounded]
+	"叶太珍" -> "蔡玉衡"
+	"祝景荃" [label="祝景荃" margin="0.1,0.05" shape=box style=rounded]
+	"金幼实" [label="金幼实" margin="0.1,0.05" shape=box style=rounded]
+	"祝景荃" -> "金幼实"
+	"陈幼新" [label="陈幼新" margin="0.1,0.05" shape=box style=rounded]
+	"祝景荃" -> "陈幼新"
+	"高幼峰" [label="高幼峰" margin="0.1,0.05" shape=box style=rounded]
+	"祝景荃" -> "高幼峰"
+	"李幼刚" [label="李幼刚" margin="0.1,0.05" shape=box style=rounded]
+	"祝景荃" -> "李幼刚"
+	"冯幼封" [label="冯幼封" margin="0.1,0.05" shape=box style=rounded]
+	"祝景荃" -> "冯幼封"
+	"彦授辰" [label="彦授辰" margin="0.1,0.05" shape=box style=rounded]
+	"张鸿滨" [label="张鸿滨" margin="0.1,0.05" shape=box style=rounded]
+	"彦授辰" -> "张鸿滨"
+	"高凤起" [label="高凤起" margin="0.1,0.05" shape=box style=rounded]
+	"彦授辰" -> "高凤起"
+	"胡仲仁" [label="胡仲仁" margin="0.1,0.05" shape=box style=rounded]
+	"彦授辰" -> "胡仲仁"
+	"李宝森" [label="李宝森" margin="0.1,0.05" shape=box style=rounded]
+	"彦授辰" -> "李宝森"
+	"孙宝钧" [label="孙宝钧" margin="0.1,0.05" shape=box style=rounded]
+	"彦授辰" -> "孙宝钧"
+	"戴宝康" [label="戴宝康" margin="0.1,0.05" shape=box style=rounded]
+	"彦授辰" -> "戴宝康"
+	"孙桐增" [label="孙桐增" margin="0.1,0.05" shape=box style=rounded]
+	"彦授辰" -> "孙桐增"
+	"绪得贵" [label="绪得贵" margin="0.1,0.05" shape=box style=rounded]
+	"彦授辰" -> "绪得贵"
+	"杨松临" [label="杨松临" margin="0.1,0.05" shape=box style=rounded]
+	"高飞" [label="高飞" margin="0.1,0.05" shape=box style=rounded]
+	"杨松临" -> "高飞"
+	"祁喜生" [label="祁喜生" margin="0.1,0.05" shape=box style=rounded]
+	"杨松临" -> "祁喜生"
+	"陈尚忠" [label="陈尚忠" margin="0.1,0.05" shape=box style=rounded]
+	"杨松临" -> "陈尚忠"
+	"李祝英" [label="李祝英" margin="0.1,0.05" shape=box style=rounded]
+	"杨松临" -> "李祝英"
+	"林茂" [label="林茂" margin="0.1,0.05" shape=box style=rounded]
+	"杨松临" -> "林茂"
+	"陈冠义" [label="陈冠义" margin="0.1,0.05" shape=box style=rounded]
+	"杨松临" -> "陈冠义"
+	"冯大荃" [label="冯大荃" margin="0.1,0.05" shape=box style=rounded]
+	"邓世杰" [label="邓世杰" margin="0.1,0.05" shape=box style=rounded]
+	"冯大荃" -> "邓世杰"
+	"张松青" [label="张松青" margin="0.1,0.05" shape=box style=rounded]
+	"陈世魁" [label="陈世魁" margin="0.1,0.05" shape=box style=rounded]
+	"张松青" -> "陈世魁"
+	"麻世豪" [label="麻世豪" margin="0.1,0.05" shape=box style=rounded]
+	"张松青" -> "麻世豪"
+	"李得子" [label="李得子" margin="0.1,0.05" shape=box style=rounded]
+	"朱永福" [label="朱永福" margin="0.1,0.05" shape=box style=rounded]
+	"李得子" -> "朱永福"
+	"李永春" [label="李永春" margin="0.1,0.05" shape=box style=rounded]
+	"崔亚轩" [label="崔亚轩" margin="0.1,0.05" shape=box style=rounded]
+	"李永春" -> "崔亚轩"
+	"赵佩茹" [label="赵佩茹" margin="0.1,0.05" shape=box style=rounded]
+	"李伯祥" [label="李伯祥" margin="0.1,0.05" shape=box style=rounded]
+	"赵佩茹" -> "李伯祥"
+	"张伯华" [label="张伯华" margin="0.1,0.05" shape=box style=rounded]
+	"赵佩茹" -> "张伯华"
+	"马伯林" [label="马伯林" margin="0.1,0.05" shape=box style=rounded]
+	"赵佩茹" -> "马伯林"
+	"崔伯光" [label="崔伯光" margin="0.1,0.05" shape=box style=rounded]
+	"赵佩茹" -> "崔伯光"
+	"杨伯英" [label="杨伯英" margin="0.1,0.05" shape=box style=rounded]
+	"赵佩茹" -> "杨伯英"
+	"高英培" [label="高英培" margin="0.1,0.05" shape=box style=rounded]
+	"赵佩茹" -> "高英培"
+	"常贵田" [label="常贵田" margin="0.1,0.05" shape=box style=rounded]
+	"赵佩茹" -> "常贵田"
+	"刘英华" [label="刘英华" margin="0.1,0.05" shape=box style=rounded]
+	"赵佩茹" -> "刘英华"
+	"杨英彩" [label="杨英彩" margin="0.1,0.05" shape=box style=rounded]
+	"赵佩茹" -> "杨英彩"
+	"李世增" [label="李世增" margin="0.1,0.05" shape=box style=rounded]
+	"赵佩茹" -> "李世增"
+	"李英杰" [label="李英杰" margin="0.1,0.05" shape=box style=rounded]
+	"赵佩茹" -> "李英杰"
+	"王祥林" [label="王祥林" margin="0.1,0.05" shape=box style=rounded]
+	"赵佩茹" -> "王祥林"
+	"马志存" [label="马志存" margin="0.1,0.05" shape=box style=rounded]
+	"赵佩茹" -> "马志存"
+	"徐德魁" [label="徐德魁" margin="0.1,0.05" shape=box style=rounded]
+	"赵佩茹" -> "徐德魁"
+	"张继英" [label="张继英" margin="0.1,0.05" shape=box style=rounded]
+	"赵佩茹" -> "张继英"
+	"任鸣岐" [label="任鸣岐" margin="0.1,0.05" shape=box style=rounded]
+	"赵佩茹" -> "任鸣岐"
+	"刘英奇" [label="刘英奇" margin="0.1,0.05" shape=box style=rounded]
+	"赵佩茹" -> "刘英奇"
+	"张奎清" [label="张奎清" margin="0.1,0.05" shape=box style=rounded]
+	"赵佩茹" -> "张奎清"
+	"张义勤" [label="张义勤" margin="0.1,0.05" shape=box style=rounded]
+	"赵佩茹" -> "张义勤"
+	"李浩然" [label="李浩然" margin="0.1,0.05" shape=box style=rounded]
+	"赵佩茹" -> "李浩然"
+	"郭士中" [label="郭士中" margin="0.1,0.05" shape=box style=rounded]
+	"赵佩茹" -> "郭士中"
+	"侯耀文" [label="侯耀文" margin="0.1,0.05" shape=box style=rounded]
+	"赵佩茹" -> "侯耀文"
+	"许秀林" [label="许秀林" margin="0.1,0.05" shape=box style=rounded]
+	"赵佩茹" -> "许秀林"
+	"刘国器" [label="刘国器" margin="0.1,0.05" shape=box style=rounded]
+	"赵佩茹" -> "刘国器"
+	"吴 苹" [label="吴 苹" margin="0.1,0.05" shape=box style=rounded]
+	"藤田香" [label="藤田香" margin="0.1,0.05" shape=box style=rounded]
+	"吴 苹" -> "藤田香"
+	"崔亚轩" [label="崔亚轩" margin="0.1,0.05" shape=box style=rounded]
+	"刘沛起" [label="刘沛起" margin="0.1,0.05" shape=box style=rounded]
+	"崔亚轩" -> "刘沛起"
+	"庞子泉" [label="庞子泉" margin="0.1,0.05" shape=box style=rounded]
+	"夏福义" [label="夏福义" margin="0.1,0.05" shape=box style=rounded]
+	"庞子泉" -> "夏福义"
+	"康立本" [label="康立本" margin="0.1,0.05" shape=box style=rounded]
+	"李锦田（小立本）" [label="李锦田（小立本）" margin="0.1,0.05" shape=box style=rounded]
+	"康立本" -> "李锦田（小立本）"
+	"董铁良" [label="董铁良" margin="0.1,0.05" shape=box style=rounded]
+	"康立本" -> "董铁良"
+	"赵兰亭" [label="赵兰亭" margin="0.1,0.05" shape=box style=rounded]
+	"张文甫" [label="张文甫" margin="0.1,0.05" shape=box style=rounded]
+	"赵兰亭" -> "张文甫"
+	"孙士达" [label="孙士达" margin="0.1,0.05" shape=box style=rounded]
+	"赵兰亭" -> "孙士达"
+	"刘黎" [label="刘黎" margin="0.1,0.05" shape=box style=rounded]
+	"赵兰亭" -> "刘黎"
+	"关宝奇" [label="关宝奇" margin="0.1,0.05" shape=box style=rounded]
+	"祁存才" [label="祁存才" margin="0.1,0.05" shape=box style=rounded]
+	"关宝奇" -> "祁存才"
+	"龚玉章" [label="龚玉章" margin="0.1,0.05" shape=box style=rounded]
+	"王鸣山" [label="王鸣山" margin="0.1,0.05" shape=box style=rounded]
+	"龚玉章" -> "王鸣山"
+	"常宝堃" [label="常宝堃" margin="0.1,0.05" shape=box style=rounded]
+	"李伯仁" [label="李伯仁" margin="0.1,0.05" shape=box style=rounded]
+	"常宝堃" -> "李伯仁"
+	"苏文茂" [label="苏文茂" margin="0.1,0.05" shape=box style=rounded]
+	"常宝堃" -> "苏文茂"
+	"李洁尘" [label="李洁尘" margin="0.1,0.05" shape=box style=rounded]
+	"赵心敏" [label="赵心敏" margin="0.1,0.05" shape=box style=rounded]
+	"李洁尘" -> "赵心敏"
+	"王伯荣" [label="王伯荣" margin="0.1,0.05" shape=box style=rounded]
+	"李洁尘" -> "王伯荣"
+	"秦玉华" [label="秦玉华" margin="0.1,0.05" shape=box style=rounded]
+	"李洁尘" -> "秦玉华"
+	"马文忠" [label="马文忠" margin="0.1,0.05" shape=box style=rounded]
+	"李洁尘" -> "马文忠"
+	"王长友" [label="王长友" margin="0.1,0.05" shape=box style=rounded]
+	"赵振铎" [label="赵振铎" margin="0.1,0.05" shape=box style=rounded]
+	"王长友" -> "赵振铎"
+	"郭文岐" [label="郭文岐" margin="0.1,0.05" shape=box style=rounded]
+	"王长友" -> "郭文岐"
+	"丁玉鹏" [label="丁玉鹏" margin="0.1,0.05" shape=box style=rounded]
+	"王长友" -> "丁玉鹏"
+	"叶少臣" [label="叶少臣" margin="0.1,0.05" shape=box style=rounded]
+	"王长友" -> "叶少臣"
+	"茹少亭" [label="茹少亭" margin="0.1,0.05" shape=box style=rounded]
+	"王长友" -> "茹少亭"
+	"韩秀英" [label="韩秀英" margin="0.1,0.05" shape=box style=rounded]
+	"王长友" -> "韩秀英"
+	"寇庚杰" [label="寇庚杰" margin="0.1,0.05" shape=box style=rounded]
+	"王长友" -> "寇庚杰"
+	"范传辅" [label="范传辅" margin="0.1,0.05" shape=box style=rounded]
+	"王长友" -> "范传辅"
+	"康松广" [label="康松广" margin="0.1,0.05" shape=box style=rounded]
+	"王长友" -> "康松广"
+	"臧洪" [label="臧洪" margin="0.1,0.05" shape=box style=rounded]
+	"王长友" -> "臧洪"
+	"赵亮" [label="赵亮" margin="0.1,0.05" shape=box style=rounded]
+	"王长友" -> "赵亮"
+	"刘宝瑞" [label="刘宝瑞" margin="0.1,0.05" shape=box style=rounded]
+	"周文游" [label="周文游" margin="0.1,0.05" shape=box style=rounded]
+	"刘宝瑞" -> "周文游"
+	"寇庚儒" [label="寇庚儒" margin="0.1,0.05" shape=box style=rounded]
+	"刘宝瑞" -> "寇庚儒"
+	"邢文昭" [label="邢文昭" margin="0.1,0.05" shape=box style=rounded]
+	"刘宝瑞" -> "邢文昭"
+	"霍文龙" [label="霍文龙" margin="0.1,0.05" shape=box style=rounded]
+	"刘宝瑞" -> "霍文龙"
+	"殷文硕" [label="殷文硕" margin="0.1,0.05" shape=box style=rounded]
+	"刘宝瑞" -> "殷文硕"
+	"王文林" [label="王文林" margin="0.1,0.05" shape=box style=rounded]
+	"刘宝瑞" -> "王文林"
+	"高洪顺" [label="高洪顺" margin="0.1,0.05" shape=box style=rounded]
+	"刘宝瑞" -> "高洪顺"
+	"唐杰忠" [label="唐杰忠" margin="0.1,0.05" shape=box style=rounded]
+	"刘宝瑞" -> "唐杰忠"
+	"张庭萱" [label="张庭萱" margin="0.1,0.05" shape=box style=rounded]
+	"刘宝瑞" -> "张庭萱"
+	"曹中民" [label="曹中民" margin="0.1,0.05" shape=box style=rounded]
+	"刘宝瑞" -> "曹中民"
+	"刘兵" [label="刘兵" margin="0.1,0.05" shape=box style=rounded]
+	"刘宝瑞" -> "刘兵"
+	"皮树德" [label="皮树德" margin="0.1,0.05" shape=box style=rounded]
+	"刘宝瑞" -> "皮树德"
+	"韩德江（韩红之父）" [label="韩德江（韩红之父）" margin="0.1,0.05" shape=box style=rounded]
+	"刘宝瑞" -> "韩德江（韩红之父）"
+	"侯宝林" [label="侯宝林" margin="0.1,0.05" shape=box style=rounded]
+	"贾振良" [label="贾振良" margin="0.1,0.05" shape=box style=rounded]
+	"侯宝林" -> "贾振良"
+	"黄铁良" [label="黄铁良" margin="0.1,0.05" shape=box style=rounded]
+	"侯宝林" -> "黄铁良"
+	"杨紫阳" [label="杨紫阳" margin="0.1,0.05" shape=box style=rounded]
+	"侯宝林" -> "杨紫阳"
+	"马季" [label="马季" margin="0.1,0.05" shape=box style=rounded]
+	"侯宝林" -> "马季"
+	"胡必达" [label="胡必达" margin="0.1,0.05" shape=box style=rounded]
+	"侯宝林" -> "胡必达"
+	"殷培田" [label="殷培田" margin="0.1,0.05" shape=box style=rounded]
+	"侯宝林" -> "殷培田"
+	"贾冀光" [label="贾冀光" margin="0.1,0.05" shape=box style=rounded]
+	"侯宝林" -> "贾冀光"
+	"丁广泉" [label="丁广泉" margin="0.1,0.05" shape=box style=rounded]
+	"侯宝林" -> "丁广泉"
+	"康达夫" [label="康达夫" margin="0.1,0.05" shape=box style=rounded]
+	"侯宝林" -> "康达夫"
+	"李如刚" [label="李如刚" margin="0.1,0.05" shape=box style=rounded]
+	"侯宝林" -> "李如刚"
+	"吴兆南" [label="吴兆南" margin="0.1,0.05" shape=box style=rounded]
+	"侯宝林" -> "吴兆南"
+	"师胜杰" [label="师胜杰" margin="0.1,0.05" shape=box style=rounded]
+	"侯宝林" -> "师胜杰"
+	"郝爱民" [label="郝爱民" margin="0.1,0.05" shape=box style=rounded]
+	"侯宝林" -> "郝爱民"
+	"杨绍奎" [label="杨绍奎" margin="0.1,0.05" shape=box style=rounded]
+	"丁文元" [label="丁文元" margin="0.1,0.05" shape=box style=rounded]
+	"杨绍奎" -> "丁文元"
+	"刘文亨" [label="刘文亨" margin="0.1,0.05" shape=box style=rounded]
+	"杨绍奎" -> "刘文亨"
+	"任文立" [label="任文立" margin="0.1,0.05" shape=box style=rounded]
+	"杨绍奎" -> "任文立"
+	"刘文贞" [label="刘文贞" margin="0.1,0.05" shape=box style=rounded]
+	"杨绍奎" -> "刘文贞"
+	"张文学" [label="张文学" margin="0.1,0.05" shape=box style=rounded]
+	"杨绍奎" -> "张文学"
+	"张文习" [label="张文习" margin="0.1,0.05" shape=box style=rounded]
+	"杨绍奎" -> "张文习"
+	"王文进" [label="王文进" margin="0.1,0.05" shape=box style=rounded]
+	"杨绍奎" -> "王文进"
+	"刘文步" [label="刘文步" margin="0.1,0.05" shape=box style=rounded]
+	"杨绍奎" -> "刘文步"
+	"李文芳" [label="李文芳" margin="0.1,0.05" shape=box style=rounded]
+	"杨绍奎" -> "李文芳"
+	"赵文岚" [label="赵文岚" margin="0.1,0.05" shape=box style=rounded]
+	"杨绍奎" -> "赵文岚"
+	"张文辉" [label="张文辉" margin="0.1,0.05" shape=box style=rounded]
+	"杨绍奎" -> "张文辉"
+	"姜伯华" [label="姜伯华" margin="0.1,0.05" shape=box style=rounded]
+	"杨绍奎" -> "姜伯华"
+	"潘庆武" [label="潘庆武" margin="0.1,0.05" shape=box style=rounded]
+	"杨绍奎" -> "潘庆武"
+	"孙福海" [label="孙福海" margin="0.1,0.05" shape=box style=rounded]
+	"杨绍奎" -> "孙福海"
+	"彭凤林" [label="彭凤林" margin="0.1,0.05" shape=box style=rounded]
+	"杨绍奎" -> "彭凤林"
+	"刘兰亭" [label="刘兰亭" margin="0.1,0.05" shape=box style=rounded]
+	"杨绍奎" -> "刘兰亭"
+	"孙宝才" [label="孙宝才" margin="0.1,0.05" shape=box style=rounded]
+	"孙星海" [label="孙星海" margin="0.1,0.05" shape=box style=rounded]
+	"孙宝才" -> "孙星海"
+	"赵连升" [label="赵连升" margin="0.1,0.05" shape=box style=rounded]
+	"孙宝才" -> "赵连升"
+	"张铁力" [label="张铁力" margin="0.1,0.05" shape=box style=rounded]
+	"孙宝才" -> "张铁力"
+	"王长林" [label="王长林" margin="0.1,0.05" shape=box style=rounded]
+	"孙宝才" -> "王长林"
+	"马文光" [label="马文光" margin="0.1,0.05" shape=box style=rounded]
+	"孙宝才" -> "马文光"
+	"丁文盛" [label="丁文盛" margin="0.1,0.05" shape=box style=rounded]
+	"孙宝才" -> "丁文盛"
+	"刘孝先" [label="刘孝先" margin="0.1,0.05" shape=box style=rounded]
+	"孙宝才" -> "刘孝先"
+	"福保仁" [label="福保仁" margin="0.1,0.05" shape=box style=rounded]
+	"孙宝才" -> "福保仁"
+	"王学义" [label="王学义" margin="0.1,0.05" shape=box style=rounded]
+	"孙宝才" -> "王学义"
+	"陈进山" [label="陈进山" margin="0.1,0.05" shape=box style=rounded]
+	"孙宝才" -> "陈进山"
+	"王世勇" [label="王世勇" margin="0.1,0.05" shape=box style=rounded]
+	"孙宝才" -> "王世勇"
+	"常宝霖" [label="常宝霖" margin="0.1,0.05" shape=box style=rounded]
+	"王庆新" [label="王庆新" margin="0.1,0.05" shape=box style=rounded]
+	"常宝霖" -> "王庆新"
+	"张洪刚" [label="张洪刚" margin="0.1,0.05" shape=box style=rounded]
+	"常宝霖" -> "张洪刚"
+	"姬晓廷" [label="姬晓廷" margin="0.1,0.05" shape=box style=rounded]
+	"常宝霖" -> "姬晓廷"
+	"罗荣寿" [label="罗荣寿" margin="0.1,0.05" shape=box style=rounded]
+	"杨文义" [label="杨文义" margin="0.1,0.05" shape=box style=rounded]
+	"罗荣寿" -> "杨文义"
+	"兰文甫" [label="兰文甫" margin="0.1,0.05" shape=box style=rounded]
+	"罗荣寿" -> "兰文甫"
+	"丁金声" [label="丁金声" margin="0.1,0.05" shape=box style=rounded]
+	"罗荣寿" -> "丁金声"
+	"刘树江" [label="刘树江" margin="0.1,0.05" shape=box style=rounded]
+	"罗荣寿" -> "刘树江"
+	"李树仁" [label="李树仁" margin="0.1,0.05" shape=box style=rounded]
+	"罗荣寿" -> "李树仁"
+	"张树茂" [label="张树茂" margin="0.1,0.05" shape=box style=rounded]
+	"罗荣寿" -> "张树茂"
+	"王庆东" [label="王庆东" margin="0.1,0.05" shape=box style=rounded]
+	"罗荣寿" -> "王庆东"
+	"凌少明" [label="凌少明" margin="0.1,0.05" shape=box style=rounded]
+	"罗荣寿" -> "凌少明"
+	"李国英" [label="李国英" margin="0.1,0.05" shape=box style=rounded]
+	"罗荣寿" -> "李国英"
+	"李国盛" [label="李国盛" margin="0.1,0.05" shape=box style=rounded]
+	"罗荣寿" -> "李国盛"
+	"杨瑞库" [label="杨瑞库" margin="0.1,0.05" shape=box style=rounded]
+	"罗荣寿" -> "杨瑞库"
+	"王得昌" [label="王得昌" margin="0.1,0.05" shape=box style=rounded]
+	"罗荣寿" -> "王得昌"
+	"马维福" [label="马维福" margin="0.1,0.05" shape=box style=rounded]
+	"罗荣寿" -> "马维福"
+	"郭祥林" [label="郭祥林" margin="0.1,0.05" shape=box style=rounded]
+	"罗荣寿" -> "郭祥林"
+	"马俊生" [label="马俊生" margin="0.1,0.05" shape=box style=rounded]
+	"罗荣寿" -> "马俊生"
+	"张盘" [label="张盘" margin="0.1,0.05" shape=box style=rounded]
+	"罗荣寿" -> "张盘"
+	"张鲁" [label="张鲁" margin="0.1,0.05" shape=box style=rounded]
+	"罗荣寿" -> "张鲁"
+	"丁广和" [label="丁广和" margin="0.1,0.05" shape=box style=rounded]
+	"罗荣寿" -> "丁广和"
+	"杨宝璋" [label="杨宝璋" margin="0.1,0.05" shape=box style=rounded]
+	"金文和" [label="金文和" margin="0.1,0.05" shape=box style=rounded]
+	"杨宝璋" -> "金文和"
+	"范文欣" [label="范文欣" margin="0.1,0.05" shape=box style=rounded]
+	"杨宝璋" -> "范文欣"
+	"余文光" [label="余文光" margin="0.1,0.05" shape=box style=rounded]
+	"杨宝璋" -> "余文光"
+	"李文枫" [label="李文枫" margin="0.1,0.05" shape=box style=rounded]
+	"杨宝璋" -> "李文枫"
+	"黄文斌" [label="黄文斌" margin="0.1,0.05" shape=box style=rounded]
+	"杨宝璋" -> "黄文斌"
+	"赵文心" [label="赵文心" margin="0.1,0.05" shape=box style=rounded]
+	"杨宝璋" -> "赵文心"
+	"于根艺" [label="于根艺" margin="0.1,0.05" shape=box style=rounded]
+	"杨宝璋" -> "于根艺"
+	"王宝童" [label="王宝童" margin="0.1,0.05" shape=box style=rounded]
+	"殷振江" [label="殷振江" margin="0.1,0.05" shape=box style=rounded]
+	"王宝童" -> "殷振江"
+	"林文春" [label="林文春" margin="0.1,0.05" shape=box style=rounded]
+	"王宝童" -> "林文春"
+	"贾世泉" [label="贾世泉" margin="0.1,0.05" shape=box style=rounded]
+	"王宝童" -> "贾世泉"
+	"郭仁金" [label="郭仁金" margin="0.1,0.05" shape=box style=rounded]
+	"王宝童" -> "郭仁金"
+	"陈涌泉" [label="陈涌泉" margin="0.1,0.05" shape=box style=rounded]
+	"刘辰" [label="刘辰" margin="0.1,0.05" shape=box style=rounded]
+	"陈涌泉" -> "刘辰"
+	"王辅廷" [label="王辅廷" margin="0.1,0.05" shape=box style=rounded]
+	"陈涌泉" -> "王辅廷"
+	"陈庆升" [label="陈庆升" margin="0.1,0.05" shape=box style=rounded]
+	"陈涌泉" -> "陈庆升"
+	"关春山" [label="关春山" margin="0.1,0.05" shape=box style=rounded]
+	"刘文亮" [label="刘文亮" margin="0.1,0.05" shape=box style=rounded]
+	"关春山" -> "刘文亮"
+	"韩文光" [label="韩文光" margin="0.1,0.05" shape=box style=rounded]
+	"关春山" -> "韩文光"
+	"田文明" [label="田文明" margin="0.1,0.05" shape=box style=rounded]
+	"关春山" -> "田文明"
+	"辛文涛" [label="辛文涛" margin="0.1,0.05" shape=box style=rounded]
+	"关春山" -> "辛文涛"
+	"耿宝林" [label="耿宝林" margin="0.1,0.05" shape=box style=rounded]
+	"方伯华" [label="方伯华" margin="0.1,0.05" shape=box style=rounded]
+	"耿宝林" -> "方伯华"
+	"王伯麟（王大宝）" [label="王伯麟（王大宝）" margin="0.1,0.05" shape=box style=rounded]
+	"耿宝林" -> "王伯麟（王大宝）"
+	"张伯涛" [label="张伯涛" margin="0.1,0.05" shape=box style=rounded]
+	"耿宝林" -> "张伯涛"
+	"左春来" [label="左春来" margin="0.1,0.05" shape=box style=rounded]
+	"耿宝林" -> "左春来"
+	"王占友" [label="王占友" margin="0.1,0.05" shape=box style=rounded]
+	"耿宝林" -> "王占友"
+	"吕维国" [label="吕维国" margin="0.1,0.05" shape=box style=rounded]
+	"耿宝林" -> "吕维国"
+	"朱贞富" [label="朱贞富" margin="0.1,0.05" shape=box style=rounded]
+	"耿宝林" -> "朱贞富"
+	"王文喜" [label="王文喜" margin="0.1,0.05" shape=box style=rounded]
+	"耿宝林" -> "王文喜"
+	"王世臣" [label="王世臣" margin="0.1,0.05" shape=box style=rounded]
+	"李鸣歧" [label="李鸣歧" margin="0.1,0.05" shape=box style=rounded]
+	"王世臣" -> "李鸣歧"
+	"赵得亮" [label="赵得亮" margin="0.1,0.05" shape=box style=rounded]
+	"王世臣" -> "赵得亮"
+	"马大龙" [label="马大龙" margin="0.1,0.05" shape=box style=rounded]
+	"王世臣" -> "马大龙"
+	"付振江" [label="付振江" margin="0.1,0.05" shape=box style=rounded]
+	"王世臣" -> "付振江"
+	"孟祥光" [label="孟祥光" margin="0.1,0.05" shape=box style=rounded]
+	"王世臣" -> "孟祥光"
+	"刘洪沂" [label="刘洪沂" margin="0.1,0.05" shape=box style=rounded]
+	"王世臣" -> "刘洪沂"
+	"田战义" [label="田战义" margin="0.1,0.05" shape=box style=rounded]
+	"王世臣" -> "田战义"
+	"李文山" [label="李文山" margin="0.1,0.05" shape=box style=rounded]
+	"王世臣" -> "李文山"
+	"谢金" [label="谢金" margin="0.1,0.05" shape=box style=rounded]
+	"王世臣" -> "谢金"
+	"张玉堂" [label="张玉堂" margin="0.1,0.05" shape=box style=rounded]
+	"李文成" [label="李文成" margin="0.1,0.05" shape=box style=rounded]
+	"张玉堂" -> "李文成"
+	"包文年" [label="包文年" margin="0.1,0.05" shape=box style=rounded]
+	"张玉堂" -> "包文年"
+	"李文娱" [label="李文娱" margin="0.1,0.05" shape=box style=rounded]
+	"张玉堂" -> "李文娱"
+	"许文跃" [label="许文跃" margin="0.1,0.05" shape=box style=rounded]
+	"张玉堂" -> "许文跃"
+	"王本林" [label="王本林" margin="0.1,0.05" shape=box style=rounded]
+	"郑小山" [label="郑小山" margin="0.1,0.05" shape=box style=rounded]
+	"王本林" -> "郑小山"
+	"王小生" [label="王小生" margin="0.1,0.05" shape=box style=rounded]
+	"王本林" -> "王小生"
+	"连小林" [label="连小林" margin="0.1,0.05" shape=box style=rounded]
+	"王本林" -> "连小林"
+	"张佩如" [label="张佩如" margin="0.1,0.05" shape=box style=rounded]
+	"王文凯" [label="王文凯" margin="0.1,0.05" shape=box style=rounded]
+	"张佩如" -> "王文凯"
+	"张保明" [label="张保明" margin="0.1,0.05" shape=box style=rounded]
+	"张佩如" -> "张保明"
+	"孙保光" [label="孙保光" margin="0.1,0.05" shape=box style=rounded]
+	"张佩如" -> "孙保光"
+	"张兴海" [label="张兴海" margin="0.1,0.05" shape=box style=rounded]
+	"张佩如" -> "张兴海"
+	"张振圻" [label="张振圻" margin="0.1,0.05" shape=box style=rounded]
+	"王洪文" [label="王洪文" margin="0.1,0.05" shape=box style=rounded]
+	"张振圻" -> "王洪文"
+	"王文玉" [label="王文玉" margin="0.1,0.05" shape=box style=rounded]
+	"张振圻" -> "王文玉"
+	"佟守本" [label="佟守本" margin="0.1,0.05" shape=box style=rounded]
+	"张振圻" -> "佟守本"
+	"于宝林" [label="于宝林" margin="0.1,0.05" shape=box style=rounded]
+	"陈鸣志" [label="陈鸣志" margin="0.1,0.05" shape=box style=rounded]
+	"于宝林" -> "陈鸣志"
+	"王鸣楼" [label="王鸣楼" margin="0.1,0.05" shape=box style=rounded]
+	"于宝林" -> "王鸣楼"
+	"吴文龙" [label="吴文龙" margin="0.1,0.05" shape=box style=rounded]
+	"于宝林" -> "吴文龙"
+	"邓继增" [label="邓继增" margin="0.1,0.05" shape=box style=rounded]
+	"于宝林" -> "邓继增"
+	"李勇" [label="李勇" margin="0.1,0.05" shape=box style=rounded]
+	"于宝林" -> "李勇"
+	"陈文彦" [label="陈文彦" margin="0.1,0.05" shape=box style=rounded]
+	"于宝林" -> "陈文彦"
+	"辛克正" [label="辛克正" margin="0.1,0.05" shape=box style=rounded]
+	"于宝林" -> "辛克正"
+	"李崇武" [label="李崇武" margin="0.1,0.05" shape=box style=rounded]
+	"于宝林" -> "李崇武"
+	"佟有为" [label="佟有为" margin="0.1,0.05" shape=box style=rounded]
+	"于宝林" -> "佟有为"
+	"马树春" [label="马树春" margin="0.1,0.05" shape=box style=rounded]
+	"于宝林" -> "马树春"
+	"赵恒" [label="赵恒" margin="0.1,0.05" shape=box style=rounded]
+	"于宝林" -> "赵恒"
+	"宫兰欣" [label="宫兰欣" margin="0.1,0.05" shape=box style=rounded]
+	"于宝林" -> "宫兰欣"
+	"武魁海" [label="武魁海" margin="0.1,0.05" shape=box style=rounded]
+	"陈文光" [label="陈文光" margin="0.1,0.05" shape=box style=rounded]
+	"武魁海" -> "陈文光"
+	"席香远" [label="席香远" margin="0.1,0.05" shape=box style=rounded]
+	"武魁海" -> "席香远"
+	"苗文浩" [label="苗文浩" margin="0.1,0.05" shape=box style=rounded]
+	"武魁海" -> "苗文浩"
+	"车文通" [label="车文通" margin="0.1,0.05" shape=box style=rounded]
+	"武魁海" -> "车文通"
+	"魏文华" [label="魏文华" margin="0.1,0.05" shape=box style=rounded]
+	"武魁海" -> "魏文华"
+	"魏文亮" [label="魏文亮" margin="0.1,0.05" shape=box style=rounded]
+	"武魁海" -> "魏文亮"
+	"张文霞" [label="张文霞" margin="0.1,0.05" shape=box style=rounded]
+	"武魁海" -> "张文霞"
+	"刘曼影" [label="刘曼影" margin="0.1,0.05" shape=box style=rounded]
+	"武魁海" -> "刘曼影"
+	"李世续" [label="李世续" margin="0.1,0.05" shape=box style=rounded]
+	"武魁海" -> "李世续"
+	"常宝霆" [label="常宝霆" margin="0.1,0.05" shape=box style=rounded]
+	"郝英辰" [label="郝英辰" margin="0.1,0.05" shape=box style=rounded]
+	"常宝霆" -> "郝英辰"
+	"王英俊" [label="王英俊" margin="0.1,0.05" shape=box style=rounded]
+	"常宝霆" -> "王英俊"
+	"王英杰" [label="王英杰" margin="0.1,0.05" shape=box style=rounded]
+	"常宝霆" -> "王英杰"
+	"黄英玉" [label="黄英玉" margin="0.1,0.05" shape=box style=rounded]
+	"常宝霆" -> "黄英玉"
+	"曲乃新" [label="曲乃新" margin="0.1,0.05" shape=box style=rounded]
+	"常宝霆" -> "曲乃新"
+	"王佩元" [label="王佩元" margin="0.1,0.05" shape=box style=rounded]
+	"常宝霆" -> "王佩元"
+	"张庆森" [label="张庆森" margin="0.1,0.05" shape=box style=rounded]
+	"杜国芝" [label="杜国芝" margin="0.1,0.05" shape=box style=rounded]
+	"张庆森" -> "杜国芝"
+	"郑福山" [label="郑福山" margin="0.1,0.05" shape=box style=rounded]
+	"张庆森" -> "郑福山"
+	"李金宽" [label="李金宽" margin="0.1,0.05" shape=box style=rounded]
+	"张庆森" -> "李金宽"
+	"朱相臣" [label="朱相臣" margin="0.1,0.05" shape=box style=rounded]
+	"韩刚甲" [label="韩刚甲" margin="0.1,0.05" shape=box style=rounded]
+	"朱相臣" -> "韩刚甲"
+	"蔡培生" [label="蔡培生" margin="0.1,0.05" shape=box style=rounded]
+	"朱相臣" -> "蔡培生"
+	"连笑昆" [label="连笑昆" margin="0.1,0.05" shape=box style=rounded]
+	"王雅福" [label="王雅福" margin="0.1,0.05" shape=box style=rounded]
+	"连笑昆" -> "王雅福"
+	"王雅青" [label="王雅青" margin="0.1,0.05" shape=box style=rounded]
+	"连笑昆" -> "王雅青"
+	"王雅育" [label="王雅育" margin="0.1,0.05" shape=box style=rounded]
+	"连笑昆" -> "王雅育"
+	"张雅璐" [label="张雅璐" margin="0.1,0.05" shape=box style=rounded]
+	"连笑昆" -> "张雅璐"
+	"杨雅松" [label="杨雅松" margin="0.1,0.05" shape=box style=rounded]
+	"连笑昆" -> "杨雅松"
+	"刘雅奎" [label="刘雅奎" margin="0.1,0.05" shape=box style=rounded]
+	"连笑昆" -> "刘雅奎"
+	"张雅升" [label="张雅升" margin="0.1,0.05" shape=box style=rounded]
+	"连笑昆" -> "张雅升"
+	"张雅成" [label="张雅成" margin="0.1,0.05" shape=box style=rounded]
+	"连笑昆" -> "张雅成"
+	"白全福" [label="白全福" margin="0.1,0.05" shape=box style=rounded]
+	"杨志刚" [label="杨志刚" margin="0.1,0.05" shape=box style=rounded]
+	"白全福" -> "杨志刚"
+	"白龙若" [label="白龙若" margin="0.1,0.05" shape=box style=rounded]
+	"白全福" -> "白龙若"
+	"房国群" [label="房国群" margin="0.1,0.05" shape=box style=rounded]
+	"白全福" -> "房国群"
+	"缴月舒" [label="缴月舒" margin="0.1,0.05" shape=box style=rounded]
+	"白全福" -> "缴月舒"
+	"杨志光" [label="杨志光" margin="0.1,0.05" shape=box style=rounded]
+	"白全福" -> "杨志光"
+	"阿双全" [label="阿双全" margin="0.1,0.05" shape=box style=rounded]
+	"白全福" -> "阿双全"
+	"王吉祥" [label="王吉祥" margin="0.1,0.05" shape=box style=rounded]
+	"白全福" -> "王吉祥"
+	"张志宽" [label="张志宽" margin="0.1,0.05" shape=box style=rounded]
+	"白全福" -> "张志宽"
+	"李国权" [label="李国权" margin="0.1,0.05" shape=box style=rounded]
+	"白全福" -> "李国权"
+	"崔长武" [label="崔长武" margin="0.1,0.05" shape=box style=rounded]
+	"白全福" -> "崔长武"
+	"吴云林" [label="吴云林" margin="0.1,0.05" shape=box style=rounded]
+	"白全福" -> "吴云林"
+	"周桂林" [label="周桂林" margin="0.1,0.05" shape=box style=rounded]
+	"白全福" -> "周桂林"
+	"阎金城" [label="阎金城" margin="0.1,0.05" shape=box style=rounded]
+	"白全福" -> "阎金城"
+	"张文琪" [label="张文琪" margin="0.1,0.05" shape=box style=rounded]
+	"白全福" -> "张文琪"
+	"张伯勋" [label="张伯勋" margin="0.1,0.05" shape=box style=rounded]
+	"白全福" -> "张伯勋"
+	"宋勇" [label="宋勇" margin="0.1,0.05" shape=box style=rounded]
+	"白全福" -> "宋勇"
+	"金兆庆" [label="金兆庆" margin="0.1,0.05" shape=box style=rounded]
+	"白全福" -> "金兆庆"
+	"刘学仁" [label="刘学仁" margin="0.1,0.05" shape=box style=rounded]
+	"白全福" -> "刘学仁"
+	"刘化民" [label="刘化民" margin="0.1,0.05" shape=box style=rounded]
+	"朱君贵" [label="朱君贵" margin="0.1,0.05" shape=box style=rounded]
+	"刘化民" -> "朱君贵"
+	"张建忠" [label="张建忠" margin="0.1,0.05" shape=box style=rounded]
+	"刘化民" -> "张建忠"
+	"阎笑儒" [label="阎笑儒" margin="0.1,0.05" shape=box style=rounded]
+	"宋文俊" [label="宋文俊" margin="0.1,0.05" shape=box style=rounded]
+	"阎笑儒" -> "宋文俊"
+	"杨世章" [label="杨世章" margin="0.1,0.05" shape=box style=rounded]
+	"阎笑儒" -> "杨世章"
+	"陈永清" [label="陈永清" margin="0.1,0.05" shape=box style=rounded]
+	"阎笑儒" -> "陈永清"
+	"陈永忠" [label="陈永忠" margin="0.1,0.05" shape=box style=rounded]
+	"阎笑儒" -> "陈永忠"
+	"陈永海" [label="陈永海" margin="0.1,0.05" shape=box style=rounded]
+	"阎笑儒" -> "陈永海"
+	"佟文阔" [label="佟文阔" margin="0.1,0.05" shape=box style=rounded]
+	"阎笑儒" -> "佟文阔"
+	"潘海波" [label="潘海波" margin="0.1,0.05" shape=box style=rounded]
+	"阎笑儒" -> "潘海波"
+	"侯长喜" [label="侯长喜" margin="0.1,0.05" shape=box style=rounded]
+	"阎笑儒" -> "侯长喜"
+	"田立禾" [label="田立禾" margin="0.1,0.05" shape=box style=rounded]
+	"耿伯扬" [label="耿伯扬" margin="0.1,0.05" shape=box style=rounded]
+	"田立禾" -> "耿伯扬"
+	"赵广山" [label="赵广山" margin="0.1,0.05" shape=box style=rounded]
+	"田立禾" -> "赵广山"
+	"马敬伯" [label="马敬伯" margin="0.1,0.05" shape=box style=rounded]
+	"王文奇" [label="王文奇" margin="0.1,0.05" shape=box style=rounded]
+	"马敬伯" -> "王文奇"
+	"陈秉文" [label="陈秉文" margin="0.1,0.05" shape=box style=rounded]
+	"马敬伯" -> "陈秉文"
+	"徐景信" [label="徐景信" margin="0.1,0.05" shape=box style=rounded]
+	"马敬伯" -> "徐景信"
+	"孙得一" [label="孙得一" margin="0.1,0.05" shape=box style=rounded]
+	"马敬伯" -> "孙得一"
+	"刘威" [label="刘威" margin="0.1,0.05" shape=box style=rounded]
+	"马敬伯" -> "刘威"
+	"班德贵" [label="班德贵" margin="0.1,0.05" shape=box style=rounded]
+	"范振钰" [label="范振钰" margin="0.1,0.05" shape=box style=rounded]
+	"班德贵" -> "范振钰"
+	"夏志恒" [label="夏志恒" margin="0.1,0.05" shape=box style=rounded]
+	"班德贵" -> "夏志恒"
+	"耿文卿" [label="耿文卿" margin="0.1,0.05" shape=box style=rounded]
+	"班德贵" -> "耿文卿"
+	"刘聘臣" [label="刘聘臣" margin="0.1,0.05" shape=box style=rounded]
+	"杨稚敏" [label="杨稚敏" margin="0.1,0.05" shape=box style=rounded]
+	"刘聘臣" -> "杨稚敏"
+	"靳金来" [label="靳金来" margin="0.1,0.05" shape=box style=rounded]
+	"刘聘臣" -> "靳金来"
+	"刘颖" [label="刘颖" margin="0.1,0.05" shape=box style=rounded]
+	"刘聘臣" -> "刘颖"
+	"于浩" [label="于浩" margin="0.1,0.05" shape=box style=rounded]
+	"刘聘臣" -> "于浩"
+	"全常保" [label="全常保" margin="0.1,0.05" shape=box style=rounded]
+	"郑文喜" [label="郑文喜" margin="0.1,0.05" shape=box style=rounded]
+	"全常保" -> "郑文喜"
+	"郭文寿" [label="郭文寿" margin="0.1,0.05" shape=box style=rounded]
+	"全常保" -> "郭文寿"
+	"李桂山" [label="李桂山" margin="0.1,0.05" shape=box style=rounded]
+	"叶文杰" [label="叶文杰" margin="0.1,0.05" shape=box style=rounded]
+	"李桂山" -> "叶文杰"
+	"王闻禄" [label="王闻禄" margin="0.1,0.05" shape=box style=rounded]
+	"魏美玉" [label="魏美玉" margin="0.1,0.05" shape=box style=rounded]
+	"王闻禄" -> "魏美玉"
+	"郭淑华" [label="郭淑华" margin="0.1,0.05" shape=box style=rounded]
+	"王闻禄" -> "郭淑华"
+	"刘万山" [label="刘万山" margin="0.1,0.05" shape=box style=rounded]
+	"王闻禄" -> "刘万山"
+	"高凤山" [label="高凤山" margin="0.1,0.05" shape=box style=rounded]
+	"毕学祥" [label="毕学祥" margin="0.1,0.05" shape=box style=rounded]
+	"高凤山" -> "毕学祥"
+	"李学宏" [label="李学宏" margin="0.1,0.05" shape=box style=rounded]
+	"高凤山" -> "李学宏"
+	"王学义" [label="王学义" margin="0.1,0.05" shape=box style=rounded]
+	"高凤山" -> "王学义"
+	"陈学富" [label="陈学富" margin="0.1,0.05" shape=box style=rounded]
+	"高凤山" -> "陈学富"
+	"石富宽" [label="石富宽" margin="0.1,0.05" shape=box style=rounded]
+	"高凤山" -> "石富宽"
+	"李少杰" [label="李少杰" margin="0.1,0.05" shape=box style=rounded]
+	"高凤山" -> "李少杰"
+	"梁厚民" [label="梁厚民" margin="0.1,0.05" shape=box style=rounded]
+	"高凤山" -> "梁厚民"
+	"李学贵" [label="李学贵" margin="0.1,0.05" shape=box style=rounded]
+	"高凤山" -> "李学贵"
+	"崔琦" [label="崔琦" margin="0.1,0.05" shape=box style=rounded]
+	"高凤山" -> "崔琦"
+	"来宝刚" [label="来宝刚" margin="0.1,0.05" shape=box style=rounded]
+	"高凤山" -> "来宝刚"
+	"于春明" [label="于春明" margin="0.1,0.05" shape=box style=rounded]
+	"高秀琴" [label="高秀琴" margin="0.1,0.05" shape=box style=rounded]
+	"于春明" -> "高秀琴"
+	"马凌云" [label="马凌云" margin="0.1,0.05" shape=box style=rounded]
+	"于春明" -> "马凌云"
+	"金涛" [label="金涛" margin="0.1,0.05" shape=box style=rounded]
+	"于春明" -> "金涛"
+	"董启威" [label="董启威" margin="0.1,0.05" shape=box style=rounded]
+	"于春明" -> "董启威"
+	"王志民" [label="王志民" margin="0.1,0.05" shape=box style=rounded]
+	"于春明" -> "王志民"
+	"庄佩臣" [label="庄佩臣" margin="0.1,0.05" shape=box style=rounded]
+	"于春明" -> "庄佩臣"
+	"戴福月" [label="戴福月" margin="0.1,0.05" shape=box style=rounded]
+	"于春明" -> "戴福月"
+	"果树青" [label="果树青" margin="0.1,0.05" shape=box style=rounded]
+	"于春明" -> "果树青"
+	"戚松" [label="戚松" margin="0.1,0.05" shape=box style=rounded]
+	"于春明" -> "戚松"
+	"刘加柯" [label="刘加柯" margin="0.1,0.05" shape=box style=rounded]
+	"于春明" -> "刘加柯"
+	"王成启" [label="王成启" margin="0.1,0.05" shape=box style=rounded]
+	"于春明" -> "王成启"
+	"张千" [label="张千" margin="0.1,0.05" shape=box style=rounded]
+	"于春明" -> "张千"
+	"王之甫" [label="王之甫" margin="0.1,0.05" shape=box style=rounded]
+	"于春明" -> "王之甫"
+	"李凤鸣" [label="李凤鸣" margin="0.1,0.05" shape=box style=rounded]
+	"于春明" -> "李凤鸣"
+	"郭全宝" [label="郭全宝" margin="0.1,0.05" shape=box style=rounded]
+	"王文砚" [label="王文砚" margin="0.1,0.05" shape=box style=rounded]
+	"郭全宝" -> "王文砚"
+	"汪宝琦" [label="汪宝琦" margin="0.1,0.05" shape=box style=rounded]
+	"郭全宝" -> "汪宝琦"
+	"陈宝泰" [label="陈宝泰" margin="0.1,0.05" shape=box style=rounded]
+	"马文瑞" [label="马文瑞" margin="0.1,0.05" shape=box style=rounded]
+	"陈宝泰" -> "马文瑞"
+	"佟大方" [label="佟大方" margin="0.1,0.05" shape=box style=rounded]
+	"姚玉明" [label="姚玉明" margin="0.1,0.05" shape=box style=rounded]
+	"佟大方" -> "姚玉明"
+	"张文顺" [label="张文顺" margin="0.1,0.05" shape=box style=rounded]
+	"佟大方" -> "张文顺"
+	"尹笑声" [label="尹笑声" margin="0.1,0.05" shape=box style=rounded]
+	"王文厚" [label="王文厚" margin="0.1,0.05" shape=box style=rounded]
+	"尹笑声" -> "王文厚"
+	"杨威" [label="杨威" margin="0.1,0.05" shape=box style=rounded]
+	"尹笑声" -> "杨威"
+	"常宝丰" [label="常宝丰" margin="0.1,0.05" shape=box style=rounded]
+	"马洪信" [label="马洪信" margin="0.1,0.05" shape=box style=rounded]
+	"常宝丰" -> "马洪信"
+	"靳宝琏" [label="靳宝琏" margin="0.1,0.05" shape=box style=rounded]
+	"孔文敬" [label="孔文敬" margin="0.1,0.05" shape=box style=rounded]
+	"靳宝琏" -> "孔文敬"
+	"刘文德" [label="刘文德" margin="0.1,0.05" shape=box style=rounded]
+	"靳宝琏" -> "刘文德"
+	"夏文化" [label="夏文化" margin="0.1,0.05" shape=box style=rounded]
+	"靳宝琏" -> "夏文化"
+	"欧宝璨" [label="欧宝璨" margin="0.1,0.05" shape=box style=rounded]
+	"董长禄" [label="董长禄" margin="0.1,0.05" shape=box style=rounded]
+	"欧宝璨" -> "董长禄"
+	"刘长声" [label="刘长声" margin="0.1,0.05" shape=box style=rounded]
+	"欧宝璨" -> "刘长声"
+	"杨长鸣" [label="杨长鸣" margin="0.1,0.05" shape=box style=rounded]
+	"欧宝璨" -> "杨长鸣"
+	"隋长欣" [label="隋长欣" margin="0.1,0.05" shape=box style=rounded]
+	"欧宝璨" -> "隋长欣"
+	"汤民一" [label="汤民一" margin="0.1,0.05" shape=box style=rounded]
+	"佟雨田" [label="佟雨田" margin="0.1,0.05" shape=box style=rounded]
+	"汤民一" -> "佟雨田"
+	"关立铨" [label="关立铨" margin="0.1,0.05" shape=box style=rounded]
+	"马文强" [label="马文强" margin="0.1,0.05" shape=box style=rounded]
+	"关立铨" -> "马文强"
+	"王嘉琪" [label="王嘉琪" margin="0.1,0.05" shape=box style=rounded]
+	"王鸣义" [label="王鸣义" margin="0.1,0.05" shape=box style=rounded]
+	"王嘉琪" -> "王鸣义"
+	"康桂生" [label="康桂生" margin="0.1,0.05" shape=box style=rounded]
+	"王嘉琪" -> "康桂生"
+	"王树田" [label="王树田" margin="0.1,0.05" shape=box style=rounded]
+	"史文惠" [label="史文惠" margin="0.1,0.05" shape=box style=rounded]
+	"王树田" -> "史文惠"
+	"郭文超" [label="郭文超" margin="0.1,0.05" shape=box style=rounded]
+	"王树田" -> "郭文超"
+	"肖声虎" [label="肖声虎" margin="0.1,0.05" shape=box style=rounded]
+	"王树田" -> "肖声虎"
+	"王信" [label="王信" margin="0.1,0.05" shape=box style=rounded]
+	"王树田" -> "王信"
+	"杨世龙" [label="杨世龙" margin="0.1,0.05" shape=box style=rounded]
+	"王树田" -> "杨世龙"
+	"徐宝瑜" [label="徐宝瑜" margin="0.1,0.05" shape=box style=rounded]
+	"黄文祥" [label="黄文祥" margin="0.1,0.05" shape=box style=rounded]
+	"徐宝瑜" -> "黄文祥"
+	"滕文超" [label="滕文超" margin="0.1,0.05" shape=box style=rounded]
+	"徐宝瑜" -> "滕文超"
+	"万文英" [label="万文英" margin="0.1,0.05" shape=box style=rounded]
+	"徐宝瑜" -> "万文英"
+	"常宝华" [label="常宝华" margin="0.1,0.05" shape=box style=rounded]
+	"牛群" [label="牛群" margin="0.1,0.05" shape=box style=rounded]
+	"常宝华" -> "牛群"
+	"赵福玉" [label="赵福玉" margin="0.1,0.05" shape=box style=rounded]
+	"常宝华" -> "赵福玉"
+	"李依霖" [label="李依霖" margin="0.1,0.05" shape=box style=rounded]
+	"常宝华" -> "李依霖"
+	"包长春" [label="包长春" margin="0.1,0.05" shape=box style=rounded]
+	"常宝华" -> "包长春"
+	"冯翊纲" [label="冯翊纲" margin="0.1,0.05" shape=box style=rounded]
+	"常宝华" -> "冯翊纲"
+	"宋少卿" [label="宋少卿" margin="0.1,0.05" shape=box style=rounded]
+	"常宝华" -> "宋少卿"
+	"袁佩楼" [label="袁佩楼" margin="0.1,0.05" shape=box style=rounded]
+	"孟文辉" [label="孟文辉" margin="0.1,0.05" shape=box style=rounded]
+	"袁佩楼" -> "孟文辉"
+	"张存珠" [label="张存珠" margin="0.1,0.05" shape=box style=rounded]
+	"袁佩楼" -> "张存珠"
+	"赵辈亭" [label="赵辈亭" margin="0.1,0.05" shape=box style=rounded]
+	"袁佩楼" -> "赵辈亭"
+	"李富荣" [label="李富荣" margin="0.1,0.05" shape=box style=rounded]
+	"袁佩楼" -> "李富荣"
+	"朱庆山" [label="朱庆山" margin="0.1,0.05" shape=box style=rounded]
+	"袁佩楼" -> "朱庆山"
+	"王凤山" [label="王凤山" margin="0.1,0.05" shape=box style=rounded]
+	"唐文光" [label="唐文光" margin="0.1,0.05" shape=box style=rounded]
+	"王凤山" -> "唐文光"
+	"郑文昆" [label="郑文昆" margin="0.1,0.05" shape=box style=rounded]
+	"王凤山" -> "郑文昆"
+	"周志光" [label="周志光" margin="0.1,0.05" shape=box style=rounded]
+	"王凤山" -> "周志光"
+	"方志清" [label="方志清" margin="0.1,0.05" shape=box style=rounded]
+	"王凤山" -> "方志清"
+	"金文声（金刚）" [label="金文声（金刚）" margin="0.1,0.05" shape=box style=rounded]
+	"王凤山" -> "金文声（金刚）"
+	"李连伟" [label="李连伟" margin="0.1,0.05" shape=box style=rounded]
+	"王凤山" -> "李连伟"
+	"马六甲" [label="马六甲" margin="0.1,0.05" shape=box style=rounded]
+	"王凤山" -> "马六甲"
+	"张金玉" [label="张金玉" margin="0.1,0.05" shape=box style=rounded]
+	"王凤山" -> "张金玉"
+	"赵连升" [label="赵连升" margin="0.1,0.05" shape=box style=rounded]
+	"王凤山" -> "赵连升"
+	"何德利" [label="何德利" margin="0.1,0.05" shape=box style=rounded]
+	"王凤山" -> "何德利"
+	"张永熙" [label="张永熙" margin="0.1,0.05" shape=box style=rounded]
+	"吕少明" [label="吕少明" margin="0.1,0.05" shape=box style=rounded]
+	"张永熙" -> "吕少明"
+	"梁尚义" [label="梁尚义" margin="0.1,0.05" shape=box style=rounded]
+	"张永熙" -> "梁尚义"
+	"李国先" [label="李国先" margin="0.1,0.05" shape=box style=rounded]
+	"张永熙" -> "李国先"
+	"孙庆淮" [label="孙庆淮" margin="0.1,0.05" shape=box style=rounded]
+	"张永熙" -> "孙庆淮"
+	"曹庆波" [label="曹庆波" margin="0.1,0.05" shape=box style=rounded]
+	"张永熙" -> "曹庆波"
+	"吴庆涌" [label="吴庆涌" margin="0.1,0.05" shape=box style=rounded]
+	"张永熙" -> "吴庆涌"
+	"言庆洋" [label="言庆洋" margin="0.1,0.05" shape=box style=rounded]
+	"张永熙" -> "言庆洋"
+	"孙庆池" [label="孙庆池" margin="0.1,0.05" shape=box style=rounded]
+	"张永熙" -> "孙庆池"
+	"郎庆浪" [label="郎庆浪" margin="0.1,0.05" shape=box style=rounded]
+	"张永熙" -> "郎庆浪"
+	"吴庆鸿" [label="吴庆鸿" margin="0.1,0.05" shape=box style=rounded]
+	"张永熙" -> "吴庆鸿"
+	"张庆济" [label="张庆济" margin="0.1,0.05" shape=box style=rounded]
+	"张永熙" -> "张庆济"
+	"马志明" [label="马志明" margin="0.1,0.05" shape=box style=rounded]
+	"黄族民" [label="黄族民" margin="0.1,0.05" shape=box style=rounded]
+	"马志明" -> "黄族民"
+	"潘贵才" [label="潘贵才" margin="0.1,0.05" shape=box style=rounded]
+	"马志明" -> "潘贵才"
+	"王金东" [label="王金东" margin="0.1,0.05" shape=box style=rounded]
+	"马志明" -> "王金东"
+	"卢福来" [label="卢福来" margin="0.1,0.05" shape=box style=rounded]
+	"马志明" -> "卢福来"
+	"于克志" [label="于克志" margin="0.1,0.05" shape=box style=rounded]
+	"马志明" -> "于克志"
+	"赵春田" [label="赵春田" margin="0.1,0.05" shape=box style=rounded]
+	"张学彦" [label="张学彦" margin="0.1,0.05" shape=box style=rounded]
+	"赵春田" -> "张学彦"
+	"徐保库" [label="徐保库" margin="0.1,0.05" shape=box style=rounded]
+	"赵春田" -> "徐保库"
+	"冯永志" [label="冯永志" margin="0.1,0.05" shape=box style=rounded]
+	"赵春田" -> "冯永志"
+	"刘流" [label="刘流" margin="0.1,0.05" shape=box style=rounded]
+	"赵春田" -> "刘流"
+	"刘杰" [label="刘杰" margin="0.1,0.05" shape=box style=rounded]
+	"赵春田" -> "刘杰"
+	"张继贤" [label="张继贤" margin="0.1,0.05" shape=box style=rounded]
+	"赵春田" -> "张继贤"
+	"梁洪才" [label="梁洪才" margin="0.1,0.05" shape=box style=rounded]
+	"赵春田" -> "梁洪才"
+	"侯孝才" [label="侯孝才" margin="0.1,0.05" shape=box style=rounded]
+	"赵春田" -> "侯孝才"
+	"李润杰" [label="李润杰" margin="0.1,0.05" shape=box style=rounded]
+	"王印权" [label="王印权" margin="0.1,0.05" shape=box style=rounded]
+	"李润杰" -> "王印权"
+	"张志宽" [label="张志宽" margin="0.1,0.05" shape=box style=rounded]
+	"李润杰" -> "张志宽"
+	"夏万福" [label="夏万福" margin="0.1,0.05" shape=box style=rounded]
+	"潘龙浩" [label="潘龙浩" margin="0.1,0.05" shape=box style=rounded]
+	"夏万福" -> "潘龙浩"
+	"高笑临" [label="高笑临" margin="0.1,0.05" shape=box style=rounded]
+	"吴伟申" [label="吴伟申" margin="0.1,0.05" shape=box style=rounded]
+	"高笑临" -> "吴伟申"
+	"朱文先" [label="朱文先" margin="0.1,0.05" shape=box style=rounded]
+	"高笑临" -> "朱文先"
+	"杨文峰" [label="杨文峰" margin="0.1,0.05" shape=box style=rounded]
+	"高笑临" -> "杨文峰"
+	"王文博" [label="王文博" margin="0.1,0.05" shape=box style=rounded]
+	"高笑临" -> "王文博"
+	"吴新安" [label="吴新安" margin="0.1,0.05" shape=box style=rounded]
+	"高笑临" -> "吴新安"
+	"吴棣" [label="吴棣" margin="0.1,0.05" shape=box style=rounded]
+	"高笑临" -> "吴棣"
+	"孙少臣" [label="孙少臣" margin="0.1,0.05" shape=box style=rounded]
+	"魏务良" [label="魏务良" margin="0.1,0.05" shape=box style=rounded]
+	"孙少臣" -> "魏务良"
+	"赵世忠" [label="赵世忠" margin="0.1,0.05" shape=box style=rounded]
+	"冯洋" [label="冯洋" margin="0.1,0.05" shape=box style=rounded]
+	"赵世忠" -> "冯洋"
+	"马魁尧" [label="马魁尧" margin="0.1,0.05" shape=box style=rounded]
+	"赵世忠" -> "马魁尧"
+	"杜宏圻" [label="杜宏圻" margin="0.1,0.05" shape=box style=rounded]
+	"赵世忠" -> "杜宏圻"
+	"康友纯" [label="康友纯" margin="0.1,0.05" shape=box style=rounded]
+	"赵世忠" -> "康友纯"
+	"张志强" [label="张志强" margin="0.1,0.05" shape=box style=rounded]
+	"赵世忠" -> "张志强"
+	"孙宝钧" [label="孙宝钧" margin="0.1,0.05" shape=box style=rounded]
+	"杜培玉" [label="杜培玉" margin="0.1,0.05" shape=box style=rounded]
+	"孙宝钧" -> "杜培玉"
+	"张宝如" [label="张宝如" margin="0.1,0.05" shape=box style=rounded]
+	"赵保成" [label="赵保成" margin="0.1,0.05" shape=box style=rounded]
+	"张宝如" -> "赵保成"
+	"李增年" [label="李增年" margin="0.1,0.05" shape=box style=rounded]
+	"张宝如" -> "李增年"
+	"郭得喜" [label="郭得喜" margin="0.1,0.05" shape=box style=rounded]
+	"张宝如" -> "郭得喜"
+	"张宝玙" [label="张宝玙" margin="0.1,0.05" shape=box style=rounded]
+	"夏文升" [label="夏文升" margin="0.1,0.05" shape=box style=rounded]
+	"张宝玙" -> "夏文升"
+	"马宝璐" [label="马宝璐" margin="0.1,0.05" shape=box style=rounded]
+	"李文立" [label="李文立" margin="0.1,0.05" shape=box style=rounded]
+	"马宝璐" -> "李文立"
+	"刘宝森" [label="刘宝森" margin="0.1,0.05" shape=box style=rounded]
+	"张文明" [label="张文明" margin="0.1,0.05" shape=box style=rounded]
+	"刘宝森" -> "张文明"
+	"回婉华" [label="回婉华" margin="0.1,0.05" shape=box style=rounded]
+	"牛振华" [label="牛振华" margin="0.1,0.05" shape=box style=rounded]
+	"回婉华" -> "牛振华"
+	"马贵荣" [label="马贵荣" margin="0.1,0.05" shape=box style=rounded]
+	"回婉华" -> "马贵荣"
+	"刘伯奎" [label="刘伯奎" margin="0.1,0.05" shape=box style=rounded]
+	"赵连功" [label="赵连功" margin="0.1,0.05" shape=box style=rounded]
+	"刘伯奎" -> "赵连功"
+	"赵天寿" [label="赵天寿" margin="0.1,0.05" shape=box style=rounded]
+	"费殿臣" [label="费殿臣" margin="0.1,0.05" shape=box style=rounded]
+	"赵天寿" -> "费殿臣"
+	"谢天荣" [label="谢天荣" margin="0.1,0.05" shape=box style=rounded]
+	"王校林" [label="王校林" margin="0.1,0.05" shape=box style=rounded]
+	"谢天荣" -> "王校林"
+	"王宝珍" [label="王宝珍" margin="0.1,0.05" shape=box style=rounded]
+	"陈国华" [label="陈国华" margin="0.1,0.05" shape=box style=rounded]
+	"王宝珍" -> "陈国华"
+	"高元钧" [label="高元钧" margin="0.1,0.05" shape=box style=rounded]
+	"李立山" [label="李立山" margin="0.1,0.05" shape=box style=rounded]
+	"高元钧" -> "李立山"
+	"石小杰" [label="石小杰" margin="0.1,0.05" shape=box style=rounded]
+	"高元钧" -> "石小杰"
+	"魏兰柱" [label="魏兰柱" margin="0.1,0.05" shape=box style=rounded]
+	"高元钧" -> "魏兰柱"
+	"王福田" [label="王福田" margin="0.1,0.05" shape=box style=rounded]
+	"李文荣" [label="李文荣" margin="0.1,0.05" shape=box style=rounded]
+	"王福田" -> "李文荣"
+	"陶文华" [label="陶文华" margin="0.1,0.05" shape=box style=rounded]
+	"王福田" -> "陶文华"
+	"苏连生" [label="苏连生" margin="0.1,0.05" shape=box style=rounded]
+	"王福田" -> "苏连生"
+	"周琪" [label="周琪" margin="0.1,0.05" shape=box style=rounded]
+	"王福田" -> "周琪"
+	"于笑澜" [label="于笑澜" margin="0.1,0.05" shape=box style=rounded]
+	"王文昌" [label="王文昌" margin="0.1,0.05" shape=box style=rounded]
+	"于笑澜" -> "王文昌"
+	"陈文潇" [label="陈文潇" margin="0.1,0.05" shape=box style=rounded]
+	"于笑澜" -> "陈文潇"
+	"张文茹" [label="张文茹" margin="0.1,0.05" shape=box style=rounded]
+	"于笑澜" -> "张文茹"
+	"邓文丰" [label="邓文丰" margin="0.1,0.05" shape=box style=rounded]
+	"于笑澜" -> "邓文丰"
+	"李文英" [label="李文英" margin="0.1,0.05" shape=box style=rounded]
+	"于笑澜" -> "李文英"
+	"于文海" [label="于文海" margin="0.1,0.05" shape=box style=rounded]
+	"于笑澜" -> "于文海"
+	"吴文龙" [label="吴文龙" margin="0.1,0.05" shape=box style=rounded]
+	"于笑澜" -> "吴文龙"
+	"姚文虎" [label="姚文虎" margin="0.1,0.05" shape=box style=rounded]
+	"于笑澜" -> "姚文虎"
+	"关文庆" [label="关文庆" margin="0.1,0.05" shape=box style=rounded]
+	"于笑澜" -> "关文庆"
+	"李文勇" [label="李文勇" margin="0.1,0.05" shape=box style=rounded]
+	"于笑澜" -> "李文勇"
+	"辛文正" [label="辛文正" margin="0.1,0.05" shape=box style=rounded]
+	"于笑澜" -> "辛文正"
+	"雷文顺" [label="雷文顺" margin="0.1,0.05" shape=box style=rounded]
+	"于笑澜" -> "雷文顺"
+	"马文孝" [label="马文孝" margin="0.1,0.05" shape=box style=rounded]
+	"于笑澜" -> "马文孝"
+	"赵文浩" [label="赵文浩" margin="0.1,0.05" shape=box style=rounded]
+	"于笑澜" -> "赵文浩"
+	"陈文彦" [label="陈文彦" margin="0.1,0.05" shape=box style=rounded]
+	"于笑澜" -> "陈文彦"
+	"于世德" [label="于世德" margin="0.1,0.05" shape=box style=rounded]
+	"白英杰" [label="白英杰" margin="0.1,0.05" shape=box style=rounded]
+	"于世德" -> "白英杰"
+	"韩光" [label="韩光" margin="0.1,0.05" shape=box style=rounded]
+	"于世德" -> "韩光"
+	"张书新" [label="张书新" margin="0.1,0.05" shape=box style=rounded]
+	"于世德" -> "张书新"
+	"马伟国" [label="马伟国" margin="0.1,0.05" shape=box style=rounded]
+	"于世德" -> "马伟国"
+	"叶立中" [label="叶立中" margin="0.1,0.05" shape=box style=rounded]
+	"曹俊清" [label="曹俊清" margin="0.1,0.05" shape=box style=rounded]
+	"叶立中" -> "曹俊清"
+	"朱文正" [label="朱文正" margin="0.1,0.05" shape=box style=rounded]
+	"叶立中" -> "朱文正"
+	"穆祥林" [label="穆祥林" margin="0.1,0.05" shape=box style=rounded]
+	"谢树森" [label="谢树森" margin="0.1,0.05" shape=box style=rounded]
+	"穆祥林" -> "谢树森"
+	"丁振雨" [label="丁振雨" margin="0.1,0.05" shape=box style=rounded]
+	"穆祥林" -> "丁振雨"
+	"郭嘉强" [label="郭嘉强" margin="0.1,0.05" shape=box style=rounded]
+	"穆祥林" -> "郭嘉强"
+	"李文珊" [label="李文珊" margin="0.1,0.05" shape=box style=rounded]
+	"穆祥林" -> "李文珊"
+	"陈世智" [label="陈世智" margin="0.1,0.05" shape=box style=rounded]
+	"穆祥林" -> "陈世智"
+	"耿伯春" [label="耿伯春" margin="0.1,0.05" shape=box style=rounded]
+	"穆祥林" -> "耿伯春"
+	"郭宝珊" [label="郭宝珊" margin="0.1,0.05" shape=box style=rounded]
+	"王启禄" [label="王启禄" margin="0.1,0.05" shape=box style=rounded]
+	"郭宝珊" -> "王启禄"
+	"黄文忠" [label="黄文忠" margin="0.1,0.05" shape=box style=rounded]
+	"郭宝珊" -> "黄文忠"
+	"陆文荣" [label="陆文荣" margin="0.1,0.05" shape=box style=rounded]
+	"郭宝珊" -> "陆文荣"
+	"施文琳" [label="施文琳" margin="0.1,0.05" shape=box style=rounded]
+	"郭宝珊" -> "施文琳"
+	"郭宝瑛" [label="郭宝瑛" margin="0.1,0.05" shape=box style=rounded]
+	"田文奎（田海鹏）" [label="田文奎（田海鹏）" margin="0.1,0.05" shape=box style=rounded]
+	"郭宝瑛" -> "田文奎（田海鹏）"
+	"彭国良" [label="彭国良" margin="0.1,0.05" shape=box style=rounded]
+	"陈连仲" [label="陈连仲" margin="0.1,0.05" shape=box style=rounded]
+	"彭国良" -> "陈连仲"
+	"师世元" [label="师世元" margin="0.1,0.05" shape=box style=rounded]
+	"高金奎" [label="高金奎" margin="0.1,0.05" shape=box style=rounded]
+	"师世元" -> "高金奎"
+	"方金亮" [label="方金亮" margin="0.1,0.05" shape=box style=rounded]
+	"师世元" -> "方金亮"
+	"曹金星" [label="曹金星" margin="0.1,0.05" shape=box style=rounded]
+	"师世元" -> "曹金星"
+	"杨少华" [label="杨少华" margin="0.1,0.05" shape=box style=rounded]
+	"唐传模" [label="唐传模" margin="0.1,0.05" shape=box style=rounded]
+	"杨少华" -> "唐传模"
+	"朱永义" [label="朱永义" margin="0.1,0.05" shape=box style=rounded]
+	"杨少华" -> "朱永义"
+	"张永久" [label="张永久" margin="0.1,0.05" shape=box style=rounded]
+	"杨少华" -> "张永久"
+	"陈君志" [label="陈君志" margin="0.1,0.05" shape=box style=rounded]
+	"杨少华" -> "陈君志"
+	"张善曾" [label="张善曾" margin="0.1,0.05" shape=box style=rounded]
+	"白晓芳" [label="白晓芳" margin="0.1,0.05" shape=box style=rounded]
+	"张善曾" -> "白晓芳"
+	"赵宝贵" [label="赵宝贵" margin="0.1,0.05" shape=box style=rounded]
+	"纪文奎" [label="纪文奎" margin="0.1,0.05" shape=box style=rounded]
+	"赵宝贵" -> "纪文奎"
+	"冯立樟" [label="冯立樟" margin="0.1,0.05" shape=box style=rounded]
+	"赵传璋" [label="赵传璋" margin="0.1,0.05" shape=box style=rounded]
+	"冯立樟" -> "赵传璋"
+	"穆瑞庆" [label="穆瑞庆" margin="0.1,0.05" shape=box style=rounded]
+	"冯立樟" -> "穆瑞庆"
+	"王锦文" [label="王锦文" margin="0.1,0.05" shape=box style=rounded]
+	"冯立樟" -> "王锦文"
+	"李凤山" [label="李凤山" margin="0.1,0.05" shape=box style=rounded]
+	"冯立樟" -> "李凤山"
+	"王东林" [label="王东林" margin="0.1,0.05" shape=box style=rounded]
+	"冯立樟" -> "王东林"
+	"张嘉利" [label="张嘉利" margin="0.1,0.05" shape=box style=rounded]
+	"王鸣禄" [label="王鸣禄" margin="0.1,0.05" shape=box style=rounded]
+	"张嘉利" -> "王鸣禄"
+	"谭鸣亮" [label="谭鸣亮" margin="0.1,0.05" shape=box style=rounded]
+	"张嘉利" -> "谭鸣亮"
+	"任笑海" [label="任笑海" margin="0.1,0.05" shape=box style=rounded]
+	"关自仁" [label="关自仁" margin="0.1,0.05" shape=box style=rounded]
+	"任笑海" -> "关自仁"
+	"冯宝华" [label="冯宝华" margin="0.1,0.05" shape=box style=rounded]
+	"王文杰" [label="王文杰" margin="0.1,0.05" shape=box style=rounded]
+	"冯宝华" -> "王文杰"
+	"邢文伯" [label="邢文伯" margin="0.1,0.05" shape=box style=rounded]
+	"冯宝华" -> "邢文伯"
+	"程光德" [label="程光德" margin="0.1,0.05" shape=box style=rounded]
+	"冯宝华" -> "程光德"
+	"孙少林" [label="孙少林" margin="0.1,0.05" shape=box style=rounded]
+	"赵文启" [label="赵文启" margin="0.1,0.05" shape=box style=rounded]
+	"孙少林" -> "赵文启"
+	"王少安" [label="王少安" margin="0.1,0.05" shape=box style=rounded]
+	"孙少林" -> "王少安"
+	"郭春堂" [label="郭春堂" margin="0.1,0.05" shape=box style=rounded]
+	"孙少林" -> "郭春堂"
+	"王文元" [label="王文元" margin="0.1,0.05" shape=box style=rounded]
+	"孙少林" -> "王文元"
+	"肖国光" [label="肖国光" margin="0.1,0.05" shape=box style=rounded]
+	"孙少林" -> "肖国光"
+	"王文豪" [label="王文豪" margin="0.1,0.05" shape=box style=rounded]
+	"孙少林" -> "王文豪"
+	"韩广海" [label="韩广海" margin="0.1,0.05" shape=box style=rounded]
+	"孙少林" -> "韩广海"
+	"孙春华" [label="孙春华" margin="0.1,0.05" shape=box style=rounded]
+	"孙少林" -> "孙春华"
+	"杨振华" [label="杨振华" margin="0.1,0.05" shape=box style=rounded]
+	"崔福祥" [label="崔福祥" margin="0.1,0.05" shape=box style=rounded]
+	"杨振华" -> "崔福祥"
+	"李兴国" [label="李兴国" margin="0.1,0.05" shape=box style=rounded]
+	"杨振华" -> "李兴国"
+	"纪元" [label="纪元" margin="0.1,0.05" shape=box style=rounded]
+	"杨振华" -> "纪元"
+	"赵幼樵" [label="赵幼樵" margin="0.1,0.05" shape=box style=rounded]
+	"巩固" [label="巩固" margin="0.1,0.05" shape=box style=rounded]
+	"赵幼樵" -> "巩固"
+	"金炳昶" [label="金炳昶" margin="0.1,0.05" shape=box style=rounded]
+	"张广发" [label="张广发" margin="0.1,0.05" shape=box style=rounded]
+	"金炳昶" -> "张广发"
+	"张东波" [label="张东波" margin="0.1,0.05" shape=box style=rounded]
+	"金炳昶" -> "张东波"
+	"孙国伟" [label="孙国伟" margin="0.1,0.05" shape=box style=rounded]
+	"金炳昶" -> "孙国伟"
+	"金珠" [label="金珠" margin="0.1,0.05" shape=box style=rounded]
+	"金炳昶" -> "金珠"
+	"王志涛" [label="王志涛" margin="0.1,0.05" shape=box style=rounded]
+	"耿炎" [label="耿炎" margin="0.1,0.05" shape=box style=rounded]
+	"王志涛" -> "耿炎"
+	"刘江舸" [label="刘江舸" margin="0.1,0.05" shape=box style=rounded]
+	"王志涛" -> "刘江舸"
+	"郑好" [label="郑好" margin="0.1,0.05" shape=box style=rounded]
+	"王志涛" -> "郑好"
+	"绪得贵" [label="绪得贵" margin="0.1,0.05" shape=box style=rounded]
+	"付宝山" [label="付宝山" margin="0.1,0.05" shape=box style=rounded]
+	"绪得贵" -> "付宝山"
+	"辛宝珊" [label="辛宝珊" margin="0.1,0.05" shape=box style=rounded]
+	"绪得贵" -> "辛宝珊"
+	"冯立铎" [label="冯立铎" margin="0.1,0.05" shape=box style=rounded]
+	"张兴汉" [label="张兴汉" margin="0.1,0.05" shape=box style=rounded]
+	"冯立铎" -> "张兴汉"
+	"陈东国" [label="陈东国" margin="0.1,0.05" shape=box style=rounded]
+	"冯立铎" -> "陈东国"
+	"张喜林" [label="张喜林" margin="0.1,0.05" shape=box style=rounded]
+	"刘庆福" [label="刘庆福" margin="0.1,0.05" shape=box style=rounded]
+	"张喜林" -> "刘庆福"
+	"李业明" [label="李业明" margin="0.1,0.05" shape=box style=rounded]
+	"张喜林" -> "李业明"
+	"赵小林" [label="赵小林" margin="0.1,0.05" shape=box style=rounded]
+	"张喜林" -> "赵小林"
+	"冯春岭" [label="冯春岭" margin="0.1,0.05" shape=box style=rounded]
+	"张喜林" -> "冯春岭"
+	"胡伟新" [label="胡伟新" margin="0.1,0.05" shape=box style=rounded]
+	"张喜林" -> "胡伟新"
+	"姜宝林" [label="姜宝林" margin="0.1,0.05" shape=box style=rounded]
+	"宋雁波" [label="宋雁波" margin="0.1,0.05" shape=box style=rounded]
+	"姜宝林" -> "宋雁波"
+	"侯连友" [label="侯连友" margin="0.1,0.05" shape=box style=rounded]
+	"姜宝林" -> "侯连友"
+	"李志强" [label="李志强" margin="0.1,0.05" shape=box style=rounded]
+	"姜宝林" -> "李志强"
+	"于丹" [label="于丹" margin="0.1,0.05" shape=box style=rounded]
+	"姜宝林" -> "于丹"
+	"裘英俊" [label="裘英俊" margin="0.1,0.05" shape=box style=rounded]
+	"姜宝林" -> "裘英俊"
+	"张存珠" [label="张存珠" margin="0.1,0.05" shape=box style=rounded]
+	"穆绪光" [label="穆绪光" margin="0.1,0.05" shape=box style=rounded]
+	"张存珠" -> "穆绪光"
+	"李在利" [label="李在利" margin="0.1,0.05" shape=box style=rounded]
+	"张存珠" -> "李在利"
+	"孔翼云" [label="孔翼云" margin="0.1,0.05" shape=box style=rounded]
+	"张存珠" -> "孔翼云"
+	"赵心敏" [label="赵心敏" margin="0.1,0.05" shape=box style=rounded]
+	"张宏" [label="张宏" margin="0.1,0.05" shape=box style=rounded]
+	"赵心敏" -> "张宏"
+	"吕闻升" [label="吕闻升" margin="0.1,0.05" shape=box style=rounded]
+	"赵心敏" -> "吕闻升"
+	"华士泉" [label="华士泉" margin="0.1,0.05" shape=box style=rounded]
+	"赵心敏" -> "华士泉"
+	"杨贵田" [label="杨贵田" margin="0.1,0.05" shape=box style=rounded]
+	"赵心敏" -> "杨贵田"
+	"苏文茂" [label="苏文茂" margin="0.1,0.05" shape=box style=rounded]
+	"赵伟洲" [label="赵伟洲" margin="0.1,0.05" shape=box style=rounded]
+	"苏文茂" -> "赵伟洲"
+	"武福星" [label="武福星" margin="0.1,0.05" shape=box style=rounded]
+	"苏文茂" -> "武福星"
+	"吉马" [label="吉马" margin="0.1,0.05" shape=box style=rounded]
+	"苏文茂" -> "吉马"
+	"郭新" [label="郭新" margin="0.1,0.05" shape=box style=rounded]
+	"苏文茂" -> "郭新"
+	"黄运成" [label="黄运成" margin="0.1,0.05" shape=box style=rounded]
+	"苏文茂" -> "黄运成"
+	"刘俊杰" [label="刘俊杰" margin="0.1,0.05" shape=box style=rounded]
+	"苏文茂" -> "刘俊杰"
+	"苏士杰" [label="苏士杰" margin="0.1,0.05" shape=box style=rounded]
+	"苏文茂" -> "苏士杰"
+	"崔金泉" [label="崔金泉" margin="0.1,0.05" shape=box style=rounded]
+	"苏文茂" -> "崔金泉"
+	"宋德全" [label="宋德全" margin="0.1,0.05" shape=box style=rounded]
+	"苏文茂" -> "宋德全"
+	"董长禄" [label="董长禄" margin="0.1,0.05" shape=box style=rounded]
+	"欧光慈" [label="欧光慈" margin="0.1,0.05" shape=box style=rounded]
+	"董长禄" -> "欧光慈"
+	"刘长声" [label="刘长声" margin="0.1,0.05" shape=box style=rounded]
+	"周明涛" [label="周明涛" margin="0.1,0.05" shape=box style=rounded]
+	"刘长声" -> "周明涛"
+	"朱耀斌" [label="朱耀斌" margin="0.1,0.05" shape=box style=rounded]
+	"刘长声" -> "朱耀斌"
+	"王鹏" [label="王鹏" margin="0.1,0.05" shape=box style=rounded]
+	"刘长声" -> "王鹏"
+	"马季" [label="马季" margin="0.1,0.05" shape=box style=rounded]
+	"姜昆" [label="姜昆" margin="0.1,0.05" shape=box style=rounded]
+	"马季" -> "姜昆"
+	"赵炎" [label="赵炎" margin="0.1,0.05" shape=box style=rounded]
+	"马季" -> "赵炎"
+	"刘伟" [label="刘伟" margin="0.1,0.05" shape=box style=rounded]
+	"马季" -> "刘伟"
+	"冯巩" [label="冯巩" margin="0.1,0.05" shape=box style=rounded]
+	"马季" -> "冯巩"
+	"笑林" [label="笑林" margin="0.1,0.05" shape=box style=rounded]
+	"马季" -> "笑林"
+	"王谦祥" [label="王谦祥" margin="0.1,0.05" shape=box style=rounded]
+	"马季" -> "王谦祥"
+	"李增瑞" [label="李增瑞" margin="0.1,0.05" shape=box style=rounded]
+	"马季" -> "李增瑞"
+	"韩兰成" [label="韩兰成" margin="0.1,0.05" shape=box style=rounded]
+	"马季" -> "韩兰成"
+	"刘喜尧" [label="刘喜尧" margin="0.1,0.05" shape=box style=rounded]
+	"马季" -> "刘喜尧"
+	"彭子义" [label="彭子义" margin="0.1,0.05" shape=box style=rounded]
+	"马季" -> "彭子义"
+	"常佩业" [label="常佩业" margin="0.1,0.05" shape=box style=rounded]
+	"马季" -> "常佩业"
+	"黄志强" [label="黄志强" margin="0.1,0.05" shape=box style=rounded]
+	"马季" -> "黄志强"
+	"黄宏" [label="黄宏" margin="0.1,0.05" shape=box style=rounded]
+	"马季" -> "黄宏"
+	"尹卓林" [label="尹卓林" margin="0.1,0.05" shape=box style=rounded]
+	"马季" -> "尹卓林"
+	"姚新光" [label="姚新光" margin="0.1,0.05" shape=box style=rounded]
+	"马季" -> "姚新光"
+	"李国修" [label="李国修" margin="0.1,0.05" shape=box style=rounded]
+	"马季" -> "李国修"
+	"赵龙军" [label="赵龙军" margin="0.1,0.05" shape=box style=rounded]
+	"马季" -> "赵龙军"
+	"邢瑛瑛" [label="邢瑛瑛" margin="0.1,0.05" shape=box style=rounded]
+	"马季" -> "邢瑛瑛"
+	"刘立新" [label="刘立新" margin="0.1,0.05" shape=box style=rounded]
+	"马季" -> "刘立新"
+	"侯冠男" [label="侯冠男" margin="0.1,0.05" shape=box style=rounded]
+	"马季" -> "侯冠男"
+	"张庆" [label="张庆" margin="0.1,0.05" shape=box style=rounded]
+	"马季" -> "张庆"
+	"张志强" [label="张志强" margin="0.1,0.05" shape=box style=rounded]
+	"贾巍" [label="贾巍" margin="0.1,0.05" shape=box style=rounded]
+	"张志强" -> "贾巍"
+	"董铁良" [label="董铁良" margin="0.1,0.05" shape=box style=rounded]
+	"郑志方" [label="郑志方" margin="0.1,0.05" shape=box style=rounded]
+	"董铁良" -> "郑志方"
+	"刘飞" [label="刘飞" margin="0.1,0.05" shape=box style=rounded]
+	"董铁良" -> "刘飞"
+	"喻军" [label="喻军" margin="0.1,0.05" shape=box style=rounded]
+	"董铁良" -> "喻军"
+	"韩嘉艺" [label="韩嘉艺" margin="0.1,0.05" shape=box style=rounded]
+	"董铁良" -> "韩嘉艺"
+	"王长林" [label="王长林" margin="0.1,0.05" shape=box style=rounded]
+	"于海伦" [label="于海伦" margin="0.1,0.05" shape=box style=rounded]
+	"王长林" -> "于海伦"
+	"刘义学" [label="刘义学" margin="0.1,0.05" shape=box style=rounded]
+	"王长林" -> "刘义学"
+	"朱周义" [label="朱周义" margin="0.1,0.05" shape=box style=rounded]
+	"王长林" -> "朱周义"
+	"王伯麟" [label="王伯麟" margin="0.1,0.05" shape=box style=rounded]
+	"吕士健" [label="吕士健" margin="0.1,0.05" shape=box style=rounded]
+	"王伯麟" -> "吕士健"
+	"金文声" [label="金文声" margin="0.1,0.05" shape=box style=rounded]
+	"王春皓" [label="王春皓" margin="0.1,0.05" shape=box style=rounded]
+	"金文声" -> "王春皓"
+	"梁宏达（老梁）" [label="梁宏达（老梁）" margin="0.1,0.05" shape=box style=rounded]
+	"金文声" -> "梁宏达（老梁）"
+	"罗元魁（罗广兴）" [label="罗元魁（罗广兴）" margin="0.1,0.05" shape=box style=rounded]
+	"金文声" -> "罗元魁（罗广兴）"
+	"李元首（李涛）" [label="李元首（李涛）" margin="0.1,0.05" shape=box style=rounded]
+	"金文声" -> "李元首（李涛）"
+	"谢元才（华青）" [label="谢元才（华青）" margin="0.1,0.05" shape=box style=rounded]
+	"金文声" -> "谢元才（华青）"
+	"刘元茂（刘朋，艺名：小啰啰）" [label="刘元茂（刘朋，艺名：小啰啰）" margin="0.1,0.05" shape=box style=rounded]
+	"金文声" -> "刘元茂（刘朋，艺名：小啰啰）"
+	"朱玉潇（朱瑞潇）" [label="朱玉潇（朱瑞潇）" margin="0.1,0.05" shape=box style=rounded]
+	"金文声" -> "朱玉潇（朱瑞潇）"
+	"李立山" [label="李立山" margin="0.1,0.05" shape=box style=rounded]
+	"王文水" [label="王文水" margin="0.1,0.05" shape=box style=rounded]
+	"李立山" -> "王文水"
+	"刘源" [label="刘源" margin="0.1,0.05" shape=box style=rounded]
+	"李立山" -> "刘源"
+	"李国靖" [label="李国靖" margin="0.1,0.05" shape=box style=rounded]
+	"李立山" -> "李国靖"
+	"李洋" [label="李洋" margin="0.1,0.05" shape=box style=rounded]
+	"李立山" -> "李洋"
+	"贾旭明" [label="贾旭明" margin="0.1,0.05" shape=box style=rounded]
+	"李立山" -> "贾旭明"
+	"石小杰" [label="石小杰" margin="0.1,0.05" shape=box style=rounded]
+	"赵立同" [label="赵立同" margin="0.1,0.05" shape=box style=rounded]
+	"石小杰" -> "赵立同"
+	"赵振铎" [label="赵振铎" margin="0.1,0.05" shape=box style=rounded]
+	"李金斗" [label="李金斗" margin="0.1,0.05" shape=box style=rounded]
+	"赵振铎" -> "李金斗"
+	"王文友" [label="王文友" margin="0.1,0.05" shape=box style=rounded]
+	"赵振铎" -> "王文友"
+	"肖巍" [label="肖巍" margin="0.1,0.05" shape=box style=rounded]
+	"赵振铎" -> "肖巍"
+	"贾承博" [label="贾承博" margin="0.1,0.05" shape=box style=rounded]
+	"赵振铎" -> "贾承博"
+	"李松涛" [label="李松涛" margin="0.1,0.05" shape=box style=rounded]
+	"赵振铎" -> "李松涛"
+	"魏文亮" [label="魏文亮" margin="0.1,0.05" shape=box style=rounded]
+	"李相友" [label="李相友" margin="0.1,0.05" shape=box style=rounded]
+	"魏文亮" -> "李相友"
+	"李建忠" [label="李建忠" margin="0.1,0.05" shape=box style=rounded]
+	"魏文亮" -> "李建忠"
+	"李宝忠" [label="李宝忠" margin="0.1,0.05" shape=box style=rounded]
+	"魏文亮" -> "李宝忠"
+	"赵松涛" [label="赵松涛" margin="0.1,0.05" shape=box style=rounded]
+	"魏文亮" -> "赵松涛"
+	"罗峰" [label="罗峰" margin="0.1,0.05" shape=box style=rounded]
+	"魏文亮" -> "罗峰"
+	"朱德刚" [label="朱德刚" margin="0.1,0.05" shape=box style=rounded]
+	"魏文亮" -> "朱德刚"
+	"刘文亨" [label="刘文亨" margin="0.1,0.05" shape=box style=rounded]
+	"高吉庆" [label="高吉庆" margin="0.1,0.05" shape=box style=rounded]
+	"刘文亨" -> "高吉庆"
+	"马云路" [label="马云路" margin="0.1,0.05" shape=box style=rounded]
+	"刘文亨" -> "马云路"
+	"高顺来" [label="高顺来" margin="0.1,0.05" shape=box style=rounded]
+	"刘文亨" -> "高顺来"
+	"陶大为" [label="陶大为" margin="0.1,0.05" shape=box style=rounded]
+	"刘文亨" -> "陶大为"
+	"刘文步" [label="刘文步" margin="0.1,0.05" shape=box style=rounded]
+	"李明刚" [label="李明刚" margin="0.1,0.05" shape=box style=rounded]
+	"刘文步" -> "李明刚"
+	"辛明璋" [label="辛明璋" margin="0.1,0.05" shape=box style=rounded]
+	"刘文步" -> "辛明璋"
+	"刘明涛" [label="刘明涛" margin="0.1,0.05" shape=box style=rounded]
+	"刘文步" -> "刘明涛"
+	"石富宽" [label="石富宽" margin="0.1,0.05" shape=box style=rounded]
+	"于谦" [label="于谦" margin="0.1,0.05" shape=box style=rounded]
+	"石富宽" -> "于谦"
+	"侯震" [label="侯震" margin="0.1,0.05" shape=box style=rounded]
+	"石富宽" -> "侯震"
+	"孙越" [label="孙越" margin="0.1,0.05" shape=box style=rounded]
+	"石富宽" -> "孙越"
+	"唐杰忠" [label="唐杰忠" margin="0.1,0.05" shape=box style=rounded]
+	"张茂起" [label="张茂起" margin="0.1,0.05" shape=box style=rounded]
+	"唐杰忠" -> "张茂起"
+	"李建华" [label="李建华" margin="0.1,0.05" shape=box style=rounded]
+	"唐杰忠" -> "李建华"
+	"李艺" [label="李艺" margin="0.1,0.05" shape=box style=rounded]
+	"唐杰忠" -> "李艺"
+	"刘全刚" [label="刘全刚" margin="0.1,0.05" shape=box style=rounded]
+	"唐杰忠" -> "刘全刚"
+	"李金祥" [label="李金祥" margin="0.1,0.05" shape=box style=rounded]
+	"唐杰忠" -> "李金祥"
+	"赵斌" [label="赵斌" margin="0.1,0.05" shape=box style=rounded]
+	"唐杰忠" -> "赵斌"
+	"崔喜跃" [label="崔喜跃" margin="0.1,0.05" shape=box style=rounded]
+	"唐杰忠" -> "崔喜跃"
+	"杨宁" [label="杨宁" margin="0.1,0.05" shape=box style=rounded]
+	"唐杰忠" -> "杨宁"
+	"巩汉林" [label="巩汉林" margin="0.1,0.05" shape=box style=rounded]
+	"唐杰忠" -> "巩汉林"
+	"魏真柏" [label="魏真柏" margin="0.1,0.05" shape=box style=rounded]
+	"唐杰忠" -> "魏真柏"
+	"朱琦" [label="朱琦" margin="0.1,0.05" shape=box style=rounded]
+	"唐杰忠" -> "朱琦"
+	"汪声亚" [label="汪声亚" margin="0.1,0.05" shape=box style=rounded]
+	"唐杰忠" -> "汪声亚"
+	"杨祖尧" [label="杨祖尧" margin="0.1,0.05" shape=box style=rounded]
+	"唐杰忠" -> "杨祖尧"
+	"卡尔罗" [label="卡尔罗" margin="0.1,0.05" shape=box style=rounded]
+	"唐杰忠" -> "卡尔罗"
+	"马洛" [label="马洛" margin="0.1,0.05" shape=box style=rounded]
+	"唐杰忠" -> "马洛"
+	"罗爱恬" [label="罗爱恬" margin="0.1,0.05" shape=box style=rounded]
+	"唐杰忠" -> "罗爱恬"
+	"白玉" [label="白玉" margin="0.1,0.05" shape=box style=rounded]
+	"唐杰忠" -> "白玉"
+	"张文甫" [label="张文甫" margin="0.1,0.05" shape=box style=rounded]
+	"刘玉辉" [label="刘玉辉" margin="0.1,0.05" shape=box style=rounded]
+	"张文甫" -> "刘玉辉"
+	"康桂生" [label="康桂生" margin="0.1,0.05" shape=box style=rounded]
+	"霍士云" [label="霍士云" margin="0.1,0.05" shape=box style=rounded]
+	"康桂生" -> "霍士云"
+	"薛伟" [label="薛伟" margin="0.1,0.05" shape=box style=rounded]
+	"康桂生" -> "薛伟"
+	"于立新" [label="于立新" margin="0.1,0.05" shape=box style=rounded]
+	"康桂生" -> "于立新"
+	"陈曦" [label="陈曦" margin="0.1,0.05" shape=box style=rounded]
+	"康桂生" -> "陈曦"
+	"常安" [label="常安" margin="0.1,0.05" shape=box style=rounded]
+	"康桂生" -> "常安"
+	"刘冬" [label="刘冬" margin="0.1,0.05" shape=box style=rounded]
+	"康桂生" -> "刘冬"
+	"段炼" [label="段炼" margin="0.1,0.05" shape=box style=rounded]
+	"康桂生" -> "段炼"
+	"郑晨" [label="郑晨" margin="0.1,0.05" shape=box style=rounded]
+	"康桂生" -> "郑晨"
+	"孙威" [label="孙威" margin="0.1,0.05" shape=box style=rounded]
+	"康桂生" -> "孙威"
+	"丁广泉" [label="丁广泉" margin="0.1,0.05" shape=box style=rounded]
+	"连春建" [label="连春建" margin="0.1,0.05" shape=box style=rounded]
+	"丁广泉" -> "连春建"
+	"郝莲露" [label="郝莲露" margin="0.1,0.05" shape=box style=rounded]
+	"丁广泉" -> "郝莲露"
+	"常亮" [label="常亮" margin="0.1,0.05" shape=box style=rounded]
+	"丁广泉" -> "常亮"
+	"马马杜" [label="马马杜" margin="0.1,0.05" shape=box style=rounded]
+	"丁广泉" -> "马马杜"
+	"莲娜" [label="莲娜" margin="0.1,0.05" shape=box style=rounded]
+	"丁广泉" -> "莲娜"
+	"玛丽娜" [label="玛丽娜" margin="0.1,0.05" shape=box style=rounded]
+	"丁广泉" -> "玛丽娜"
+	"阿努拉" [label="阿努拉" margin="0.1,0.05" shape=box style=rounded]
+	"丁广泉" -> "阿努拉"
+	"董漠涵" [label="董漠涵" margin="0.1,0.05" shape=box style=rounded]
+	"丁广泉" -> "董漠涵"
+	"莫里斯" [label="莫里斯" margin="0.1,0.05" shape=box style=rounded]
+	"丁广泉" -> "莫里斯"
+	"伊丽沙白" [label="伊丽沙白" margin="0.1,0.05" shape=box style=rounded]
+	"丁广泉" -> "伊丽沙白"
+	"石桥久弥" [label="石桥久弥" margin="0.1,0.05" shape=box style=rounded]
+	"丁广泉" -> "石桥久弥"
+	"李佳骏" [label="李佳骏" margin="0.1,0.05" shape=box style=rounded]
+	"丁广泉" -> "李佳骏"
+	"龚哲平" [label="龚哲平" margin="0.1,0.05" shape=box style=rounded]
+	"丁广泉" -> "龚哲平"
+	"米雷娜" [label="米雷娜" margin="0.1,0.05" shape=box style=rounded]
+	"丁广泉" -> "米雷娜"
+	"李霁霞" [label="李霁霞" margin="0.1,0.05" shape=box style=rounded]
+	"丁广泉" -> "李霁霞"
+	"马震" [label="马震" margin="0.1,0.05" shape=box style=rounded]
+	"丁广泉" -> "马震"
+	"郭安瑞" [label="郭安瑞" margin="0.1,0.05" shape=box style=rounded]
+	"丁广泉" -> "郭安瑞"
+	"金文和" [label="金文和" margin="0.1,0.05" shape=box style=rounded]
+	"徐祖国" [label="徐祖国" margin="0.1,0.05" shape=box style=rounded]
+	"金文和" -> "徐祖国"
+	"郭伦" [label="郭伦" margin="0.1,0.05" shape=box style=rounded]
+	"金文和" -> "郭伦"
+	"张玉琪" [label="张玉琪" margin="0.1,0.05" shape=box style=rounded]
+	"金文和" -> "张玉琪"
+	"朱文正" [label="朱文正" margin="0.1,0.05" shape=box style=rounded]
+	"孙继忠" [label="孙继忠" margin="0.1,0.05" shape=box style=rounded]
+	"朱文正" -> "孙继忠"
+	"史文惠" [label="史文惠" margin="0.1,0.05" shape=box style=rounded]
+	"杨四奇" [label="杨四奇" margin="0.1,0.05" shape=box style=rounded]
+	"史文惠" -> "杨四奇"
+	"赵晶" [label="赵晶" margin="0.1,0.05" shape=box style=rounded]
+	"史文惠" -> "赵晶"
+	"王雅福" [label="王雅福" margin="0.1,0.05" shape=box style=rounded]
+	"刘际（学春）" [label="刘际（学春）" margin="0.1,0.05" shape=box style=rounded]
+	"王雅福" -> "刘际（学春）"
+	"芦克宁（学宁）" [label="芦克宁（学宁）" margin="0.1,0.05" shape=box style=rounded]
+	"王雅福" -> "芦克宁（学宁）"
+	"肖 岩（学岩）" [label="肖 岩（学岩）" margin="0.1,0.05" shape=box style=rounded]
+	"王雅福" -> "肖 岩（学岩）"
+	"任宝安（学安）" [label="任宝安（学安）" margin="0.1,0.05" shape=box style=rounded]
+	"王雅福" -> "任宝安（学安）"
+	"崔鑫林（学林）" [label="崔鑫林（学林）" margin="0.1,0.05" shape=box style=rounded]
+	"王雅福" -> "崔鑫林（学林）"
+	"刘 喆（学喆）" [label="刘 喆（学喆）" margin="0.1,0.05" shape=box style=rounded]
+	"王雅福" -> "刘 喆（学喆）"
+	"马星野（学野）" [label="马星野（学野）" margin="0.1,0.05" shape=box style=rounded]
+	"王雅福" -> "马星野（学野）"
+	"武邴然（学然）" [label="武邴然（学然）" margin="0.1,0.05" shape=box style=rounded]
+	"王雅福" -> "武邴然（学然）"
+	"徐晓晰（学晰）" [label="徐晓晰（学晰）" margin="0.1,0.05" shape=box style=rounded]
+	"王雅福" -> "徐晓晰（学晰）"
+	"郭春伟（学伟）" [label="郭春伟（学伟）" margin="0.1,0.05" shape=box style=rounded]
+	"王雅福" -> "郭春伟（学伟）"
+	"张志斌（学斌）" [label="张志斌（学斌）" margin="0.1,0.05" shape=box style=rounded]
+	"王雅福" -> "张志斌（学斌）"
+	"乔亚茹（学茹）" [label="乔亚茹（学茹）" margin="0.1,0.05" shape=box style=rounded]
+	"王雅福" -> "乔亚茹（学茹）"
+	"李文成" [label="李文成" margin="0.1,0.05" shape=box style=rounded]
+	"杨常州" [label="杨常州" margin="0.1,0.05" shape=box style=rounded]
+	"李文成" -> "杨常州"
+	"王常柱" [label="王常柱" margin="0.1,0.05" shape=box style=rounded]
+	"李文成" -> "王常柱"
+	"郭文歧" [label="郭文歧" margin="0.1,0.05" shape=box style=rounded]
+	"王少林" [label="王少林" margin="0.1,0.05" shape=box style=rounded]
+	"郭文歧" -> "王少林"
+	"李玉君" [label="李玉君" margin="0.1,0.05" shape=box style=rounded]
+	"郭文歧" -> "李玉君"
+	"刘文亮" [label="刘文亮" margin="0.1,0.05" shape=box style=rounded]
+	"马洪海" [label="马洪海" margin="0.1,0.05" shape=box style=rounded]
+	"刘文亮" -> "马洪海"
+	"刘洪江" [label="刘洪江" margin="0.1,0.05" shape=box style=rounded]
+	"刘文亮" -> "刘洪江"
+	"杨洪滨" [label="杨洪滨" margin="0.1,0.05" shape=box style=rounded]
+	"刘文亮" -> "杨洪滨"
+	"韩笑" [label="韩笑" margin="0.1,0.05" shape=box style=rounded]
+	"刘文亮" -> "韩笑"
+	"王学义" [label="王学义" margin="0.1,0.05" shape=box style=rounded]
+	"李士琦" [label="李士琦" margin="0.1,0.05" shape=box style=rounded]
+	"王学义" -> "李士琦"
+	"李中华" [label="李中华" margin="0.1,0.05" shape=box style=rounded]
+	"王学义" -> "李中华"
+	"段军" [label="段军" margin="0.1,0.05" shape=box style=rounded]
+	"王学义" -> "段军"
+	"丁玉鹏" [label="丁玉鹏" margin="0.1,0.05" shape=box style=rounded]
+	"王蓬" [label="王蓬" margin="0.1,0.05" shape=box style=rounded]
+	"丁玉鹏" -> "王蓬"
+	"杨紫阳" [label="杨紫阳" margin="0.1,0.05" shape=box style=rounded]
+	"仇君" [label="仇君" margin="0.1,0.05" shape=box style=rounded]
+	"杨紫阳" -> "仇君"
+	"戴福月" [label="戴福月" margin="0.1,0.05" shape=box style=rounded]
+	"高东明" [label="高东明" margin="0.1,0.05" shape=box style=rounded]
+	"戴福月" -> "高东明"
+	"于化民" [label="于化民" margin="0.1,0.05" shape=box style=rounded]
+	"戴福月" -> "于化民"
+	"王锦文" [label="王锦文" margin="0.1,0.05" shape=box style=rounded]
+	"冯敏山" [label="冯敏山" margin="0.1,0.05" shape=box style=rounded]
+	"王锦文" -> "冯敏山"
+	"果克" [label="果克" margin="0.1,0.05" shape=box style=rounded]
+	"王锦文" -> "果克"
+	"陈庆" [label="陈庆" margin="0.1,0.05" shape=box style=rounded]
+	"王锦文" -> "陈庆"
+	"刘玉才" [label="刘玉才" margin="0.1,0.05" shape=box style=rounded]
+	"王锦文" -> "刘玉才"
+	"赵连升" [label="赵连升" margin="0.1,0.05" shape=box style=rounded]
+	"赵荣全" [label="赵荣全" margin="0.1,0.05" shape=box style=rounded]
+	"赵连升" -> "赵荣全"
+	"马六甲" [label="马六甲" margin="0.1,0.05" shape=box style=rounded]
+	"郝梦春" [label="郝梦春" margin="0.1,0.05" shape=box style=rounded]
+	"马六甲" -> "郝梦春"
+	"何德利" [label="何德利" margin="0.1,0.05" shape=box style=rounded]
+	"彭效芃" [label="彭效芃" margin="0.1,0.05" shape=box style=rounded]
+	"何德利" -> "彭效芃"
+	"赵立同" [label="赵立同" margin="0.1,0.05" shape=box style=rounded]
+	"何德利" -> "赵立同"
+	"艾春雨" [label="艾春雨" margin="0.1,0.05" shape=box style=rounded]
+	"何德利" -> "艾春雨"
+	"郭志昂" [label="郭志昂" margin="0.1,0.05" shape=box style=rounded]
+	"何德利" -> "郭志昂"
+	"陈小康" [label="陈小康" margin="0.1,0.05" shape=box style=rounded]
+	"何德利" -> "陈小康"
+	"庞崇波" [label="庞崇波" margin="0.1,0.05" shape=box style=rounded]
+	"何德利" -> "庞崇波"
+	"李伟" [label="李伟" margin="0.1,0.05" shape=box style=rounded]
+	"何德利" -> "李伟"
+	"郑小山" [label="郑小山" margin="0.1,0.05" shape=box style=rounded]
+	"罗健" [label="罗健" margin="0.1,0.05" shape=box style=rounded]
+	"郑小山" -> "罗健"
+	"王筱磊" [label="王筱磊" margin="0.1,0.05" shape=box style=rounded]
+	"郑小山" -> "王筱磊"
+	"徐力" [label="徐力" margin="0.1,0.05" shape=box style=rounded]
+	"郑小山" -> "徐力"
+	"刘宝安" [label="刘宝安" margin="0.1,0.05" shape=box style=rounded]
+	"郑小山" -> "刘宝安"
+	"郑宏伟" [label="郑宏伟" margin="0.1,0.05" shape=box style=rounded]
+	"郑小山" -> "郑宏伟"
+	"师戈" [label="师戈" margin="0.1,0.05" shape=box style=rounded]
+	"郑小山" -> "师戈"
+	"苗阜" [label="苗阜" margin="0.1,0.05" shape=box style=rounded]
+	"郑小山" -> "苗阜"
+	"曹磊" [label="曹磊" margin="0.1,0.05" shape=box style=rounded]
+	"郑小山" -> "曹磊"
+	"贾世泉" [label="贾世泉" margin="0.1,0.05" shape=box style=rounded]
+	"李伟" [label="李伟" margin="0.1,0.05" shape=box style=rounded]
+	"贾世泉" -> "李伟"
+	"王平" [label="王平" margin="0.1,0.05" shape=box style=rounded]
+	"贾世泉" -> "王平"
+	"刘加柯" [label="刘加柯" margin="0.1,0.05" shape=box style=rounded]
+	"刘科" [label="刘科" margin="0.1,0.05" shape=box style=rounded]
+	"刘加柯" -> "刘科"
+	"孙世达" [label="孙世达" margin="0.1,0.05" shape=box style=rounded]
+	"严玉林" [label="严玉林" margin="0.1,0.05" shape=box style=rounded]
+	"孙世达" -> "严玉林"
+	"童鸣" [label="童鸣" margin="0.1,0.05" shape=box style=rounded]
+	"孙世达" -> "童鸣"
+	"叶杰平" [label="叶杰平" margin="0.1,0.05" shape=box style=rounded]
+	"孙世达" -> "叶杰平"
+	"孙小林" [label="孙小林" margin="0.1,0.05" shape=box style=rounded]
+	"付俊坤" [label="付俊坤" margin="0.1,0.05" shape=box style=rounded]
+	"孙小林" -> "付俊坤"
+	"隋尚恩" [label="隋尚恩" margin="0.1,0.05" shape=box style=rounded]
+	"孙小林" -> "隋尚恩"
+	"高善勤" [label="高善勤" margin="0.1,0.05" shape=box style=rounded]
+	"孙小林" -> "高善勤"
+	"张新东" [label="张新东" margin="0.1,0.05" shape=box style=rounded]
+	"孙小林" -> "张新东"
+	"靳军" [label="靳军" margin="0.1,0.05" shape=box style=rounded]
+	"孙小林" -> "靳军"
+	"崔洪刚" [label="崔洪刚" margin="0.1,0.05" shape=box style=rounded]
+	"孙小林" -> "崔洪刚"
+	"张战波" [label="张战波" margin="0.1,0.05" shape=box style=rounded]
+	"孙小林" -> "张战波"
+	"田宁" [label="田宁" margin="0.1,0.05" shape=box style=rounded]
+	"孙小林" -> "田宁"
+	"李晓龙" [label="李晓龙" margin="0.1,0.05" shape=box style=rounded]
+	"孙小林" -> "李晓龙"
+	"刘延超" [label="刘延超" margin="0.1,0.05" shape=box style=rounded]
+	"孙小林" -> "刘延超"
+	"陈亮" [label="陈亮" margin="0.1,0.05" shape=box style=rounded]
+	"孙小林" -> "陈亮"
+	"刘振峰" [label="刘振峰" margin="0.1,0.05" shape=box style=rounded]
+	"孙小林" -> "刘振峰"
+	"何双" [label="何双" margin="0.1,0.05" shape=box style=rounded]
+	"孙小林" -> "何双"
+	"朱峰" [label="朱峰" margin="0.1,0.05" shape=box style=rounded]
+	"孙小林" -> "朱峰"
+	"吴劲松" [label="吴劲松" margin="0.1,0.05" shape=box style=rounded]
+	"孙小林" -> "吴劲松"
+	"南勇力" [label="南勇力" margin="0.1,0.05" shape=box style=rounded]
+	"孙小林" -> "南勇力"
+	"马福胜" [label="马福胜" margin="0.1,0.05" shape=box style=rounded]
+	"孙小林" -> "马福胜"
+	"王金泉" [label="王金泉" margin="0.1,0.05" shape=box style=rounded]
+	"孙小林" -> "王金泉"
+	"张富桐" [label="张富桐" margin="0.1,0.05" shape=box style=rounded]
+	"孙小林" -> "张富桐"
+	"王立" [label="王立" margin="0.1,0.05" shape=box style=rounded]
+	"孙小林" -> "王立"
+	"姜超" [label="姜超" margin="0.1,0.05" shape=box style=rounded]
+	"孙小林" -> "姜超"
+	"李磊" [label="李磊" margin="0.1,0.05" shape=box style=rounded]
+	"孙小林" -> "李磊"
+	"王子善" [label="王子善" margin="0.1,0.05" shape=box style=rounded]
+	"孙小林" -> "王子善"
+	"冯淯洋" [label="冯淯洋" margin="0.1,0.05" shape=box style=rounded]
+	"孙小林" -> "冯淯洋"
+	"郑卓" [label="郑卓" margin="0.1,0.05" shape=box style=rounded]
+	"孙小林" -> "郑卓"
+	"苏丽丽" [label="苏丽丽" margin="0.1,0.05" shape=box style=rounded]
+	"孙小林" -> "苏丽丽"
+	"任安涛" [label="任安涛" margin="0.1,0.05" shape=box style=rounded]
+	"孙小林" -> "任安涛"
+	"于松北" [label="于松北" margin="0.1,0.05" shape=box style=rounded]
+	"孙小林" -> "于松北"
+	"李鑫" [label="李鑫" margin="0.1,0.05" shape=box style=rounded]
+	"孙小林" -> "李鑫"
+	"张立民" [label="张立民" margin="0.1,0.05" shape=box style=rounded]
+	"孙小林" -> "张立民"
+	"李耕法" [label="李耕法" margin="0.1,0.05" shape=box style=rounded]
+	"孙小林" -> "李耕法"
+	"靖德刚" [label="靖德刚" margin="0.1,0.05" shape=box style=rounded]
+	"孙小林" -> "靖德刚"
+	"胡克新" [label="胡克新" margin="0.1,0.05" shape=box style=rounded]
+	"孙小林" -> "胡克新"
+	"王昊东" [label="王昊东" margin="0.1,0.05" shape=box style=rounded]
+	"孙小林" -> "王昊东"
+	"王晓婓" [label="王晓婓" margin="0.1,0.05" shape=box style=rounded]
+	"孙小林" -> "王晓婓"
+	"闫松" [label="闫松" margin="0.1,0.05" shape=box style=rounded]
+	"孙小林" -> "闫松"
+	"邢伟伟" [label="邢伟伟" margin="0.1,0.05" shape=box style=rounded]
+	"孙小林" -> "邢伟伟"
+	"张国营" [label="张国营" margin="0.1,0.05" shape=box style=rounded]
+	"孙小林" -> "张国营"
+	"刘强" [label="刘强" margin="0.1,0.05" shape=box style=rounded]
+	"孙小林" -> "刘强"
+	"谭聪" [label="谭聪" margin="0.1,0.05" shape=box style=rounded]
+	"孙小林" -> "谭聪"
+	"孙朝鹏" [label="孙朝鹏" margin="0.1,0.05" shape=box style=rounded]
+	"孙小林" -> "孙朝鹏"
+	"范振钰" [label="范振钰" margin="0.1,0.05" shape=box style=rounded]
+	"赵津生" [label="赵津生" margin="0.1,0.05" shape=box style=rounded]
+	"范振钰" -> "赵津生"
+	"腾生祥" [label="腾生祥" margin="0.1,0.05" shape=box style=rounded]
+	"范振钰" -> "腾生祥"
+	"彭华" [label="彭华" margin="0.1,0.05" shape=box style=rounded]
+	"范振钰" -> "彭华"
+	"于志远" [label="于志远" margin="0.1,0.05" shape=box style=rounded]
+	"范振钰" -> "于志远"
+	"郭伯良" [label="郭伯良" margin="0.1,0.05" shape=box style=rounded]
+	"范振钰" -> "郭伯良"
+	"何世铭" [label="何世铭" margin="0.1,0.05" shape=box style=rounded]
+	"范振钰" -> "何世铭"
+	"王传林" [label="王传林" margin="0.1,0.05" shape=box style=rounded]
+	"范振钰" -> "王传林"
+	"丛波" [label="丛波" margin="0.1,0.05" shape=box style=rounded]
+	"范振钰" -> "丛波"
+	"杨俊杰" [label="杨俊杰" margin="0.1,0.05" shape=box style=rounded]
+	"范振钰" -> "杨俊杰"
+	"马腾翔" [label="马腾翔" margin="0.1,0.05" shape=box style=rounded]
+	"范振钰" -> "马腾翔"
+	"刘春山" [label="刘春山" margin="0.1,0.05" shape=box style=rounded]
+	"范振钰" -> "刘春山"
+	"张德起" [label="张德起" margin="0.1,0.05" shape=box style=rounded]
+	"范振钰" -> "张德起"
+	"高峰" [label="高峰" margin="0.1,0.05" shape=box style=rounded]
+	"范振钰" -> "高峰"
+	"宫大庆" [label="宫大庆" margin="0.1,0.05" shape=box style=rounded]
+	"范振钰" -> "宫大庆"
+	"杨志光" [label="杨志光" margin="0.1,0.05" shape=box style=rounded]
+	"杨长在" [label="杨长在" margin="0.1,0.05" shape=box style=rounded]
+	"杨志光" -> "杨长在"
+	"陈永忠" [label="陈永忠" margin="0.1,0.05" shape=box style=rounded]
+	"元春起" [label="元春起" margin="0.1,0.05" shape=box style=rounded]
+	"陈永忠" -> "元春起"
+	"赵传璋" [label="赵传璋" margin="0.1,0.05" shape=box style=rounded]
+	"周洪儒" [label="周洪儒" margin="0.1,0.05" shape=box style=rounded]
+	"赵传璋" -> "周洪儒"
+	"殷培田" [label="殷培田" margin="0.1,0.05" shape=box style=rounded]
+	"蒋明孝" [label="蒋明孝" margin="0.1,0.05" shape=box style=rounded]
+	"殷培田" -> "蒋明孝"
+	"林文春" [label="林文春" margin="0.1,0.05" shape=box style=rounded]
+	"李铎" [label="李铎" margin="0.1,0.05" shape=box style=rounded]
+	"林文春" -> "李铎"
+	"李伯祥" [label="李伯祥" margin="0.1,0.05" shape=box style=rounded]
+	"刘继深" [label="刘继深" margin="0.1,0.05" shape=box style=rounded]
+	"李伯祥" -> "刘继深"
+	"郑健" [label="郑健" margin="0.1,0.05" shape=box style=rounded]
+	"李伯祥" -> "郑健"
+	"戴志诚" [label="戴志诚" margin="0.1,0.05" shape=box style=rounded]
+	"李伯祥" -> "戴志诚"
+	"刘毛毛" [label="刘毛毛" margin="0.1,0.05" shape=box style=rounded]
+	"李伯祥" -> "刘毛毛"
+	"李增满" [label="李增满" margin="0.1,0.05" shape=box style=rounded]
+	"李伯祥" -> "李增满"
+	"高玉林" [label="高玉林" margin="0.1,0.05" shape=box style=rounded]
+	"李伯祥" -> "高玉林"
+	"耿直" [label="耿直" margin="0.1,0.05" shape=box style=rounded]
+	"李伯祥" -> "耿直"
+	"王平" [label="王平" margin="0.1,0.05" shape=box style=rounded]
+	"李伯祥" -> "王平"
+	"孙承林" [label="孙承林" margin="0.1,0.05" shape=box style=rounded]
+	"李伯祥" -> "孙承林"
+	"孙强" [label="孙强" margin="0.1,0.05" shape=box style=rounded]
+	"李伯祥" -> "孙强"
+	"高吉林" [label="高吉林" margin="0.1,0.05" shape=box style=rounded]
+	"李伯祥" -> "高吉林"
+	"金旺" [label="金旺" margin="0.1,0.05" shape=box style=rounded]
+	"李伯祥" -> "金旺"
+	"高英培" [label="高英培" margin="0.1,0.05" shape=box style=rounded]
+	"苏明杰" [label="苏明杰" margin="0.1,0.05" shape=box style=rounded]
+	"高英培" -> "苏明杰"
+	"李松岩" [label="李松岩" margin="0.1,0.05" shape=box style=rounded]
+	"高英培" -> "李松岩"
+	"高青" [label="高青" margin="0.1,0.05" shape=box style=rounded]
+	"高英培" -> "高青"
+	"吴健" [label="吴健" margin="0.1,0.05" shape=box style=rounded]
+	"高英培" -> "吴健"
+	"鲁少华" [label="鲁少华" margin="0.1,0.05" shape=box style=rounded]
+	"高英培" -> "鲁少华"
+	"孟凡贵" [label="孟凡贵" margin="0.1,0.05" shape=box style=rounded]
+	"高英培" -> "孟凡贵"
+	"赵保乐" [label="赵保乐" margin="0.1,0.05" shape=box style=rounded]
+	"高英培" -> "赵保乐"
+	"李嘉存" [label="李嘉存" margin="0.1,0.05" shape=box style=rounded]
+	"高英培" -> "李嘉存"
+	"韩翔" [label="韩翔" margin="0.1,0.05" shape=box style=rounded]
+	"高英培" -> "韩翔"
+	"李志刚" [label="李志刚" margin="0.1,0.05" shape=box style=rounded]
+	"高英培" -> "李志刚"
+	"杨天立" [label="杨天立" margin="0.1,0.05" shape=box style=rounded]
+	"高英培" -> "杨天立"
+	"朱强" [label="朱强" margin="0.1,0.05" shape=box style=rounded]
+	"高英培" -> "朱强"
+	"刘显东" [label="刘显东" margin="0.1,0.05" shape=box style=rounded]
+	"高英培" -> "刘显东"
+	"吴金富" [label="吴金富" margin="0.1,0.05" shape=box style=rounded]
+	"高英培" -> "吴金富"
+	"傅向波" [label="傅向波" margin="0.1,0.05" shape=box style=rounded]
+	"高英培" -> "傅向波"
+	"张伯鑫" [label="张伯鑫" margin="0.1,0.05" shape=box style=rounded]
+	"高英培" -> "张伯鑫"
+	"马志存" [label="马志存" margin="0.1,0.05" shape=box style=rounded]
+	"马洪升" [label="马洪升" margin="0.1,0.05" shape=box style=rounded]
+	"马志存" -> "马洪升"
+	"赵传真" [label="赵传真" margin="0.1,0.05" shape=box style=rounded]
+	"马志存" -> "赵传真"
+	"王宏" [label="王宏" margin="0.1,0.05" shape=box style=rounded]
+	"马志存" -> "王宏"
+	"杨长惠" [label="杨长惠" margin="0.1,0.05" shape=box style=rounded]
+	"马志存" -> "杨长惠"
+	"刘亚津" [label="刘亚津" margin="0.1,0.05" shape=box style=rounded]
+	"马志存" -> "刘亚津"
+	"王文进" [label="王文进" margin="0.1,0.05" shape=box style=rounded]
+	"战暑日" [label="战暑日" margin="0.1,0.05" shape=box style=rounded]
+	"王文进" -> "战暑日"
+	"孙殿盛" [label="孙殿盛" margin="0.1,0.05" shape=box style=rounded]
+	"王文进" -> "孙殿盛"
+	"王元锋" [label="王元锋" margin="0.1,0.05" shape=box style=rounded]
+	"王文进" -> "王元锋"
+	"徐德奎" [label="徐德奎" margin="0.1,0.05" shape=box style=rounded]
+	"刘树青" [label="刘树青" margin="0.1,0.05" shape=box style=rounded]
+	"徐德奎" -> "刘树青"
+	"刘金瑞" [label="刘金瑞" margin="0.1,0.05" shape=box style=rounded]
+	"徐德奎" -> "刘金瑞"
+	"吴刚伦" [label="吴刚伦" margin="0.1,0.05" shape=box style=rounded]
+	"徐德奎" -> "吴刚伦"
+	"陈治华" [label="陈治华" margin="0.1,0.05" shape=box style=rounded]
+	"徐德奎" -> "陈治华"
+	"王印权" [label="王印权" margin="0.1,0.05" shape=box style=rounded]
+	"叶景林" [label="叶景林" margin="0.1,0.05" shape=box style=rounded]
+	"王印权" -> "叶景林"
+	"李少泉" [label="李少泉" margin="0.1,0.05" shape=box style=rounded]
+	"王印权" -> "李少泉"
+	"张志宽" [label="张志宽" margin="0.1,0.05" shape=box style=rounded]
+	"马铁岭" [label="马铁岭" margin="0.1,0.05" shape=box style=rounded]
+	"张志宽" -> "马铁岭"
+	"王影贤" [label="王影贤" margin="0.1,0.05" shape=box style=rounded]
+	"张志宽" -> "王影贤"
+	"马政" [label="马政" margin="0.1,0.05" shape=box style=rounded]
+	"张志宽" -> "马政"
+	"王文长" [label="王文长" margin="0.1,0.05" shape=box style=rounded]
+	"张志宽" -> "王文长"
+	"张楠" [label="张楠" margin="0.1,0.05" shape=box style=rounded]
+	"张志宽" -> "张楠"
+	"宋 勇" [label="宋 勇" margin="0.1,0.05" shape=box style=rounded]
+	"周静" [label="周静" margin="0.1,0.05" shape=box style=rounded]
+	"宋 勇" -> "周静"
+	"马贵荣" [label="马贵荣" margin="0.1,0.05" shape=box style=rounded]
+	"王玥波" [label="王玥波" margin="0.1,0.05" shape=box style=rounded]
+	"马贵荣" -> "王玥波"
+	"赵臣" [label="赵臣" margin="0.1,0.05" shape=box style=rounded]
+	"马贵荣" -> "赵臣"
+	"郭磊" [label="郭磊" margin="0.1,0.05" shape=box style=rounded]
+	"马贵荣" -> "郭磊"
+	"赵迎新" [label="赵迎新" margin="0.1,0.05" shape=box style=rounded]
+	"马贵荣" -> "赵迎新"
+	"杨磊" [label="杨磊" margin="0.1,0.05" shape=box style=rounded]
+	"马贵荣" -> "杨磊"
+	"郭鸿斌" [label="郭鸿斌" margin="0.1,0.05" shape=box style=rounded]
+	"马贵荣" -> "郭鸿斌"
+	"王夏冰" [label="王夏冰" margin="0.1,0.05" shape=box style=rounded]
+	"马贵荣" -> "王夏冰"
+	"施文琳" [label="施文琳" margin="0.1,0.05" shape=box style=rounded]
+	"李刚" [label="李刚" margin="0.1,0.05" shape=box style=rounded]
+	"施文琳" -> "李刚"
+	"齐力新" [label="齐力新" margin="0.1,0.05" shape=box style=rounded]
+	"施文琳" -> "齐力新"
+	"孙欣梅" [label="孙欣梅" margin="0.1,0.05" shape=box style=rounded]
+	"施文琳" -> "孙欣梅"
+	"黄文忠" [label="黄文忠" margin="0.1,0.05" shape=box style=rounded]
+	"秘鸿泉" [label="秘鸿泉" margin="0.1,0.05" shape=box style=rounded]
+	"黄文忠" -> "秘鸿泉"
+	"李文山" [label="李文山" margin="0.1,0.05" shape=box style=rounded]
+	"张德燕" [label="张德燕" margin="0.1,0.05" shape=box style=rounded]
+	"李文山" -> "张德燕"
+	"赵楠" [label="赵楠" margin="0.1,0.05" shape=box style=rounded]
+	"李文山" -> "赵楠"
+	"陆文荣" [label="陆文荣" margin="0.1,0.05" shape=box style=rounded]
+	"曹鸿伟" [label="曹鸿伟" margin="0.1,0.05" shape=box style=rounded]
+	"陆文荣" -> "曹鸿伟"
+	"李国盛" [label="李国盛" margin="0.1,0.05" shape=box style=rounded]
+	"赵新华" [label="赵新华" margin="0.1,0.05" shape=box style=rounded]
+	"李国盛" -> "赵新华"
+	"刘廷凯" [label="刘廷凯" margin="0.1,0.05" shape=box style=rounded]
+	"李国盛" -> "刘廷凯"
+	"金幼峰" [label="金幼峰" margin="0.1,0.05" shape=box style=rounded]
+	"隋广斌" [label="隋广斌" margin="0.1,0.05" shape=box style=rounded]
+	"金幼峰" -> "隋广斌"
+	"王泽民" [label="王泽民" margin="0.1,0.05" shape=box style=rounded]
+	"金幼峰" -> "王泽民"
+	"李平" [label="李平" margin="0.1,0.05" shape=box style=rounded]
+	"金幼峰" -> "李平"
+	"赵连功" [label="赵连功" margin="0.1,0.05" shape=box style=rounded]
+	"王琪" [label="王琪" margin="0.1,0.05" shape=box style=rounded]
+	"赵连功" -> "王琪"
+	"高金奎" [label="高金奎" margin="0.1,0.05" shape=box style=rounded]
+	"高滨江" [label="高滨江" margin="0.1,0.05" shape=box style=rounded]
+	"高金奎" -> "高滨江"
+	"王小生" [label="王小生" margin="0.1,0.05" shape=box style=rounded]
+	"甄靖" [label="甄靖" margin="0.1,0.05" shape=box style=rounded]
+	"王小生" -> "甄靖"
+	"左春来" [label="左春来" margin="0.1,0.05" shape=box style=rounded]
+	"陈树桐" [label="陈树桐" margin="0.1,0.05" shape=box style=rounded]
+	"左春来" -> "陈树桐"
+	"孙兴海" [label="孙兴海" margin="0.1,0.05" shape=box style=rounded]
+	"秦玉贵" [label="秦玉贵" margin="0.1,0.05" shape=box style=rounded]
+	"孙兴海" -> "秦玉贵"
+	"贾冀光" [label="贾冀光" margin="0.1,0.05" shape=box style=rounded]
+	"张大礼" [label="张大礼" margin="0.1,0.05" shape=box style=rounded]
+	"贾冀光" -> "张大礼"
+	"王茵" [label="王茵" margin="0.1,0.05" shape=box style=rounded]
+	"贾冀光" -> "王茵"
+	"刘洪沂" [label="刘洪沂" margin="0.1,0.05" shape=box style=rounded]
+	"李伟建" [label="李伟建" margin="0.1,0.05" shape=box style=rounded]
+	"刘洪沂" -> "李伟建"
+	"甄奇" [label="甄奇" margin="0.1,0.05" shape=box style=rounded]
+	"刘洪沂" -> "甄奇"
+	"吴兆南" [label="吴兆南" margin="0.1,0.05" shape=box style=rounded]
+	"江南" [label="江南" margin="0.1,0.05" shape=box style=rounded]
+	"吴兆南" -> "江南"
+	"侯冠群" [label="侯冠群" margin="0.1,0.05" shape=box style=rounded]
+	"吴兆南" -> "侯冠群"
+	"郎祖筠" [label="郎祖筠" margin="0.1,0.05" shape=box style=rounded]
+	"吴兆南" -> "郎祖筠"
+	"刘增锴" [label="刘增锴" margin="0.1,0.05" shape=box style=rounded]
+	"吴兆南" -> "刘增锴"
+	"刘尔金" [label="刘尔金" margin="0.1,0.05" shape=box style=rounded]
+	"吴兆南" -> "刘尔金"
+	"樊光耀" [label="樊光耀" margin="0.1,0.05" shape=box style=rounded]
+	"吴兆南" -> "樊光耀"
+	"侯耀文" [label="侯耀文" margin="0.1,0.05" shape=box style=rounded]
+	"贾伦" [label="贾伦" margin="0.1,0.05" shape=box style=rounded]
+	"侯耀文" -> "贾伦"
+	"牛成志" [label="牛成志" margin="0.1,0.05" shape=box style=rounded]
+	"侯耀文" -> "牛成志"
+	"单联丽" [label="单联丽" margin="0.1,0.05" shape=box style=rounded]
+	"侯耀文" -> "单联丽"
+	"王荃" [label="王荃" margin="0.1,0.05" shape=box style=rounded]
+	"侯耀文" -> "王荃"
+	"高玉庆" [label="高玉庆" margin="0.1,0.05" shape=box style=rounded]
+	"侯耀文" -> "高玉庆"
+	"李炳杰" [label="李炳杰" margin="0.1,0.05" shape=box style=rounded]
+	"侯耀文" -> "李炳杰"
+	"陈寒柏" [label="陈寒柏" margin="0.1,0.05" shape=box style=rounded]
+	"侯耀文" -> "陈寒柏"
+	"李福盛" [label="李福盛" margin="0.1,0.05" shape=box style=rounded]
+	"侯耀文" -> "李福盛"
+	"郭秋林" [label="郭秋林" margin="0.1,0.05" shape=box style=rounded]
+	"侯耀文" -> "郭秋林"
+	"马云路" [label="马云路" margin="0.1,0.05" shape=box style=rounded]
+	"侯耀文" -> "马云路"
+	"刘际" [label="刘际" margin="0.1,0.05" shape=box style=rounded]
+	"侯耀文" -> "刘际"
+	"奇志" [label="奇志" margin="0.1,0.05" shape=box style=rounded]
+	"侯耀文" -> "奇志"
+	"姜桂成" [label="姜桂成" margin="0.1,0.05" shape=box style=rounded]
+	"侯耀文" -> "姜桂成"
+	"刘捷" [label="刘捷" margin="0.1,0.05" shape=box style=rounded]
+	"侯耀文" -> "刘捷"
+	"王玉" [label="王玉" margin="0.1,0.05" shape=box style=rounded]
+	"侯耀文" -> "王玉"
+	"郭晓小" [label="郭晓小" margin="0.1,0.05" shape=box style=rounded]
+	"侯耀文" -> "郭晓小"
+	"荆林野" [label="荆林野" margin="0.1,0.05" shape=box style=rounded]
+	"侯耀文" -> "荆林野"
+	"郭德纲" [label="郭德纲" margin="0.1,0.05" shape=box style=rounded]
+	"侯耀文" -> "郭德纲"
+	"魏元成" [label="魏元成" margin="0.1,0.05" shape=box style=rounded]
+	"侯耀文" -> "魏元成"
+	"赵卫明" [label="赵卫明" margin="0.1,0.05" shape=box style=rounded]
+	"侯耀文" -> "赵卫明"
+	"张继平" [label="张继平" margin="0.1,0.05" shape=box style=rounded]
+	"侯耀文" -> "张继平"
+	"杨进明" [label="杨进明" margin="0.1,0.05" shape=box style=rounded]
+	"侯耀文" -> "杨进明"
+	"段军" [label="段军" margin="0.1,0.05" shape=box style=rounded]
+	"侯耀文" -> "段军"
+	"殷文硕" [label="殷文硕" margin="0.1,0.05" shape=box style=rounded]
+	"高迪艺" [label="高迪艺" margin="0.1,0.05" shape=box style=rounded]
+	"殷文硕" -> "高迪艺"
+	"郭迪传" [label="郭迪传" margin="0.1,0.05" shape=box style=rounded]
+	"殷文硕" -> "郭迪传"
+	"白迪瀚" [label="白迪瀚" margin="0.1,0.05" shape=box style=rounded]
+	"殷文硕" -> "白迪瀚"
+	"邢迪海" [label="邢迪海" margin="0.1,0.05" shape=box style=rounded]
+	"殷文硕" -> "邢迪海"
+	"荣迪曲" [label="荣迪曲" margin="0.1,0.05" shape=box style=rounded]
+	"殷文硕" -> "荣迪曲"
+	"马迪飞" [label="马迪飞" margin="0.1,0.05" shape=box style=rounded]
+	"殷文硕" -> "马迪飞"
+	"刘迪天" [label="刘迪天" margin="0.1,0.05" shape=box style=rounded]
+	"殷文硕" -> "刘迪天"
+	"徐迪建" [label="徐迪建" margin="0.1,0.05" shape=box style=rounded]
+	"殷文硕" -> "徐迪建"
+	"帕迪西" [label="帕迪西" margin="0.1,0.05" shape=box style=rounded]
+	"殷文硕" -> "帕迪西"
+	"李迪振" [label="李迪振" margin="0.1,0.05" shape=box style=rounded]
+	"殷文硕" -> "李迪振"
+	"李迪域" [label="李迪域" margin="0.1,0.05" shape=box style=rounded]
+	"殷文硕" -> "李迪域"
+	"赵迪兴" [label="赵迪兴" margin="0.1,0.05" shape=box style=rounded]
+	"殷文硕" -> "赵迪兴"
+	"杨迪中" [label="杨迪中" margin="0.1,0.05" shape=box style=rounded]
+	"殷文硕" -> "杨迪中"
+	"阿迪华" [label="阿迪华" margin="0.1,0.05" shape=box style=rounded]
+	"殷文硕" -> "阿迪华"
+	"任迪山" [label="任迪山" margin="0.1,0.05" shape=box style=rounded]
+	"殷文硕" -> "任迪山"
+	"郭迪业" [label="郭迪业" margin="0.1,0.05" shape=box style=rounded]
+	"殷文硕" -> "郭迪业"
+	"刘岩" [label="刘岩" margin="0.1,0.05" shape=box style=rounded]
+	"殷文硕" -> "刘岩"
+	"康达夫" [label="康达夫" margin="0.1,0.05" shape=box style=rounded]
+	"张新华" [label="张新华" margin="0.1,0.05" shape=box style=rounded]
+	"康达夫" -> "张新华"
+	"郭铁林" [label="郭铁林" margin="0.1,0.05" shape=box style=rounded]
+	"康达夫" -> "郭铁林"
+	"许秀林" [label="许秀林" margin="0.1,0.05" shape=box style=rounded]
+	"朱军" [label="朱军" margin="0.1,0.05" shape=box style=rounded]
+	"许秀林" -> "朱军"
+	"吕少明" [label="吕少明" margin="0.1,0.05" shape=box style=rounded]
+	"马济江" [label="马济江" margin="0.1,0.05" shape=box style=rounded]
+	"吕少明" -> "马济江"
+	"董树良" [label="董树良" margin="0.1,0.05" shape=box style=rounded]
+	"吕少明" -> "董树良"
+	"钱麟" [label="钱麟" margin="0.1,0.05" shape=box style=rounded]
+	"吕少明" -> "钱麟"
+	"祁乾宁" [label="祁乾宁" margin="0.1,0.05" shape=box style=rounded]
+	"吕少明" -> "祁乾宁"
+	"师胜杰" [label="师胜杰" margin="0.1,0.05" shape=box style=rounded]
+	"刘彤" [label="刘彤" margin="0.1,0.05" shape=box style=rounded]
+	"师胜杰" -> "刘彤"
+	"邹德江" [label="邹德江" margin="0.1,0.05" shape=box style=rounded]
+	"师胜杰" -> "邹德江"
+	"王敏" [label="王敏" margin="0.1,0.05" shape=box style=rounded]
+	"师胜杰" -> "王敏"
+	"王刚" [label="王刚" margin="0.1,0.05" shape=box style=rounded]
+	"师胜杰" -> "王刚"
+	"远航" [label="远航" margin="0.1,0.05" shape=box style=rounded]
+	"师胜杰" -> "远航"
+	"侯军" [label="侯军" margin="0.1,0.05" shape=box style=rounded]
+	"师胜杰" -> "侯军"
+	"陈强" [label="陈强" margin="0.1,0.05" shape=box style=rounded]
+	"师胜杰" -> "陈强"
+	"刘伟" [label="刘伟" margin="0.1,0.05" shape=box style=rounded]
+	"师胜杰" -> "刘伟"
+	"王海" [label="王海" margin="0.1,0.05" shape=box style=rounded]
+	"师胜杰" -> "王海"
+	"张冲" [label="张冲" margin="0.1,0.05" shape=box style=rounded]
+	"师胜杰" -> "张冲"
+	"何树成" [label="何树成" margin="0.1,0.05" shape=box style=rounded]
+	"师胜杰" -> "何树成"
+	"周巍" [label="周巍" margin="0.1,0.05" shape=box style=rounded]
+	"师胜杰" -> "周巍"
+	"李菁" [label="李菁" margin="0.1,0.05" shape=box style=rounded]
+	"师胜杰" -> "李菁"
+	"常远" [label="常远" margin="0.1,0.05" shape=box style=rounded]
+	"师胜杰" -> "常远"
+	"闵天浩" [label="闵天浩" margin="0.1,0.05" shape=box style=rounded]
+	"师胜杰" -> "闵天浩"
+	"贾长松" [label="贾长松" margin="0.1,0.05" shape=box style=rounded]
+	"师胜杰" -> "贾长松"
+	"李梓廷" [label="李梓廷" margin="0.1,0.05" shape=box style=rounded]
+	"师胜杰" -> "李梓廷"
+	"徐涛" [label="徐涛" margin="0.1,0.05" shape=box style=rounded]
+	"师胜杰" -> "徐涛"
+	"关自仁" [label="关自仁" margin="0.1,0.05" shape=box style=rounded]
+	"刘建平" [label="刘建平" margin="0.1,0.05" shape=box style=rounded]
+	"关自仁" -> "刘建平"
+	"刘跃宁" [label="刘跃宁" margin="0.1,0.05" shape=box style=rounded]
+	"关自仁" -> "刘跃宁"
+	"乔国庆" [label="乔国庆" margin="0.1,0.05" shape=box style=rounded]
+	"关自仁" -> "乔国庆"
+	"张文顺" [label="张文顺" margin="0.1,0.05" shape=box style=rounded]
+	"张德武" [label="张德武" margin="0.1,0.05" shape=box style=rounded]
+	"张文顺" -> "张德武"
+	"邓德勇" [label="邓德勇" margin="0.1,0.05" shape=box style=rounded]
+	"张文顺" -> "邓德勇"
+	"侯长喜" [label="侯长喜" margin="0.1,0.05" shape=box style=rounded]
+	"韩云飞" [label="韩云飞" margin="0.1,0.05" shape=box style=rounded]
+	"侯长喜" -> "韩云飞"
+	"赵根" [label="赵根" margin="0.1,0.05" shape=box style=rounded]
+	"侯长喜" -> "赵根"
+	"任浩" [label="任浩" margin="0.1,0.05" shape=box style=rounded]
+	"侯长喜" -> "任浩"
+	"梁园" [label="梁园" margin="0.1,0.05" shape=box style=rounded]
+	"侯长喜" -> "梁园"
+	"郑文喜" [label="郑文喜" margin="0.1,0.05" shape=box style=rounded]
+	"王声" [label="王声" margin="0.1,0.05" shape=box style=rounded]
+	"郑文喜" -> "王声"
+	"张雅成" [label="张雅成" margin="0.1,0.05" shape=box style=rounded]
+	"全少辉" [label="全少辉" margin="0.1,0.05" shape=box style=rounded]
+	"张雅成" -> "全少辉"
+	"李小龙" [label="李小龙" margin="0.1,0.05" shape=box style=rounded]
+	"张雅成" -> "李小龙"
+	"祁峙" [label="祁峙" margin="0.1,0.05" shape=box style=rounded]
+	"张雅成" -> "祁峙"
+	"佟守本" [label="佟守本" margin="0.1,0.05" shape=box style=rounded]
+	"庞君" [label="庞君" margin="0.1,0.05" shape=box style=rounded]
+	"佟守本" -> "庞君"
+	"杨奇军" [label="杨奇军" margin="0.1,0.05" shape=box style=rounded]
+	"佟守本" -> "杨奇军"
+	"杨化然" [label="杨化然" margin="0.1,0.05" shape=box style=rounded]
+	"佟守本" -> "杨化然"
+	"刘国君" [label="刘国君" margin="0.1,0.05" shape=box style=rounded]
+	"佟守本" -> "刘国君"
+	"刘磊" [label="刘磊" margin="0.1,0.05" shape=box style=rounded]
+	"佟守本" -> "刘磊"
+	"陈鹏" [label="陈鹏" margin="0.1,0.05" shape=box style=rounded]
+	"佟守本" -> "陈鹏"
+	"管新成" [label="管新成" margin="0.1,0.05" shape=box style=rounded]
+	"佟守本" -> "管新成"
+	"靳阳" [label="靳阳" margin="0.1,0.05" shape=box style=rounded]
+	"佟守本" -> "靳阳"
+	"杨威" [label="杨威" margin="0.1,0.05" shape=box style=rounded]
+	"杨波" [label="杨波" margin="0.1,0.05" shape=box style=rounded]
+	"杨威" -> "杨波"
+	"李如刚" [label="李如刚" margin="0.1,0.05" shape=box style=rounded]
+	"郭威" [label="郭威" margin="0.1,0.05" shape=box style=rounded]
+	"李如刚" -> "郭威"
+	"田文奎" [label="田文奎" margin="0.1,0.05" shape=box style=rounded]
+	"大春（王义麟）" [label="大春（王义麟）" margin="0.1,0.05" shape=box style=rounded]
+	"田文奎" -> "大春（王义麟）"
+	"杨志刚" [label="杨志刚" margin="0.1,0.05" shape=box style=rounded]
+	"徐永刚" [label="徐永刚" margin="0.1,0.05" shape=box style=rounded]
+	"杨志刚" -> "徐永刚"
+	"夏景华" [label="夏景华" margin="0.1,0.05" shape=box style=rounded]
+	"杨志刚" -> "夏景华"
+	"邳建新" [label="邳建新" margin="0.1,0.05" shape=box style=rounded]
+	"杨志刚" -> "邳建新"
+	"牟玉春" [label="牟玉春" margin="0.1,0.05" shape=box style=rounded]
+	"杨志刚" -> "牟玉春"
+	"马云翔" [label="马云翔" margin="0.1,0.05" shape=box style=rounded]
+	"杨志刚" -> "马云翔"
+	"刘庆福" [label="刘庆福" margin="0.1,0.05" shape=box style=rounded]
+	"高鹰" [label="高鹰" margin="0.1,0.05" shape=box style=rounded]
+	"刘庆福" -> "高鹰"
+	"翟国强" [label="翟国强" margin="0.1,0.05" shape=box style=rounded]
+	"刘庆福" -> "翟国强"
+	"王碧辉" [label="王碧辉" margin="0.1,0.05" shape=box style=rounded]
+	"刘庆福" -> "王碧辉"
+	"王磊" [label="王磊" margin="0.1,0.05" shape=box style=rounded]
+	"刘庆福" -> "王磊"
+	"李金斗" [label="李金斗" margin="0.1,0.05" shape=box style=rounded]
+	"刘颖" [label="刘颖" margin="0.1,0.05" shape=box style=rounded]
+	"李金斗" -> "刘颖"
+	"大兵" [label="大兵" margin="0.1,0.05" shape=box style=rounded]
+	"李金斗" -> "大兵"
+	"毛威" [label="毛威" margin="0.1,0.05" shape=box style=rounded]
+	"李金斗" -> "毛威"
+	"韩冰" [label="韩冰" margin="0.1,0.05" shape=box style=rounded]
+	"李金斗" -> "韩冰"
+	"刘畅" [label="刘畅" margin="0.1,0.05" shape=box style=rounded]
+	"李金斗" -> "刘畅"
+	"付强" [label="付强" margin="0.1,0.05" shape=box style=rounded]
+	"李金斗" -> "付强"
+	"方清平" [label="方清平" margin="0.1,0.05" shape=box style=rounded]
+	"李金斗" -> "方清平"
+	"陈小锋" [label="陈小锋" margin="0.1,0.05" shape=box style=rounded]
+	"李金斗" -> "陈小锋"
+	"徐明哲" [label="徐明哲" margin="0.1,0.05" shape=box style=rounded]
+	"李金斗" -> "徐明哲"
+	"张伟" [label="张伟" margin="0.1,0.05" shape=box style=rounded]
+	"李金斗" -> "张伟"
+	"薛晓东" [label="薛晓东" margin="0.1,0.05" shape=box style=rounded]
+	"李金斗" -> "薛晓东"
+	"李建华" [label="李建华" margin="0.1,0.05" shape=box style=rounded]
+	"武宾" [label="武宾" margin="0.1,0.05" shape=box style=rounded]
+	"李建华" -> "武宾"
+	"李冲" [label="李冲" margin="0.1,0.05" shape=box style=rounded]
+	"李建华" -> "李冲"
+	"满昱" [label="满昱" margin="0.1,0.05" shape=box style=rounded]
+	"李建华" -> "满昱"
+	"张浩楠" [label="张浩楠" margin="0.1,0.05" shape=box style=rounded]
+	"李建华" -> "张浩楠"
+	"王谦祥" [label="王谦祥" margin="0.1,0.05" shape=box style=rounded]
+	"应宁" [label="应宁" margin="0.1,0.05" shape=box style=rounded]
+	"王谦祥" -> "应宁"
+	"郭培鑫" [label="郭培鑫" margin="0.1,0.05" shape=box style=rounded]
+	"王谦祥" -> "郭培鑫"
+	"王成全" [label="王成全" margin="0.1,0.05" shape=box style=rounded]
+	"王谦祥" -> "王成全"
+	"杜文革" [label="杜文革" margin="0.1,0.05" shape=box style=rounded]
+	"王谦祥" -> "杜文革"
+	"付东亮" [label="付东亮" margin="0.1,0.05" shape=box style=rounded]
+	"王谦祥" -> "付东亮"
+	"刘金霏" [label="刘金霏" margin="0.1,0.05" shape=box style=rounded]
+	"王谦祥" -> "刘金霏"
+	"侯文静" [label="侯文静" margin="0.1,0.05" shape=box style=rounded]
+	"王谦祥" -> "侯文静"
+	"郑晓旭" [label="郑晓旭" margin="0.1,0.05" shape=box style=rounded]
+	"王谦祥" -> "郑晓旭"
+	"于明波" [label="于明波" margin="0.1,0.05" shape=box style=rounded]
+	"王谦祥" -> "于明波"
+	"侯振鹏" [label="侯振鹏" margin="0.1,0.05" shape=box style=rounded]
+	"王谦祥" -> "侯振鹏"
+	"叶蓬" [label="叶蓬" margin="0.1,0.05" shape=box style=rounded]
+	"王谦祥" -> "叶蓬"
+	"李寅飞" [label="李寅飞" margin="0.1,0.05" shape=box style=rounded]
+	"王谦祥" -> "李寅飞"
+	"刘海龙" [label="刘海龙" margin="0.1,0.05" shape=box style=rounded]
+	"王谦祥" -> "刘海龙"
+	"李增瑞" [label="李增瑞" margin="0.1,0.05" shape=box style=rounded]
+	"孙程刚" [label="孙程刚" margin="0.1,0.05" shape=box style=rounded]
+	"李增瑞" -> "孙程刚"
+	"董建春" [label="董建春" margin="0.1,0.05" shape=box style=rounded]
+	"李增瑞" -> "董建春"
+	"李丁" [label="李丁" margin="0.1,0.05" shape=box style=rounded]
+	"李增瑞" -> "李丁"
+	"赵津生" [label="赵津生" margin="0.1,0.05" shape=box style=rounded]
+	"初天蓝" [label="初天蓝" margin="0.1,0.05" shape=box style=rounded]
+	"赵津生" -> "初天蓝"
+	"周旭" [label="周旭" margin="0.1,0.05" shape=box style=rounded]
+	"赵津生" -> "周旭"
+	"李三国" [label="李三国" margin="0.1,0.05" shape=box style=rounded]
+	"赵津生" -> "李三国"
+	"穆绪光" [label="穆绪光" margin="0.1,0.05" shape=box style=rounded]
+	"张成龙" [label="张成龙" margin="0.1,0.05" shape=box style=rounded]
+	"穆绪光" -> "张成龙"
+	"田赠" [label="田赠" margin="0.1,0.05" shape=box style=rounded]
+	"穆绪光" -> "田赠"
+	"刘林杰" [label="刘林杰" margin="0.1,0.05" shape=box style=rounded]
+	"穆绪光" -> "刘林杰"
+	"罗广兴" [label="罗广兴" margin="0.1,0.05" shape=box style=rounded]
+	"孔庆利" [label="孔庆利" margin="0.1,0.05" shape=box style=rounded]
+	"罗广兴" -> "孔庆利"
+	"刘洪刚" [label="刘洪刚" margin="0.1,0.05" shape=box style=rounded]
+	"罗广兴" -> "刘洪刚"
+	"孙全云" [label="孙全云" margin="0.1,0.05" shape=box style=rounded]
+	"罗广兴" -> "孙全云"
+	"张豪歌" [label="张豪歌" margin="0.1,0.05" shape=box style=rounded]
+	"罗广兴" -> "张豪歌"
+	"小荷花" [label="小荷花" margin="0.1,0.05" shape=box style=rounded]
+	"罗广兴" -> "小荷花"
+	"武斌（振熙）" [label="武斌（振熙）" margin="0.1,0.05" shape=box style=rounded]
+	"罗广兴" -> "武斌（振熙）"
+	"孙建国" [label="孙建国" margin="0.1,0.05" shape=box style=rounded]
+	"孙宗可" [label="孙宗可" margin="0.1,0.05" shape=box style=rounded]
+	"孙建国" -> "孙宗可"
+	"武福星" [label="武福星" margin="0.1,0.05" shape=box style=rounded]
+	"丁冬" [label="丁冬" margin="0.1,0.05" shape=box style=rounded]
+	"武福星" -> "丁冬"
+	"孟凡贵" [label="孟凡贵" margin="0.1,0.05" shape=box style=rounded]
+	"刘艺（刘云天）" [label="刘艺（刘云天）" margin="0.1,0.05" shape=box style=rounded]
+	"孟凡贵" -> "刘艺（刘云天）"
+	"崔金泉" [label="崔金泉" margin="0.1,0.05" shape=box style=rounded]
+	"王越" [label="王越" margin="0.1,0.05" shape=box style=rounded]
+	"崔金泉" -> "王越"
+	"辛曲" [label="辛曲" margin="0.1,0.05" shape=box style=rounded]
+	"崔金泉" -> "辛曲"
+	"穆全" [label="穆全" margin="0.1,0.05" shape=box style=rounded]
+	"崔金泉" -> "穆全"
+	"沈世鹏" [label="沈世鹏" margin="0.1,0.05" shape=box style=rounded]
+	"崔金泉" -> "沈世鹏"
+	"李彬" [label="李彬" margin="0.1,0.05" shape=box style=rounded]
+	"崔金泉" -> "李彬"
+	"张滦" [label="张滦" margin="0.1,0.05" shape=box style=rounded]
+	"崔金泉" -> "张滦"
+	"刘喜尧" [label="刘喜尧" margin="0.1,0.05" shape=box style=rounded]
+	"柏迈高" [label="柏迈高" margin="0.1,0.05" shape=box style=rounded]
+	"刘喜尧" -> "柏迈高"
+	"刘增锴" [label="刘增锴" margin="0.1,0.05" shape=box style=rounded]
+	"姬天语" [label="姬天语" margin="0.1,0.05" shape=box style=rounded]
+	"刘增锴" -> "姬天语"
+	"艾天意" [label="艾天意" margin="0.1,0.05" shape=box style=rounded]
+	"刘增锴" -> "艾天意"
+	"乔天蓝" [label="乔天蓝" margin="0.1,0.05" shape=box style=rounded]
+	"刘增锴" -> "乔天蓝"
+	"施天天" [label="施天天" margin="0.1,0.05" shape=box style=rounded]
+	"刘增锴" -> "施天天"
+	"韩兰城" [label="韩兰城" margin="0.1,0.05" shape=box style=rounded]
+	"范军" [label="范军" margin="0.1,0.05" shape=box style=rounded]
+	"韩兰城" -> "范军"
+	"于小飞" [label="于小飞" margin="0.1,0.05" shape=box style=rounded]
+	"韩兰城" -> "于小飞"
+	"徐永刚" [label="徐永刚" margin="0.1,0.05" shape=box style=rounded]
+	"李楠" [label="李楠" margin="0.1,0.05" shape=box style=rounded]
+	"徐永刚" -> "李楠"
+	"李翔" [label="李翔" margin="0.1,0.05" shape=box style=rounded]
+	"徐永刚" -> "李翔"
+	"杨海建" [label="杨海建" margin="0.1,0.05" shape=box style=rounded]
+	"徐永刚" -> "杨海建"
+	"陈亮" [label="陈亮" margin="0.1,0.05" shape=box style=rounded]
+	"徐永刚" -> "陈亮"
+	"郭金华" [label="郭金华" margin="0.1,0.05" shape=box style=rounded]
+	"徐永刚" -> "郭金华"
+	"孟楠楠" [label="孟楠楠" margin="0.1,0.05" shape=box style=rounded]
+	"徐永刚" -> "孟楠楠"
+	"张阳洋" [label="张阳洋" margin="0.1,0.05" shape=box style=rounded]
+	"徐永刚" -> "张阳洋"
+	"刘湃" [label="刘湃" margin="0.1,0.05" shape=box style=rounded]
+	"徐永刚" -> "刘湃"
+	"景宁" [label="景宁" margin="0.1,0.05" shape=box style=rounded]
+	"徐永刚" -> "景宁"
+	"罗勇" [label="罗勇" margin="0.1,0.05" shape=box style=rounded]
+	"徐永刚" -> "罗勇"
+	"刘豫东" [label="刘豫东" margin="0.1,0.05" shape=box style=rounded]
+	"徐永刚" -> "刘豫东"
+	"刘俊" [label="刘俊" margin="0.1,0.05" shape=box style=rounded]
+	"徐永刚" -> "刘俊"
+	"张晖" [label="张晖" margin="0.1,0.05" shape=box style=rounded]
+	"徐永刚" -> "张晖"
+	"董进" [label="董进" margin="0.1,0.05" shape=box style=rounded]
+	"徐永刚" -> "董进"
+	"方淼云" [label="方淼云" margin="0.1,0.05" shape=box style=rounded]
+	"徐永刚" -> "方淼云"
+	"钟豪" [label="钟豪" margin="0.1,0.05" shape=box style=rounded]
+	"徐永刚" -> "钟豪"
+	"肖黎君" [label="肖黎君" margin="0.1,0.05" shape=box style=rounded]
+	"徐永刚" -> "肖黎君"
+	"卢玮" [label="卢玮" margin="0.1,0.05" shape=box style=rounded]
+	"徐永刚" -> "卢玮"
+	"伍当" [label="伍当" margin="0.1,0.05" shape=box style=rounded]
+	"徐永刚" -> "伍当"
+	"王紫珜" [label="王紫珜" margin="0.1,0.05" shape=box style=rounded]
+	"徐永刚" -> "王紫珜"
+	"张石川" [label="张石川" margin="0.1,0.05" shape=box style=rounded]
+	"徐永刚" -> "张石川"
+	"周普查" [label="周普查" margin="0.1,0.05" shape=box style=rounded]
+	"徐永刚" -> "周普查"
+	"尹虎" [label="尹虎" margin="0.1,0.05" shape=box style=rounded]
+	"徐永刚" -> "尹虎"
+	"罗璇" [label="罗璇" margin="0.1,0.05" shape=box style=rounded]
+	"徐永刚" -> "罗璇"
+	"王世枭鉴" [label="王世枭鉴" margin="0.1,0.05" shape=box style=rounded]
+	"徐永刚" -> "王世枭鉴"
+	"温杰" [label="温杰" margin="0.1,0.05" shape=box style=rounded]
+	"徐永刚" -> "温杰"
+	"尹俊隆" [label="尹俊隆" margin="0.1,0.05" shape=box style=rounded]
+	"徐永刚" -> "尹俊隆"
+	"冯巩" [label="冯巩" margin="0.1,0.05" shape=box style=rounded]
+	"贾玲" [label="贾玲" margin="0.1,0.05" shape=box style=rounded]
+	"冯巩" -> "贾玲"
+	"白凯南" [label="白凯南" margin="0.1,0.05" shape=box style=rounded]
+	"冯巩" -> "白凯南"
+	"宋宁" [label="宋宁" margin="0.1,0.05" shape=box style=rounded]
+	"冯巩" -> "宋宁"
+	"郭德纲" [label="郭德纲" margin="0.1,0.05" shape=box style=rounded]
+	"张云雷" [label="张云雷" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "张云雷"
+	"栾云平" [label="栾云平" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "栾云平"
+	"孔云龙" [label="孔云龙" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "孔云龙"
+	"于云霆" [label="于云霆" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "于云霆"
+	"朱云峰" [label="朱云峰" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "朱云峰"
+	"岳云鹏" [label="岳云鹏" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "岳云鹏"
+	"宁云祥" [label="宁云祥" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "宁云祥"
+	"李云杰" [label="李云杰" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "李云杰"
+	"李云天" [label="李云天" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "李云天"
+	"陶云圣" [label="陶云圣" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "陶云圣"
+	"张云藩" [label="张云藩" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "张云藩"
+	"于云田" [label="于云田" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "于云田"
+	"曹鹤阳" [label="曹鹤阳" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "曹鹤阳"
+	"刘鹤春" [label="刘鹤春" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "刘鹤春"
+	"阎鹤祥" [label="阎鹤祥" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "阎鹤祥"
+	"李鹤林" [label="李鹤林" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "李鹤林"
+	"李鹤彪" [label="李鹤彪" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "李鹤彪"
+	"刘鹤英" [label="刘鹤英" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "刘鹤英"
+	"张鹤伦" [label="张鹤伦" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "张鹤伦"
+	"郎鹤炎" [label="郎鹤炎" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "郎鹤炎"
+	"高鹤彩" [label="高鹤彩" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "高鹤彩"
+	"张鹤君" [label="张鹤君" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "张鹤君"
+	"姬鹤武" [label="姬鹤武" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "姬鹤武"
+	"吴鹤臣" [label="吴鹤臣" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "吴鹤臣"
+	"孟鹤堂" [label="孟鹤堂" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "孟鹤堂"
+	"杨鹤通" [label="杨鹤通" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "杨鹤通"
+	"梁鹤坤" [label="梁鹤坤" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "梁鹤坤"
+	"钟鹤轩" [label="钟鹤轩" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "钟鹤轩"
+	"马鹤琪" [label="马鹤琪" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "马鹤琪"
+	"张鹤峰" [label="张鹤峰" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "张鹤峰"
+	"于鹤真" [label="于鹤真" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "于鹤真"
+	"刘鹤清" [label="刘鹤清" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "刘鹤清"
+	"张鹤雯" [label="张鹤雯" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "张鹤雯"
+	"孙鹤宝" [label="孙鹤宝" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "孙鹤宝"
+	"杨鹤灵" [label="杨鹤灵" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "杨鹤灵"
+	"张鹤帆" [label="张鹤帆" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "张鹤帆"
+	"齐鹤涛" [label="齐鹤涛" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "齐鹤涛"
+	"关鹤柏" [label="关鹤柏" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "关鹤柏"
+	"王鹤江" [label="王鹤江" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "王鹤江"
+	"高鹤鹏" [label="高鹤鹏" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "高鹤鹏"
+	"李鹤东" [label="李鹤东" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "李鹤东"
+	"张鹤舰" [label="张鹤舰" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "张鹤舰"
+	"金鹤年" [label="金鹤年" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "金鹤年"
+	"房鹤迪" [label="房鹤迪" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "房鹤迪"
+	"靳鹤岚" [label="靳鹤岚" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "靳鹤岚"
+	"朱鹤松" [label="朱鹤松" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "朱鹤松"
+	"栾鹤华" [label="栾鹤华" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "栾鹤华"
+	"张鹤栾" [label="张鹤栾" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "张鹤栾"
+	"李鹤浦" [label="李鹤浦" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "李鹤浦"
+	"张九龄" [label="张九龄" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "张九龄"
+	"李九春" [label="李九春" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "李九春"
+	"周九良" [label="周九良" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "周九良"
+	"杨九郎" [label="杨九郎" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "杨九郎"
+	"张九驰" [label="张九驰" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "张九驰"
+	"高九成" [label="高九成" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "高九成"
+	"王九龙" [label="王九龙" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "王九龙"
+	"张九南" [label="张九南" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "张九南"
+	"何九华" [label="何九华" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "何九华"
+	"郑九莲" [label="郑九莲" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "郑九莲"
+	"李九江" [label="李九江" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "李九江"
+	"孙九香" [label="孙九香" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "孙九香"
+	"刘九仁" [label="刘九仁" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "刘九仁"
+	"关九海" [label="关九海" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "关九海"
+	"尚九熙" [label="尚九熙" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "尚九熙"
+	"李九重" [label="李九重" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "李九重"
+	"刘九儒" [label="刘九儒" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "刘九儒"
+	"刘九思" [label="刘九思" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "刘九思"
+	"陈九福" [label="陈九福" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "陈九福"
+	"陈九品" [label="陈九品" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "陈九品"
+	"倪九涛" [label="倪九涛" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "倪九涛"
+	"董九力" [label="董九力" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "董九力"
+	"李九天" [label="李九天" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "李九天"
+	"陈九桐" [label="陈九桐" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "陈九桐"
+	"曹九台" [label="曹九台" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "曹九台"
+	"张九泰" [label="张九泰" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "张九泰"
+	"韩九鸣" [label="韩九鸣" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "韩九鸣"
+	"董九涵" [label="董九涵" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "董九涵"
+	"张九林" [label="张九林" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "张九林"
+	"梅九亮" [label="梅九亮" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "梅九亮"
+	"孙九芳" [label="孙九芳" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "孙九芳"
+	"秦霄贤" [label="秦霄贤" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "秦霄贤"
+	"樊霄堂" [label="樊霄堂" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "樊霄堂"
+	"范霄琦" [label="范霄琦" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "范霄琦"
+	"俄霄雄" [label="俄霄雄" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "俄霄雄"
+	"赵霄元" [label="赵霄元" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "赵霄元"
+	"郭霄汉" [label="郭霄汉" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "郭霄汉"
+	"陈霄华" [label="陈霄华" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "陈霄华"
+	"张霄墨" [label="张霄墨" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "张霄墨"
+	"杨霄铎" [label="杨霄铎" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "杨霄铎"
+	"肖霄雨" [label="肖霄雨" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "肖霄雨"
+	"张霄白" [label="张霄白" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "张霄白"
+	"康霄哲" [label="康霄哲" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "康霄哲"
+	"王霄修" [label="王霄修" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "王霄修"
+	"杨霄虹" [label="杨霄虹" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "杨霄虹"
+	"李霄樵" [label="李霄樵" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "李霄樵"
+	"孙霄尧" [label="孙霄尧" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "孙霄尧"
+	"葛霄擎" [label="葛霄擎" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "葛霄擎"
+	"吴霄泽" [label="吴霄泽" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "吴霄泽"
+	"王霄凯" [label="王霄凯" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "王霄凯"
+	"马霄盛" [label="马霄盛" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "马霄盛"
+	"马霄戎" [label="马霄戎" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "马霄戎"
+	"董霄业" [label="董霄业" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "董霄业"
+	"李霄航" [label="李霄航" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "李霄航"
+	"高霄费" [label="高霄费" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "高霄费"
+	"王霄颐" [label="王霄颐" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "王霄颐"
+	"姬霄桐" [label="姬霄桐" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "姬霄桐"
+	"尉迟霄塘等。" [label="尉迟霄塘等。" margin="0.1,0.05" shape=box style=rounded]
+	"郭德纲" -> "尉迟霄塘等。"
+	"孙承林" [label="孙承林" margin="0.1,0.05" shape=box style=rounded]
+	"刘桐" [label="刘桐" margin="0.1,0.05" shape=box style=rounded]
+	"孙承林" -> "刘桐"
+	"窦艾" [label="窦艾" margin="0.1,0.05" shape=box style=rounded]
+	"孙承林" -> "窦艾"
+	"成可馨" [label="成可馨" margin="0.1,0.05" shape=box style=rounded]
+	"孙承林" -> "成可馨"
+	"高善勤" [label="高善勤" margin="0.1,0.05" shape=box style=rounded]
+	"佟丽萍" [label="佟丽萍" margin="0.1,0.05" shape=box style=rounded]
+	"高善勤" -> "佟丽萍"
+	"崔明祥" [label="崔明祥" margin="0.1,0.05" shape=box style=rounded]
+	"高善勤" -> "崔明祥"
+	"陈栋" [label="陈栋" margin="0.1,0.05" shape=box style=rounded]
+	"高善勤" -> "陈栋"
+	"周明月" [label="周明月" margin="0.1,0.05" shape=box style=rounded]
+	"高善勤" -> "周明月"
+	"尹振龙" [label="尹振龙" margin="0.1,0.05" shape=box style=rounded]
+	"高善勤" -> "尹振龙"
+	"张新东" [label="张新东" margin="0.1,0.05" shape=box style=rounded]
+	"闫嘉良" [label="闫嘉良" margin="0.1,0.05" shape=box style=rounded]
+	"张新东" -> "闫嘉良"
+	"张旭" [label="张旭" margin="0.1,0.05" shape=box style=rounded]
+	"张新东" -> "张旭"
+	"王伟嘉" [label="王伟嘉" margin="0.1,0.05" shape=box style=rounded]
+	"张新东" -> "王伟嘉"
+	"孙瑞泽" [label="孙瑞泽" margin="0.1,0.05" shape=box style=rounded]
+	"张新东" -> "孙瑞泽"
+	"田垒" [label="田垒" margin="0.1,0.05" shape=box style=rounded]
+	"张新东" -> "田垒"
+	"于谦" [label="于谦" margin="0.1,0.05" shape=box style=rounded]
+	"郭麒麟（郭德纲之子）" [label="郭麒麟（郭德纲之子）" margin="0.1,0.05" shape=box style=rounded]
+	"于谦" -> "郭麒麟（郭德纲之子）"
+	"冯阔洋" [label="冯阔洋" margin="0.1,0.05" shape=box style=rounded]
+	"于谦" -> "冯阔洋"
+	"李思明" [label="李思明" margin="0.1,0.05" shape=box style=rounded]
+	"于谦" -> "李思明"
+	"郭汾阳（郭德纲次子）" [label="郭汾阳（郭德纲次子）" margin="0.1,0.05" shape=box style=rounded]
+	"于谦" -> "郭汾阳（郭德纲次子）"
+	"吴所谓" [label="吴所谓" margin="0.1,0.05" shape=box style=rounded]
+	"于谦" -> "吴所谓"
+	"高峰" [label="高峰" margin="0.1,0.05" shape=box style=rounded]
+	"郎昊辰" [label="郎昊辰" margin="0.1,0.05" shape=box style=rounded]
+	"高峰" -> "郎昊辰"
+	"苗昊雨" [label="苗昊雨" margin="0.1,0.05" shape=box style=rounded]
+	"高峰" -> "苗昊雨"
+	"宋昊然" [label="宋昊然" margin="0.1,0.05" shape=box style=rounded]
+	"高峰" -> "宋昊然"
+	"王昊悦" [label="王昊悦" margin="0.1,0.05" shape=box style=rounded]
+	"高峰" -> "王昊悦"
+	"李昊洋" [label="李昊洋" margin="0.1,0.05" shape=box style=rounded]
+	"高峰" -> "李昊洋"
+	"侯震" [label="侯震" margin="0.1,0.05" shape=box style=rounded]
+	"庄子健" [label="庄子健" margin="0.1,0.05" shape=box style=rounded]
+	"侯震" -> "庄子健"
+	"洪晨" [label="洪晨" margin="0.1,0.05" shape=box style=rounded]
+	"侯震" -> "洪晨"
+	"张国堂" [label="张国堂" margin="0.1,0.05" shape=box style=rounded]
+	"侯震" -> "张国堂"
+	"高磊" [label="高磊" margin="0.1,0.05" shape=box style=rounded]
+	"侯震" -> "高磊"
+	"孙越" [label="孙越" margin="0.1,0.05" shape=box style=rounded]
+	"吕硕" [label="吕硕" margin="0.1,0.05" shape=box style=rounded]
+	"孙越" -> "吕硕"
+	"孙钊" [label="孙钊" margin="0.1,0.05" shape=box style=rounded]
+	"孙越" -> "孙钊"
+	"栗世锦" [label="栗世锦" margin="0.1,0.05" shape=box style=rounded]
+	"孙越" -> "栗世锦"
+	"郑好" [label="郑好" margin="0.1,0.05" shape=box style=rounded]
+	"陈奉清" [label="陈奉清" margin="0.1,0.05" shape=box style=rounded]
+	"郑好" -> "陈奉清"
+	"魏奉强" [label="魏奉强" margin="0.1,0.05" shape=box style=rounded]
+	"郑好" -> "魏奉强"
+	"李奉开" [label="李奉开" margin="0.1,0.05" shape=box style=rounded]
+	"郑好" -> "李奉开"
+	"张奉友" [label="张奉友" margin="0.1,0.05" shape=box style=rounded]
+	"郑好" -> "张奉友"
+	"刘 际" [label="刘 际" margin="0.1,0.05" shape=box style=rounded]
+	"王金桥" [label="王金桥" margin="0.1,0.05" shape=box style=rounded]
+	"刘 际" -> "王金桥"
+	"张杰" [label="张杰" margin="0.1,0.05" shape=box style=rounded]
+	"刘 际" -> "张杰"
+	"闫嘉庆" [label="闫嘉庆" margin="0.1,0.05" shape=box style=rounded]
+	"刘 际" -> "闫嘉庆"
+	"王永祥" [label="王永祥" margin="0.1,0.05" shape=box style=rounded]
+	"刘 际" -> "王永祥"
+	"高飞" [label="高飞" margin="0.1,0.05" shape=box style=rounded]
+	"刘 际" -> "高飞"
+	"李铁梁" [label="李铁梁" margin="0.1,0.05" shape=box style=rounded]
+	"刘 际" -> "李铁梁"
+	"王新明" [label="王新明" margin="0.1,0.05" shape=box style=rounded]
+	"刘 际" -> "王新明"
+	"张萌杰" [label="张萌杰" margin="0.1,0.05" shape=box style=rounded]
+	"刘 际" -> "张萌杰"
+	"曲航" [label="曲航" margin="0.1,0.05" shape=box style=rounded]
+	"刘 际" -> "曲航"
+	"王晨" [label="王晨" margin="0.1,0.05" shape=box style=rounded]
+	"刘 际" -> "王晨"
+	"芦克宁" [label="芦克宁" margin="0.1,0.05" shape=box style=rounded]
+	"贺军（尚军）" [label="贺军（尚军）" margin="0.1,0.05" shape=box style=rounded]
+	"芦克宁" -> "贺军（尚军）"
+	"黄凯（尚凯）" [label="黄凯（尚凯）" margin="0.1,0.05" shape=box style=rounded]
+	"芦克宁" -> "黄凯（尚凯）"
+	"梁芷铭（尚铭）" [label="梁芷铭（尚铭）" margin="0.1,0.05" shape=box style=rounded]
+	"芦克宁" -> "梁芷铭（尚铭）"
+	"徐启城（尚城）" [label="徐启城（尚城）" margin="0.1,0.05" shape=box style=rounded]
+	"芦克宁" -> "徐启城（尚城）"
+	"张杰（尚杰）" [label="张杰（尚杰）" margin="0.1,0.05" shape=box style=rounded]
+	"芦克宁" -> "张杰（尚杰）"
+	"金诗雨（尚雨）" [label="金诗雨（尚雨）" margin="0.1,0.05" shape=box style=rounded]
+	"芦克宁" -> "金诗雨（尚雨）"
+	"韩金涛（尚涛）" [label="韩金涛（尚涛）" margin="0.1,0.05" shape=box style=rounded]
+	"芦克宁" -> "韩金涛（尚涛）"
+	"杨文辉（尚辉）" [label="杨文辉（尚辉）" margin="0.1,0.05" shape=box style=rounded]
+	"芦克宁" -> "杨文辉（尚辉）"
+	"郝长鸿（尚鸿）" [label="郝长鸿（尚鸿）" margin="0.1,0.05" shape=box style=rounded]
+	"芦克宁" -> "郝长鸿（尚鸿）"
+	"王祖洪（尚祖）" [label="王祖洪（尚祖）" margin="0.1,0.05" shape=box style=rounded]
+	"芦克宁" -> "王祖洪（尚祖）"
+	"钟泽优（尚优）" [label="钟泽优（尚优）" margin="0.1,0.05" shape=box style=rounded]
+	"芦克宁" -> "钟泽优（尚优）"
+	"伍玉躲（尚玉）" [label="伍玉躲（尚玉）" margin="0.1,0.05" shape=box style=rounded]
+	"芦克宁" -> "伍玉躲（尚玉）"
+	"刘炳初（尚初）" [label="刘炳初（尚初）" margin="0.1,0.05" shape=box style=rounded]
+	"芦克宁" -> "刘炳初（尚初）"
+	"刘智斌（尚斌）" [label="刘智斌（尚斌）" margin="0.1,0.05" shape=box style=rounded]
+	"芦克宁" -> "刘智斌（尚斌）"
+	"李博（尚博）" [label="李博（尚博）" margin="0.1,0.05" shape=box style=rounded]
+	"芦克宁" -> "李博（尚博）"
+	"蒋勇（尚勇）" [label="蒋勇（尚勇）" margin="0.1,0.05" shape=box style=rounded]
+	"芦克宁" -> "蒋勇（尚勇）"
+	"吴志强（尚强）" [label="吴志强（尚强）" margin="0.1,0.05" shape=box style=rounded]
+	"芦克宁" -> "吴志强（尚强）"
+	"杜凯（尚影）" [label="杜凯（尚影）" margin="0.1,0.05" shape=box style=rounded]
+	"芦克宁" -> "杜凯（尚影）"
+	"刘永东（尚东）" [label="刘永东（尚东）" margin="0.1,0.05" shape=box style=rounded]
+	"芦克宁" -> "刘永东（尚东）"
+	"李 涛" [label="李 涛" margin="0.1,0.05" shape=box style=rounded]
+	"董彦彬（小老合）" [label="董彦彬（小老合）" margin="0.1,0.05" shape=box style=rounded]
+	"李 涛" -> "董彦彬（小老合）"
+	"张俊杰" [label="张俊杰" margin="0.1,0.05" shape=box style=rounded]
+	"李 涛" -> "张俊杰"
+	"梁宏达（老梁）" [label="梁宏达（老梁）" margin="0.1,0.05" shape=box style=rounded]
+	"杨光" [label="杨光" margin="0.1,0.05" shape=box style=rounded]
+	"梁宏达（老梁）" -> "杨光"
+	"陈秋实" [label="陈秋实" margin="0.1,0.05" shape=box style=rounded]
+	"梁宏达（老梁）" -> "陈秋实"
+	"孙旭光（虎牙哥）" [label="孙旭光（虎牙哥）" margin="0.1,0.05" shape=box style=rounded]
+	"梁宏达（老梁）" -> "孙旭光（虎牙哥）"
+	"杨乐（女）" [label="杨乐（女）" margin="0.1,0.05" shape=box style=rounded]
+	"梁宏达（老梁）" -> "杨乐（女）"
+	"张梓坦（艺名紫檀，女）" [label="张梓坦（艺名紫檀，女）" margin="0.1,0.05" shape=box style=rounded]
+	"梁宏达（老梁）" -> "张梓坦（艺名紫檀，女）"
+	"刘亮" [label="刘亮" margin="0.1,0.05" shape=box style=rounded]
+	"梁宏达（老梁）" -> "刘亮"
+	"白鸽（女）" [label="白鸽（女）" margin="0.1,0.05" shape=box style=rounded]
+	"梁宏达（老梁）" -> "白鸽（女）"
+	"赵立同" [label="赵立同" margin="0.1,0.05" shape=box style=rounded]
+	"王凯旋" [label="王凯旋" margin="0.1,0.05" shape=box style=rounded]
+	"赵立同" -> "王凯旋"
+	"王翔宇" [label="王翔宇" margin="0.1,0.05" shape=box style=rounded]
+	"赵立同" -> "王翔宇"
+	"魏英涛" [label="魏英涛" margin="0.1,0.05" shape=box style=rounded]
+	"赵立同" -> "魏英涛"
+	"高崇浩" [label="高崇浩" margin="0.1,0.05" shape=box style=rounded]
+	"赵立同" -> "高崇浩"
+	"韩禹峥" [label="韩禹峥" margin="0.1,0.05" shape=box style=rounded]
+	"赵立同" -> "韩禹峥"
+	"李一鸣" [label="李一鸣" margin="0.1,0.05" shape=box style=rounded]
+	"赵立同" -> "李一鸣"
+	"马悦" [label="马悦" margin="0.1,0.05" shape=box style=rounded]
+	"赵立同" -> "马悦"
+	"孙小山" [label="孙小山" margin="0.1,0.05" shape=box style=rounded]
+	"赵立同" -> "孙小山"
+	"于泽桉" [label="于泽桉" margin="0.1,0.05" shape=box style=rounded]
+	"赵立同" -> "于泽桉"
+	"张子豪" [label="张子豪" margin="0.1,0.05" shape=box style=rounded]
+	"赵立同" -> "张子豪"
+	"吕品一" [label="吕品一" margin="0.1,0.05" shape=box style=rounded]
+	"赵立同" -> "吕品一"
+	"奇 志" [label="奇 志" margin="0.1,0.05" shape=box style=rounded]
+	"何晶晶" [label="何晶晶" margin="0.1,0.05" shape=box style=rounded]
+	"奇 志" -> "何晶晶"
+	"王金明" [label="王金明" margin="0.1,0.05" shape=box style=rounded]
+	"奇 志" -> "王金明"
+	"曾强永" [label="曾强永" margin="0.1,0.05" shape=box style=rounded]
+	"奇 志" -> "曾强永"
+	"李晗" [label="李晗" margin="0.1,0.05" shape=box style=rounded]
+	"奇 志" -> "李晗"
+	"张伟" [label="张伟" margin="0.1,0.05" shape=box style=rounded]
+	"奇 志" -> "张伟"
+	"彭君风" [label="彭君风" margin="0.1,0.05" shape=box style=rounded]
+	"奇 志" -> "彭君风"
+	"主旋" [label="主旋" margin="0.1,0.05" shape=box style=rounded]
+	"奇 志" -> "主旋"
+	"刘录阳" [label="刘录阳" margin="0.1,0.05" shape=box style=rounded]
+	"奇 志" -> "刘录阳"
+	"冈华" [label="冈华" margin="0.1,0.05" shape=box style=rounded]
+	"奇 志" -> "冈华"
+	"邢立军" [label="邢立军" margin="0.1,0.05" shape=box style=rounded]
+	"奇 志" -> "邢立军"
+	"钮高乐" [label="钮高乐" margin="0.1,0.05" shape=box style=rounded]
+	"奇 志" -> "钮高乐"
+	"姜昆" [label="姜昆" margin="0.1,0.05" shape=box style=rounded]
+	"刘惠" [label="刘惠" margin="0.1,0.05" shape=box style=rounded]
+	"姜昆" -> "刘惠"
+	"白桦" [label="白桦" margin="0.1,0.05" shape=box style=rounded]
+	"姜昆" -> "白桦"
+	"邓小林" [label="邓小林" margin="0.1,0.05" shape=box style=rounded]
+	"姜昆" -> "邓小林"
+	"大山" [label="大山" margin="0.1,0.05" shape=box style=rounded]
+	"姜昆" -> "大山"
+	"刘全利" [label="刘全利" margin="0.1,0.05" shape=box style=rounded]
+	"姜昆" -> "刘全利"
+	"刘全和" [label="刘全和" margin="0.1,0.05" shape=box style=rounded]
+	"姜昆" -> "刘全和"
+	"赵卫国" [label="赵卫国" margin="0.1,0.05" shape=box style=rounded]
+	"姜昆" -> "赵卫国"
+	"李道南" [label="李道南" margin="0.1,0.05" shape=box style=rounded]
+	"姜昆" -> "李道南"
+	"陆鸣" [label="陆鸣" margin="0.1,0.05" shape=box style=rounded]
+	"姜昆" -> "陆鸣"
+	"许勇" [label="许勇" margin="0.1,0.05" shape=box style=rounded]
+	"姜昆" -> "许勇"
+	"夏文兰" [label="夏文兰" margin="0.1,0.05" shape=box style=rounded]
+	"姜昆" -> "夏文兰"
+	"倪明" [label="倪明" margin="0.1,0.05" shape=box style=rounded]
+	"姜昆" -> "倪明"
+	"唐爱国" [label="唐爱国" margin="0.1,0.05" shape=box style=rounded]
+	"姜昆" -> "唐爱国"
+	"齐立强" [label="齐立强" margin="0.1,0.05" shape=box style=rounded]
+	"姜昆" -> "齐立强"
+	"句号" [label="句号" margin="0.1,0.05" shape=box style=rounded]
+	"姜昆" -> "句号"
+	"徐文" [label="徐文" margin="0.1,0.05" shape=box style=rounded]
+	"姜昆" -> "徐文"
+	"郭丹" [label="郭丹" margin="0.1,0.05" shape=box style=rounded]
+	"姜昆" -> "郭丹"
+	"曹曙光" [label="曹曙光" margin="0.1,0.05" shape=box style=rounded]
+	"姜昆" -> "曹曙光"
+	"周炜" [label="周炜" margin="0.1,0.05" shape=box style=rounded]
+	"姜昆" -> "周炜"
+	"安东" [label="安东" margin="0.1,0.05" shape=box style=rounded]
+	"姜昆" -> "安东"
+	"邵权" [label="邵权" margin="0.1,0.05" shape=box style=rounded]
+	"姜昆" -> "邵权"
+	"李明刚" [label="李明刚" margin="0.1,0.05" shape=box style=rounded]
+	"陈同乐（陈涛）" [label="陈同乐（陈涛）" margin="0.1,0.05" shape=box style=rounded]
+	"李明刚" -> "陈同乐（陈涛）"
+	"辛明璋" [label="辛明璋" margin="0.1,0.05" shape=box style=rounded]
+	"冯同贺" [label="冯同贺" margin="0.1,0.05" shape=box style=rounded]
+	"辛明璋" -> "冯同贺"
+	"张同智" [label="张同智" margin="0.1,0.05" shape=box style=rounded]
+	"辛明璋" -> "张同智"
+	"孙同福（孙一夫）" [label="孙同福（孙一夫）" margin="0.1,0.05" shape=box style=rounded]
+	"辛明璋" -> "孙同福（孙一夫）"
+	"刘明涛" [label="刘明涛" margin="0.1,0.05" shape=box style=rounded]
+	"赵同青" [label="赵同青" margin="0.1,0.05" shape=box style=rounded]
+	"刘明涛" -> "赵同青"
+	"朱同元" [label="朱同元" margin="0.1,0.05" shape=box style=rounded]
+	"刘明涛" -> "朱同元"
+	"曹彤甜" [label="曹彤甜" margin="0.1,0.05" shape=box style=rounded]
+	"刘明涛" -> "曹彤甜"
+	"宋德全" [label="宋德全" margin="0.1,0.05" shape=box style=rounded]
+	"高杰" [label="高杰" margin="0.1,0.05" shape=box style=rounded]
+	"宋德全" -> "高杰"
+	"陈彦波" [label="陈彦波" margin="0.1,0.05" shape=box style=rounded]
+	"宋德全" -> "陈彦波"
+	"王洋" [label="王洋" margin="0.1,0.05" shape=box style=rounded]
+	"宋德全" -> "王洋"
+	"赵广群" [label="赵广群" margin="0.1,0.05" shape=box style=rounded]
+	"宋德全" -> "赵广群"
+	"陈印泉" [label="陈印泉" margin="0.1,0.05" shape=box style=rounded]
+	"宋德全" -> "陈印泉"
+	"苗阜" [label="苗阜" margin="0.1,0.05" shape=box style=rounded]
+	"韩海亮" [label="韩海亮" margin="0.1,0.05" shape=box style=rounded]
+	"苗阜" -> "韩海亮"
+	"吕纳超" [label="吕纳超" margin="0.1,0.05" shape=box style=rounded]
+	"苗阜" -> "吕纳超"
+	"李纳伟" [label="李纳伟" margin="0.1,0.05" shape=box style=rounded]
+	"苗阜" -> "李纳伟"
+	"寇琦" [label="寇琦" margin="0.1,0.05" shape=box style=rounded]
+	"苗阜" -> "寇琦"
+	"闫子晨" [label="闫子晨" margin="0.1,0.05" shape=box style=rounded]
+	"苗阜" -> "闫子晨"
+	"穆凯" [label="穆凯" margin="0.1,0.05" shape=box style=rounded]
+	"王洋" [label="王洋" margin="0.1,0.05" shape=box style=rounded]
+	"穆凯" -> "王洋"
+	"刘鲲鹏" [label="刘鲲鹏" margin="0.1,0.05" shape=box style=rounded]
+	"穆凯" -> "刘鲲鹏"
+	"赵鸣一" [label="赵鸣一" margin="0.1,0.05" shape=box style=rounded]
+	"穆凯" -> "赵鸣一"
+	"贾伦" [label="贾伦" margin="0.1,0.05" shape=box style=rounded]
+	"高少伟" [label="高少伟" margin="0.1,0.05" shape=box style=rounded]
+	"贾伦" -> "高少伟"
+	"张磊" [label="张磊" margin="0.1,0.05" shape=box style=rounded]
+	"贾伦" -> "张磊"
+	"杜康" [label="杜康" margin="0.1,0.05" shape=box style=rounded]
+	"贾伦" -> "杜康"
+	"刘国栋" [label="刘国栋" margin="0.1,0.05" shape=box style=rounded]
+	"贾伦" -> "刘国栋"
+	"李昂" [label="李昂" margin="0.1,0.05" shape=box style=rounded]
+	"贾伦" -> "李昂"
+	"尤宪超" [label="尤宪超" margin="0.1,0.05" shape=box style=rounded]
+	"贾伦" -> "尤宪超"
+	"贾雨" [label="贾雨" margin="0.1,0.05" shape=box style=rounded]
+	"贾伦" -> "贾雨"
+	"王钢" [label="王钢" margin="0.1,0.05" shape=box style=rounded]
+	"贾伦" -> "王钢"
+	"韦硕" [label="韦硕" margin="0.1,0.05" shape=box style=rounded]
+	"贾伦" -> "韦硕"
+	"张伯鑫" [label="张伯鑫" margin="0.1,0.05" shape=box style=rounded]
+	"丁挚恒" [label="丁挚恒" margin="0.1,0.05" shape=box style=rounded]
+	"张伯鑫" -> "丁挚恒"
+	"孔挚杰" [label="孔挚杰" margin="0.1,0.05" shape=box style=rounded]
+	"张伯鑫" -> "孔挚杰"
+	"王挚军" [label="王挚军" margin="0.1,0.05" shape=box style=rounded]
+	"张伯鑫" -> "王挚军"
+	"李松岩" [label="李松岩" margin="0.1,0.05" shape=box style=rounded]
+	"王砚晨" [label="王砚晨" margin="0.1,0.05" shape=box style=rounded]
+	"李松岩" -> "王砚晨"
+	"张砚轩" [label="张砚轩" margin="0.1,0.05" shape=box style=rounded]
+	"李松岩" -> "张砚轩"
+	"张砚磊" [label="张砚磊" margin="0.1,0.05" shape=box style=rounded]
+	"李松岩" -> "张砚磊"
+	"刘砚虎" [label="刘砚虎" margin="0.1,0.05" shape=box style=rounded]
+	"李松岩" -> "刘砚虎"
+	"杨砚琪" [label="杨砚琪" margin="0.1,0.05" shape=box style=rounded]
+	"李松岩" -> "杨砚琪"
+	"高砚攀" [label="高砚攀" margin="0.1,0.05" shape=box style=rounded]
+	"李松岩" -> "高砚攀"
+	"吴砚萌" [label="吴砚萌" margin="0.1,0.05" shape=box style=rounded]
+	"李松岩" -> "吴砚萌"
+	"商砚进" [label="商砚进" margin="0.1,0.05" shape=box style=rounded]
+	"李松岩" -> "商砚进"
+	rankdir=LR
+}

@@ -1,0 +1,915 @@
+
+<!doctype html>
+
+<html>
+
+<head>
+
+  <meta charset="utf-8">
+
+  <title>中国戏曲划分</title>
+
+  <style>
+    body {
+      width: 100%;
+      margin: 0 auto;
+      font-family: "微软雅黑";
+      font-size: 12px;
+      margin: 0;
+      padding: 0;
+      color: #525252;
+      line-height: 200%;
+      background-color: #ffffff;
+    }
+
+    img {
+      border: none;
+    }
+
+    dl,
+    dt,
+    dd {
+      display: block;
+      margin: 0;
+    }
+
+    p,
+    ul,
+    li,
+    form,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    dl,
+    dd {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+
+    a {
+      color: #525252;
+      text-decoration: none !important;
+      cursor: pointer;
+      background: transparent;
+      /*修正win8系统IE连接灰色背景*/
+      outline: none;
+      blr: expression(this.onFocus=this.blur());
+    }
+
+    a img {
+      border: none;
+    }
+
+    a:hover {
+      color: #d80c18;
+    }
+
+    #mapTipContainer {
+      width: 100%;
+      height: 100%;
+      background: 0 !important;
+    }
+
+    .mapTipList ul li {
+      width: 100%;
+      height: 46px;
+      text-align: center;
+      line-height: 46px;
+      background: #dfdfdf;
+      color: #fff;
+      font-size: 18px;
+      border-bottom: 1px solid #ccc;
+      cursor: pointer;
+    }
+
+    #stateTip path {
+      opacity: 0 !important;
+      width: 200px;
+    }
+
+    .mapTipList ul li:hover {
+      background: #db3428;
+    }
+
+    .mapTipImg {
+      background: #fff;
+      padding: 8px;
+      height: 195px;
+      overflow: hidden;
+      overflow-y: auto;
+    }
+
+    .mapTipImg ul li img {
+      width: 100%;
+      height: 90px;
+    }
+
+    .mapTipImg ul li h3 {
+      font-size: 13px;
+      color: #333;
+      margin-bottom: 5px;
+    }
+
+    .mapTipImg ul li span {
+      font-size: 12px;
+    }
+
+    .mapTipImg ul li p {
+      font-size: 12px;
+    }
+
+    .mapTipImg ul li div {
+      margin: 5px 0;
+    }
+
+    .mapTipText {
+      position: absolute;
+      top: -60px;
+      z-index: 999999999;
+      -moz-box-shadow: -6px -6px 20px #E4E4E4, 6px 6px 20px #E4E4E4;
+      -webkit-box-shadow: -6px -6px 20px #E4E4E4, 6px 6px 20px #E4E4E4;
+      box-shadow: -6px -6px 20px #E4E4E4, 6px 6px 20px #E4E4E4;
+    }
+
+    .mapTipImg::-webkit-scrollbar {
+      width: 3px;
+    }
+
+    .mapTipImg::-webkit-scrollbar-track {
+      -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+      border-radius: 10px;
+    }
+
+    .mapTipImg::-webkit-scrollbar-thumb {
+      border-radius: 10px;
+      background: rgba(0, 0, 0, 0.1);
+      -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.5);
+    }
+
+    .mapTipImg::-webkit-scrollbar-thumb:window-inactive {
+      background: rgba(255, 0, 0, 0.4);
+    }
+
+    .itemCon {
+      width: 850px;
+      position: relative;
+    }
+
+    .itemCon span.tbbt {
+      width: 13px;
+      height: 15px;
+
+      display: block;
+      position: absolute;
+      z-index: 9999999;
+    }
+
+    .gg1 {
+      top: 108px;
+      right: 124px;
+    }
+
+    .gg2 {
+      top: 165px;
+      right: 142px;
+    }
+
+    .gg3 {
+      top: 209px;
+      right: 165px;
+    }
+
+    .gg4 {
+      top: 280px;
+      right: 255px;
+    }
+
+    .gg5 {
+      top: 306px;
+      right: 218px;
+    }
+
+    .gg6 {
+      top: 385px;
+      right: 213px;
+    }
+
+    .gg7 {
+      top: 356px;
+      right: 176px;
+    }
+
+    .gg8 {
+      top: 414px;
+      right: 168px;
+    }
+
+    .gg9 {
+      top: 474px;
+      right: 190px;
+    }
+
+    .gg10 {
+      top: 515px;
+      right: 256px;
+    }
+
+    .gg11 {
+      top: 526px;
+      right: 327px;
+    }
+
+    .gg12 {
+      top: 460px;
+      right: 285px;
+    }
+
+    .gg13 {
+      top: 476px;
+      right: 356px;
+    }
+
+    .gg14 {
+      top: 400px;
+      right: 280px;
+    }
+
+    .gg15 {
+      top: 356px;
+      right: 337px;
+    }
+
+    .gg16 {
+      top: 413px;
+      right: 416px;
+    }
+
+    .gg17 {
+      top: 520px;
+      right: 428px;
+    }
+
+    .gg18 {
+      top: 326px;
+      left: 438px;
+    }
+
+    .gg19 {
+      top: 223px;
+      left: 233px;
+    }
+
+    .gg20 {
+      top: 519px;
+      right: 232px;
+    }
+
+    .gg21 {
+      top: 361px;
+      right: 153px;
+    }
+  </style>
+
+
+</head>
+
+<body>
+
+
+  <div class="itemCon">
+    <span class="tbbt gg1"></span>
+    <span class="tbbt gg2"></span>
+    <span class="tbbt gg3"></span>
+    <span class="tbbt gg4"></span>
+    <span class="tbbt gg5"></span>
+    <span class="tbbt gg6"></span>
+    <span class="tbbt gg7"></span>
+    <span class="tbbt gg8"></span>
+    <span class="tbbt gg9"></span>
+    <span class="tbbt gg10"></span>
+    <span class="tbbt gg11"></span>
+    <span class="tbbt gg12"></span>
+    <span class="tbbt gg13"></span>
+    <span class="tbbt gg14"></span>
+    <span class="tbbt gg15"></span>
+    <span class="tbbt gg16"></span>
+    <span class="tbbt gg17"></span>
+    <span class="tbbt gg18"></span>
+    <span class="tbbt gg19"></span>
+    <span class="tbbt gg20"></span>
+    <span class="tbbt gg21"></span>
+    <div id="ChinaMap"></div>
+    <div id="stateTip" style="position: absolute;left: 100%;text-align: left;display: inline;"></div>
+  </div>
+<div id="mapTipContent" style="display: none">
+<!-- 北京市 -->
+<div class="mapTipText mapTipText24">
+    <div class="mapTipImg">
+        <ul>
+            <li>
+                <div>
+                    <h3>北京市</h3>
+                    <span>戏剧类型：</span>
+                    <p>京剧、豫剧、河北梆子</p>
+                    <span>代表曲目：</span>
+                    <p>《长生殿》、《霸王别姬》、《三家店》</p>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<!-- 天津市 -->
+<div class="mapTipText mapTipText23">
+    <div class="mapTipImg">
+        <ul>
+            <li>
+                <div>
+                    <h3>天津市</h3>
+                    <span>戏剧类型：</span>
+                    <p>河北梆子、京剧、天津评弹、天津曲艺</p>
+                    <span>代表曲目：</span>
+                    <p>《北京人在天津》、《小镇书记》、《下坡老幺》</p>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<!-- 上海市 -->
+<div class="mapTipText mapTipText21">
+    <div class="mapTipImg">
+        <ul>
+            <li>
+                <div>
+                    <h3>上海市</h3>
+                    <span>戏剧类型：</span>
+                    <p>上海戏曲、上海评弹、黄梅戏</p>
+                    <span>代表曲目：</span>
+                    <p>《梁祝》、《白毛女》、《红灯记》</p>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
+    <!-- 黑龙江省 -->
+<div class="mapTipText mapTipText0">
+        <div class="mapTipImg">
+            <ul>
+                <li>
+                    <div>
+                        <h3>黑龙江省</h3>
+                        <span>戏剧类型：</span>
+                        <p>龙江剧</p>
+                        <span>代表曲目：</span>
+                        <p>《阿尔山》、《雪域情歌》、《江山美人》</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <!-- 吉林省 -->
+<div class="mapTipText mapTipText1">
+    <div class="mapTipImg">
+        <ul>
+            <li>
+                <div>
+                    <h3>吉林省</h3>
+                    <span>戏剧类型：</span>
+                    <p>二人转、吉剧、新城戏、黄龙戏</p>
+                    <span>代表曲目：</span>
+                    <p>《赤壁》、《白毛女》、《红高粱》</p>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<!-- 辽宁省 -->
+<div class="mapTipText mapTipText2">
+    <div class="mapTipImg">
+        <ul>
+            <li>
+                <div>
+                    <h3>辽宁省</h3>
+                    <span>戏剧类型：</span>
+                    <p>蒙古剧、彩扮莲花落</p>
+                    <span>代表曲目：</span>
+                    <p>《贵妃醉酒》、《十字街头》、《盖世英雄》</p>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<!-- 河北省 -->
+<div class="mapTipText mapTipText3">
+    <div class="mapTipImg">
+        <ul>
+            <li>
+                <div>
+                    <h3>河北省</h3>
+                    <span>戏剧类型：</span>
+                    <p>河北梆子、评剧、老调、武安平调、武安落子、四股弦、唐剧、上四调</p>
+                    <span>代表曲目：</span>
+                    <p>《梁祝》、《打金枝》、《孟丽君》</p>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<!-- 山东省 -->
+<div class="mapTipText mapTipText4">
+    <div class="mapTipImg">
+        <ul>
+            <li>
+                <div>
+                    <h3>山东省</h3>
+                    <span>戏剧类型：</span>
+                    <p>山东梆子、枣梆、莱芜梆子、东路梆子、柳子戏、五音戏、柳琴戏、吕剧</p>
+                    <span>代表曲目：</span>
+                    <p>《孟姜女》、《王定浩》、《女驸马》</p>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<!-- 江苏省 -->
+<div class="mapTipText mapTipText5">
+    <div class="mapTipImg">
+        <ul>
+            <li>
+                <div>
+                    <h3>江苏省</h3>
+                    <span>戏剧类型：</span>
+                    <p>昆曲、淮剧、扬剧、通剧、淮海戏、锡剧、苏剧、丹剧、淮红剧、越剧</p>
+                    <span>代表曲目：</span>
+                    <p>《桃花扇》、《牡丹亭》、《桑园会》、《西厢记》</p>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<!-- 浙江省 -->
+<div class="mapTipText mapTipText6">
+    <div class="mapTipImg">
+        <ul>
+            <li>
+                <div>
+                    <h3>浙江省</h3>
+                    <span>戏剧类型：</span>
+                    <p>越剧、婺剧、绍剧、温州昆曲、腔戏</p>
+                    <span>代表曲目：</span>
+                    <p>《红楼梦》、《梁祝》、《西游记》</p>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<!-- 安徽省 -->
+<div class="mapTipText mapTipText7">
+    <div class="mapTipImg">
+        <ul>
+            <li>
+                <div>
+                    <h3>安徽省</h3>
+                    <span>戏剧类型：</span>
+                    <p>黄梅戏、徽剧、青阳腔、安徽戏、庐剧、坠子戏、淮剧</p>
+                    <span>代表曲目：</span>
+                    <p>《桃花扇》、《打金枝》、《洛神》</p>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
+<!-- 福建省 -->
+<div class="mapTipText mapTipText14">
+    <div class="mapTipImg">
+        <ul>
+            <li>
+                <div>
+                    <h3>福建省</h3>
+                    <span>戏剧类型：</span>
+                    <p>闽剧、泉剧、潮剧、客家戏、德安戏、灵武戏、广剧、江桥戏、兴化戏、府谷戏</p>
+                    <span>代表曲目：</span>
+                    <p>《梁山伯与祝英台》、《王小波》、《牡丹亭》</p>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<!-- 江西省 -->
+<div class="mapTipText mapTipText13">
+    <div class="mapTipImg">
+        <ul>
+            <li>
+                <div>
+                    <h3>江西省</h3>
+                    <span>戏剧类型：</span>
+                    <p>赣剧、南昌戏、波罗戏、南州戏、濠剧、湘戏、安康戏</p>
+                    <span>代表曲目：</span>
+                    <p>《粉墨春秋》、《富春山居图》、《沉香扇》</p>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<!-- 山西省 -->
+<div class="mapTipText mapTipText9">
+    <div class="mapTipImg">
+        <ul>
+            <li>
+                <div>
+                    <h3>山西省</h3>
+                    <span>戏剧类型：</span>
+                    <p>晋剧、豫剧、晋南戏、汾剧</p>
+                    <span>代表曲目：</span>
+                    <p>《桃花扇》、《陈胜》、《秦香莲》</p>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<!-- 河南省 -->
+<div class="mapTipText mapTipText8">
+    <div class="mapTipImg">
+        <ul>
+            <li>
+                <div>
+                    <h3>河南省</h3>
+                    <span>戏剧类型：</span>
+                    <p>豫剧、河南坠子、潞剧、莱芜梆子、穆剧、鲁剧、西涧河沿河河坡范家沟方岳</p>
+                    <span>代表曲目：</span>
+                    <p>《白毛女》、《红灯记》、《杨门女将》</p>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<!-- 湖北省 -->
+<div class="mapTipText mapTipText12">
+    <div class="mapTipImg">
+        <ul>
+            <li>
+                <div>
+                    <h3>湖北省</h3>
+                    <span>戏剧类型：</span>
+                    <p>鄂剧、荆剧、襄剧、黄梅戏、渝剧、黄州戏、沔阳戏</p>
+                    <span>代表曲目：</span>
+                    <p>《穆桂英挂帅》、《岳阳楼记》、《汉宫秋》</p>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<!-- 湖南省 -->
+<div class="mapTipText mapTipText15">
+    <div class="mapTipImg">
+        <ul>
+            <li>
+                <div>
+                    <h3>湖南省</h3>
+                    <span>戏剧类型：</span>
+                    <p>湘剧、长沙腔、满庭芳、小洞天、桂剧</p>
+                    <span>代表曲目：</span>
+                    <p>《牡丹亭》、《长城》、《沙家浜》</p>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
+<!-- 广东省 -->
+<div class="mapTipText mapTipText30">
+    <div class="mapTipImg">
+        <ul>
+            <li>
+                <div>
+                    <h3>广东省</h3>
+                    <span>戏剧类型：</span>
+                    <p>粤剧、客家戏、府谷戏、灵武戏、琼剧、海南戏、粤东戏、广戏、江桥戏、潮剧、德安戏</p>
+                    <span>代表曲目：</span>
+                    <p>《野狐禅》、《梁祝》、《洪湖赤卫队》</p>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<!-- 内蒙古自治区 -->
+<div class="mapTipText mapTipText26">
+    <div class="mapTipImg">
+        <ul>
+            <li>
+                <div>
+                    <h3>内蒙古自治区</h3>
+                    <span>戏剧类型：</span>
+                    <p>蒙古剧、彩扮莲花落</p>
+                    <span>代表曲目：</span>
+                    <p>《贵妃醉酒》、《十字街头》、《盖世英雄》</p>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
+
+
+<!-- 海南省 -->
+<div class="mapTipText mapTipText20">
+    <div class="mapTipImg">
+        <ul>
+            <li>
+                <div>
+                    <h3>海南省</h3>
+                    <span>戏剧类型：</span>
+                    <p>海南戏、潮剧、粤剧、闽剧、客家戏</p>
+                    <span>代表曲目：</span>
+                    <p>《西厢记》、《紫钗记》、《风雨送春归》</p>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<!-- 重庆市 -->
+<div class="mapTipText mapTipText22">
+    <div class="mapTipImg">
+        <ul>
+            <li>
+                <div>
+                    <h3>重庆市</h3>
+                    <span>戏剧类型：</span>
+                    <p>渝剧、川剧、黔剧</p>
+                    <span>代表曲目：</span>
+                    <p>《汉宫秋》、《牡丹亭》、《红灯记》</p>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<!-- 四川省 -->
+<div class="mapTipText mapTipText17">
+    <div class="mapTipImg">
+        <ul>
+            <li>
+                <div>
+                    <h3>四川省</h3>
+                    <span>戏剧类型：</span>
+                    <p>川剧、藏剧、蜀剧、黔剧、德昂戏、广昂戏、康昂戏</p>
+                    <span>代表曲目：</span>
+                    <p>《白毛女》、《红色娘子军》、《玉堂春》</p>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<!-- 贵州省 -->
+<div class="mapTipText mapTipText16">
+    <div class="mapTipImg">
+        <ul>
+            <li>
+                <div>
+                    <h3>贵州省</h3>
+                    <span>戏剧类型：</span>
+                    <p>黔剧、苗剧、侗剧</p>
+                    <span>代表曲目：</span>
+                    <p>《阿里山的姑娘》、《牛郎织女》、《白毛女》</p>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
+<!-- 云南省 -->
+<div class="mapTipText mapTipText18">
+    <div class="mapTipImg">
+        <ul>
+            <li>
+                <div>
+                    <h3>云南省</h3>
+                    <span>戏剧类型：</span>
+                    <p>滇剧、彝剧、苗剧</p>
+                    <span>代表曲目：</span>
+                    <p>《情比金坚》、《美人何处》、《红灯记》</p>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<!-- 西藏自治区 -->
+<div class="mapTipText mapTipText29">
+    <div class="mapTipImg">
+        <ul>
+            <li>
+                <div>
+                    <h3>西藏自治区</h3>
+                    <span>戏剧类型：</span>
+                    <p>藏剧、雅剧</p>
+                    <span>代表曲目：</span>
+                    <p>《悲剧王子》、《米拉松》、《史努比》</p>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<!-- 陕西省 -->
+<div class="mapTipText mapTipText10">
+    <div class="mapTipImg">
+        <ul>
+            <li>
+                <div>
+                    <h3>陕西省</h3>
+                    <span>戏剧类型：</span>
+                    <p>秦腔、西秦戏、陕北大秧歌、关中戏</p>
+                    <span>代表曲目：</span>
+                    <p>《白门柳》、《窦娥冤》、《长恨歌》</p>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<!-- 甘肃省 -->
+<div class="mapTipText mapTipText11">
+    <div class="mapTipImg">
+        <ul>
+            <li>
+                <div>
+                    <h3>甘肃省</h3>
+                    <span>戏剧类型：</span>
+                    <p>甘剧、秦腔、河滩油戏、陇剧</p>
+                    <span>代表曲目：</span>
+                    <p>《打金枝》、《穆桂英挂帅》、《白门柳》</p>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<!-- 青海省 -->
+<div class="mapTipText mapTipText19">
+    <div class="mapTipImg">
+        <ul>
+            <li>
+                <div>
+                    <h3>青海省</h3>
+                    <span>戏剧类型：</span>
+                    <p>青剧、藏剧、满剧</p>
+                    <span>代表曲目：</span>
+                    <p>《艺花堂》、《唱支山歌给党听》、《南泥湾》</p>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<!-- 宁夏回族自治区 -->
+<div class="mapTipText mapTipText25">
+    <div class="mapTipImg">
+        <ul>
+            <li>
+                <div>
+                    <h3>宁夏回族自治区</h3>
+                    <span>戏剧类型：</span>
+                    <p>宁剧、沙洲坝</p>
+                    <span>代表曲目：</span>
+                    <p>《团圆曲》、《白鹿原》、《十送红军》</p>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<!-- 新疆维吾尔自治区 -->
+<div class="mapTipText mapTipText28">
+    <div class="mapTipImg">
+        <ul>
+            <li>
+                <div>
+                    <h3>新疆维吾尔自治区</h3>
+                    <span>戏剧类型：</span>
+                    <p>克尔克孜戏、维吾尔剧、哈萨克剧、塔吉克戏</p>
+                    <span>代表曲目：</span>
+                    <p>《桑梓》、《玛依拉》、《阿古图》</p>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
+<!-- 广西壮族自治区 -->
+<div class="mapTipText mapTipText27">
+    <div class="mapTipImg">
+        <ul>
+            <li>
+                <div>
+                    <h3>广西壮族自治区</h3>
+                    <span>戏剧类型：</span>
+                    <p>广剧、粤剧、徽剧</p>
+                    <span>代表曲目：</span>
+                    <p>《白蛇传》、《三山记》、《钟馗嫁妹》</p>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<!-- 台湾省 -->
+<div class="mapTipText mapTipText32">
+    <div class="mapTipImg">
+        <ul>
+            <li>
+                <div>
+                    <h3>台湾省</h3>
+                    <span>戏剧类型：</span>
+                    <p>台湾戏</p>
+                    <span>代表曲目：</span>
+                    <p>《西厢记》、《祝英台》、《梁祝》</p>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<!-- 香港特别行政区 -->
+<div class="mapTipText mapTipText31">
+    <div class="mapTipImg">
+        <ul>
+            <li>
+                <div>
+                    <h3>香港特别行政区</h3>
+                    <span>戏剧类型：</span>
+                    <p>粤剧</p>
+                    <span>代表曲目：</span>
+                    <p>《太极张三丰》、《封神榜》、《九江十二坊》</p>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<!-- 澳门特别行政区 -->
+<div class="mapTipText mapTipText33">
+    <div class="mapTipImg">
+        <ul>
+            <li>
+                <div>
+                    <h3>澳门特别行政区</h3>
+                    <span>戏剧类型：</span>
+                    <p>澳门戏</p>
+                    <span>代表曲目：</span>
+                    <p>《十万图》、《三只小猪》、《黄金时代》</p>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+  <script src="js/lib/jquery-1.11.1.min.js"></script>
+  <script type="text/javascript" src="js/lib/raphael-min.js"></script>
+  <script type="text/javascript" src="js/lib/chinaMapConfig.js"></script>
+  <script type="text/javascript" src="js/map-min.js"></script>
+  <script type="text/javascript">
+    $(function() {
+      $('#ChinaMap').SVGMap({
+        mapWidth: 850,
+        mapHeight: 620,
+        strokeWidth: 1,
+        showTip: true,
+        stateInitColor: '',
+        stateHoverColor: 'e13d40',
+        stateDisabledColor: 'fff',
+        tipWidth: 200,
+        tipHeight: 40,
+        tipOuterH: 0,
+        tipOuterW: 0,
+      });
+
+    });
+  </script>
+</body>
+
+</html>
